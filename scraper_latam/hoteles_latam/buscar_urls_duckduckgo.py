@@ -4,7 +4,7 @@ from duckduckgo_search import DDGS
 from urllib.parse import urlparse
 
 # Cargar CSV original
-df = pd.read_csv("hoteles_para_duck.csv")
+df = pd.read_csv("scraper_latam/hoteles_latam/hoteles_para_duck.csv")
 
 # Filtrar solo hoteles sin URL principal
 df = df[df['url_principal'].isna()]
