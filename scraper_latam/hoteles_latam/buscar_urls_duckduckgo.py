@@ -21,6 +21,7 @@ for i in range(1, 11):
         df[col] = ""
     df[col] = df[col].astype(str)
 
+# Inicializar buscador
 ddgs = DDGS()
 
 def obtener_urls(query, max_urls=10):
@@ -46,11 +47,15 @@ for idx, row in df.iterrows():
     print(f"🔍 Procesando fila {idx}: {row['nombre']} ({row['ciudad']}, {row['pais']})")
     if pd.isna(row["url_principal"]):
         query = f"{row['nombre']}, {row['ciudad']}, {row['pais']}"
-        print(f"🔍 Buscando URLs para: {query}")
+        print(f"🔎 Buscando URLs para: {query}")
         urls = obtener_urls(query)
         for i, url in enumerate(urls):
             df.at[idx, f"url_{i+1}"] = url
         time.sleep(5)
+
+    if idx % 10 == 0:
+        df.to_csv("procesamiento_1_enriquecido.csv", index=False)
+        print(f"💾 Progreso guardado en fila {idx}")
 
     # Guardar progreso cada 10 filas
     if idx % 10 == 0:
