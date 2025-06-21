@@ -1,0 +1,478 @@
+id_hotel,nombre,url_principal,ciudad,pais,latitud,longitud
+259547888,Hotel El Viejo y el Mar,,Havana,Cuba,23.0923999,-82.4931337
+259548063,Hotel Copacabana,,,Cuba,23.1181598,-82.4339776
+259548078,Chateau Miramar,,,Cuba,23.1156596,-82.4372577
+259548084,Mirazul,,,Cuba,23.1170687,-82.4271993
+259548086,Bella Costa,,,Cuba,23.1212214,-82.4299365
+259548405,Hotel Bruzón,,,Cuba,23.1280733,-82.382443
+259548568,Habana Riviera by Iberostar,https://www.ibercuba.com/en/hotels/la-habana/habana-riviera-by-iberostar/,La Habana,Cuba,23.1396588,-82.404262
+343275442,Hotel del Tejadillo,,,Cuba,23.1417167,-82.3524295
+343277477,Hotel Los Frailes,https://www.gaviotahotels.com/en/hotels-in-cuba/havana/hotel-los-frailes,Habana Vieja,Cuba,23.1366038,-82.3491255
+409229963,Hotel Florida,https://www.gaviotahotels.com,Habana Vieja,Cuba,23.1390475,-82.352214
+422915206,Beltrán de Santa Cruz,,,Cuba,23.135201,-82.3500213
+422915221,Hotel Park View,,,Cuba,23.141355,-82.3580094
+482220139,Villa Marina,,,Cuba,21.62418,-81.566095
+503156613,Maguana,,,Cuba,20.4676599,-74.5865713
+503714364,Villa La Lupe,,,Cuba,20.1898643,-75.2306067
+529007435,Hotel Acuazul Varazul,,,Cuba,23.1370481,-81.2812063
+539235155,Hotel Barcelo Arenas Blancas,,,Cuba,23.1556782,-81.2461151
+539299073,Hotel Oasis,https://conocecuba.com/oasis,,Cuba,23.1313576,-81.3181345
+604116379,Hotel San Juan,https://cuba-junky.com/santiago-de-cuba/hotelsanjuan.htm,,Cuba,20.0214664,-75.7993315
+606367459,Iberostar Grand Trinidad,https://www.ibercuba.com/en/hotels/trinidad/iberostar-grand-trinidad/,Trinidad,Cuba,21.8007591,-79.9842605
+611660966,Villa Trópico,,,Cuba,20.0150757,-75.8099119
+611920833,Villa Gaviota Santiago,,,Cuba,20.0289217,-75.7978805
+612154611,Rancho Club,,,Cuba,20.0477401,-75.8141483
+613442764,Hotel Deportivo,https://conocecuba.com/motel-deportivo,,Cuba,20.0343018,-75.8105961
+700923995,El Cayuelo,,,Cuba,21.127751,-75.8189144
+717055051,Villa Guamá,,,Cuba,22.3437767,-81.1014193
+717403922,Hotel Starfish Cayo Guillermo,,,Cuba,22.5747612,-78.6419287
+717403929,Sol Cayo Guillermo,https://www.meliacuba.com/,,Cuba,22.5890914,-78.654022
+1025727232,Costa Morena,https://cuba-junky.com/santiago-de-cuba/hotel_islazul_costa_morena.html,,Cuba,19.887309,-75.5227569
+1025729306,Corales Carisol,,,Cuba,19.887297,-75.4810145
+1056882045,Hacienda El Caney,,,Cuba,20.0495207,-75.7768905
+1065865854,Hotel Cayo Levisa,https://cuba-junky.com/pinar-del-rio/hotel-cayo-levisa.htm,,Cuba,22.8844333,-83.5246503
+1069281598,Hotel Rancho Luna,,,Cuba,22.0356977,-80.4140694
+1137183810,Las Codornices,,,Cuba,21.8471606,-82.7797579
+1139860825,Club Amigo Tropical,,,Cuba,23.1411625,-81.2767849
+1139860845,Hotel Sol Sirenas Coral,https://www.melia.com/hotels/cuba/varadero/sol-sirenas-coral/home.htm,,Cuba,23.1615405,-81.2332363
+1139860851,Villa Cuba,,,Cuba,23.1600184,-81.2367293
+1139860867,Hotel Brisas del Caribe,,,Cuba,23.1842485,-81.1855553
+1139860892,Sol Palmeras,,,Cuba,23.1764399,-81.2017788
+1283037873,Hotel Sol Cayo Coco,https://www.meliacuba.com/,,Cuba,22.5357894,-78.3556155
+1293417445,Iberostar Origin Playa Alameda,https://www.ibercuba.com/en/hotels/varadero/iberostar-playa-alameda/,Varadero,Cuba,23.1996498,-81.1340893
+1328642433,Villa Don Lino,,,Cuba,21.0877008,-75.9954111
+1478011643,Gran Hotel,,,Cuba,21.3818689,-77.9173652
+1507712664,Meliá Las Dunas,https://www.meliacuba.com/,,Cuba,22.6583327,-79.0570682
+1529449221,Isla Azul,,,Cuba,21.3608382,-77.8847274
+1529605125,Hotel Colón,,,Cuba,21.3872455,-77.9164743
+1535612499,Hostal El Rijo,https://cuba-junky.com/sancti-spiritus/hoteldelrijo.htm,,Cuba,21.9260108,-79.4431972
+1672851208,Memories Paraiso Cayo Santa Maria,,,Cuba,22.6572094,-79.0310691
+1672851230,Grand Memories Cayo Santa Maria,,,Cuba,22.6572334,-79.0296855
+1675016387,Meliá La Unión,https://cuba-junky.com/cienfuegos/hotel-la-union.htm,,Cuba,22.1456593,-80.4514166
+1683732869,Villa Aguas Claras,,,Cuba,22.4721711,-83.686662
+1703494111,Villa Santo Domingo,,,Cuba,20.0430195,-76.9051055
+1711813649,Villa Guajimico,,,Cuba,21.9275897,-80.3094661
+1809166277,Hotel Niquero,http://www.islazul.cu/es/hotel/hotel-niquero,Niquero,Cuba,20.0489744,-77.5835459
+1828984044,Villa Maguana,,,Cuba,20.4657889,-74.5843045
+1997757878,Hotel El Castillo,https://conocecuba.com/hotel-el-castillo,,Cuba,20.3479188,-74.4987435
+2072359750,Hotel Canimao,,,Cuba,23.0341733,-81.4950103
+2116846707,Hotel La Habanera,https://cuba-junky.com/guantanamo/hotel_la_habanera.htm,Baracoa,Cuba,20.3483179,-74.4975284
+2116846708,Hotel Villa Managua,https://cuba-junky.com/guantanamo/hotel_maguana_baracoa.html,,Cuba,20.4332994,-74.564197
+2118449899,Hotel Finca Maria Dolores,https://cuba-junky.com/sancti-spiritus/hotelfincamariadolores.htm,Trinidad,Cuba,21.8074003,-80.0024847
+2118491929,Hotel Los Helechos,https://cuba-junky.com/sancti-spiritus/hotel_gaviota_los_helechos.html,,Cuba,21.9114657,-80.0192843
+2118562522,Hanabanilla,http://www.islazul.cu/es/hotel/hotel-hanabanilla,,Cuba,22.0892703,-80.0708502
+2121651311,Hotel Iberostar Ensenachos,,,Cuba,22.6433476,-79.0874882
+2121765680,Playa Cayo Santa Maria,https://www.tripadvisor.com/Hotel_Review-g670039-d2477611-Reviews-Hotel_Playa_Cayo_Santa_Maria-Cayo_Santa_Maria_Cuba.html,,Cuba,22.6573217,-79.0496967
+2121836052,Meliá Cayo Santa María,,,Cuba,22.6595673,-79.0635515
+2121836054,Sol Cayo Santa Maria,,,Cuba,22.662087,-79.0680854
+2122150898,,,,Cuba,22.6410873,-79.1067091
+2122654906,Iberostar Origin Daiquiri,https://www.ibercuba.com/en/hotels/cayo-guillermo/iberostar-daiquiri/,Ciego de Ávila,Cuba,22.5798703,-78.6470017
+2123416533,Hotel Blau Colonial Cayo Coco,https://cuba-junky.com/ciego-de-avila/hotelblaucolonialcayococo.htm,,Cuba,22.5446323,-78.3745582
+2158038750,Kurhotel Escambray,,,Cuba,21.9167493,-80.0194487
+2178641217,Villa Trópico,,,Cuba,23.1486088,-81.8207228
+2192692185,Hotel Cadillac,,,Cuba,20.9563815,-76.9539134
+2201698277,Costa del Sol,,,Cuba,21.796482,-80.0363582
+2287308227,Hotel Santa Isabel,https://www.gaviotahotels.com/,,Cuba,23.14024,-82.3488354
+2293007854,Guantánamo,http://www.hotelguantanamo.com,,Cuba,20.1589085,-75.2113196
+2304489333,Hotel Dos Mares,,Varadero,Cuba,23.1519006,-81.254959
+2305508748,Ledo,,,Cuba,23.1493891,-81.262232
+2424441759,Hotel Meliá Las Américas Solo Adultos,http://www.melia-lasamericas.com,,Cuba,23.1729594,-81.2135217
+2429275736,Hotel Santiago,,,Cuba,20.9570128,-76.9531134
+2586835895,Birret,https://conocecuba.com/hotel-bitter,,Cuba,20.0304062,-75.8071342
+2643935465,Hotelito,,,Cuba,21.8854071,-78.6925093
+2892713859,Hotel Venus,,,Cuba,20.3470488,-77.1207536
+2923437074,Hotel Meliá Península Varadero,https://www.meliacuba.com/,,Cuba,23.1988453,-81.1378327
+2970785690,Horizontes Playa Larga Hotel Mantazas,,,Cuba,22.2812141,-81.1973827
+3019415727,Iberostar Mojito,,,Cuba,22.5351085,-78.3643868
+3091269435,Villa Caburní,,,Cuba,21.919614,-80.0170714
+3091269436,Los Pinos,,,Cuba,21.9121449,-80.0176109
+3104756766,Villa La Punta,,,Cuba,19.9442762,-75.6364832
+3182598956,Casa Manuel,,,Cuba,21.7998867,-79.9835951
+3182599296,Casa Colongitudeial 265,,,Cuba,21.8004029,-79.9826489
+3182623329,Casa Norma,,,Cuba,22.1394248,-80.4488086
+3182627860,Ana y Carlos,,,Cuba,22.0722123,-81.0321669
+3189640908,Doña Hilda,,,Cuba,22.6123535,-83.712772
+3195658173,Don Florencio,,,Cuba,21.9254612,-79.4417378
+3195658180,El Colonial,,,Cuba,21.9280713,-79.4437843
+3245991162,Hotel Sevilla,https://hotelsevillahabana.com-hotel.com/,La Habana,Cuba,23.140566,-82.358187
+3248973311,Hostal Moya,https://www.tripadvisor.de/Hotel_Review-g2053537-d4893841-Reviews-Hostal_Moya-Playa_Giron_Matanzas_Province_Cuba.html,Playa Giron,Cuba,22.0693772,-81.0287492
+3248983092,Casa Leon Leon,,Vinales,Cuba,22.6133427,-83.7081495
+3269828415,Hotetur Sunbeach,,,Cuba,23.1381431,-81.2792842
+3348068834,Mirador de San Diego,,,Cuba,22.6466802,-83.3723255
+3356854867,Hotel El Marqués,,,Cuba,21.3799725,-77.9190667
+3356854874,Hotel E. Camino de Hierro,,Camagüey,Cuba,21.3821954,-77.9165959
+3394536309,Caonao,,,Cuba,21.3995913,-77.8918209
+3410407468,Hotel Palma,,Palma Soriano,Cuba,20.2131228,-75.9975493
+3412027730,Hotel Sol del Cauto,,Palma Soriano,Cuba,20.207323,-75.9909139
+3445967380,Hotel Isla de Cuba,,,Cuba,21.3844531,-77.9169468
+3445967382,Hotel América,,,Cuba,21.3866117,-77.915376
+3446068716,Villas Paraiso,,,Cuba,23.0842212,-82.5027876
+3451713873,Hotel La Ronda,,,Cuba,21.801235,-79.9847172
+3468162192,Villa Las Brujas,,,Cuba,22.6261328,-79.1730426
+3469574428,Hotel Iberostar Playa Pilar,,,Cuba,22.6110873,-78.6843839
+3512826797,Meliá Jardines del Rey,,,Cuba,22.5430979,-78.4262751
+3515953118,,,,Cuba,22.6446532,-83.3715232
+3515953144,Saratoga,,,Cuba,22.6456351,-83.3719277
+3577421731,Hotel campoamor,,,Cuba,22.8123592,-82.7634089
+3688103046,Hacienda El Indio,,,Cuba,19.9253996,-75.6283138
+3692183626,Hotel Pasaje,,,Cuba,21.7410441,-79.462885
+3762089382,Hotel Puerto Príncipe,http://www.islazul.cu/en/hotel/hotel-puerto-principe,Camagüey,Cuba,21.3912406,-77.9165722
+3771156067,Ivette y Ronel,,,Cuba,22.0726231,-81.0343621
+3771156070,Casa Jose y Lucy,,,Cuba,22.0707915,-81.0262728
+3814809846,Hotel Meliá Marina Varadero,https://www.meliacuba.com/,Varadero,Cuba,23.1951816,-81.1294932
+3937014347,Hotel Meso del Regidor,,Trinidad,Cuba,21.8047393,-79.9850539
+3978928195,Family Junior Suite Room,,,Cuba,23.1984592,-81.1391858
+3992982231,Caribbean,,,Cuba,23.1417338,-82.3590364
+4070183797,Hotel Brasil,,Guantánamo,Cuba,20.1425236,-75.202954
+4070203126,Libertad,,,Cuba,20.0215795,-75.8218054
+4164172191,Referencia Bella Perla Marina,,,Cuba,22.1406451,-80.4473413
+4164191590,Hostal Cesar e Irelia,,,Cuba,21.8013419,-79.9871323
+4177089091,Oasis,,,Cuba,22.0148247,-78.7053894
+4182428510,Hostal Zamora,,,Cuba,21.8003601,-79.9866558
+4293609593,Casa Gregorio,,,Cuba,22.5694585,-78.6436376
+4320832890,Casa Marilú y Nelson,https://mariluynelson.zohosites.com/,Trinidad,Cuba,21.8033688,-79.9872819
+4341065520,Hotel Santiago,,,Cuba,20.8883039,-76.2606119
+4370967301,Hostal B&B Hermes,,,Cuba,22.4135261,-83.6906494
+4377809495,Hotel Blau Cayo Libertad,,,Cuba,23.186773,-81.1210725
+4377856491,Hotel Caleta ( FAR ),,,Cuba,23.1404455,-81.2779238
+4377859189,Hotel del MININT,,,Cuba,23.114331,-81.3677559
+4377860596,Hotel Turquino,,,Cuba,23.1439037,-81.2675115
+4378196894,Hotel Starfish Cuatro Palmas,,,Cuba,23.1545858,-81.2492648
+4385401593,Casa de Oficiales Cavarroca,,,Cuba,23.043086,-81.5170336
+4385444200,Villa El Corsario,,,Cuba,22.2471113,-81.1578314
+4404222095,La Casona 254,,,Cuba,21.8002649,-79.9842906
+4408091889,Hotel Pullman,,,Cuba,23.1509338,-81.2567579
+4425964891,Justo a la Medida,,,Cuba,23.055497,-81.5718821
+4478351490,casilda,,,Cuba,21.7593489,-79.989332
+4479964389,Casa Marlen,,,Cuba,22.1404539,-80.4473815
+4503493289,Hostal Pablo,,,Cuba,21.8038538,-79.9841291
+4507644945,Hotel Colón,,,Cuba,22.1943578,-78.9116013
+4547056789,Hostal Raúl y Olga,http://www.hostalraulyolga.com,,Cuba,23.1464556,-82.303423
+4548745743,Hotel Colombia,,Colombia,Cuba,20.9853564,-77.4253231
+4589598094,Villa Artística (Sistema de Alojamiento),,,Cuba,23.1170275,-81.2879783
+4599075489,Havana Oceanfront Condo,https://www.havanaoceanfrontcondo.com/,,Cuba,23.1275619,-82.422078
+4600542789,Palacete del Vedado,https://www.palacetedelvedado.com/,Vedado,Cuba,23.1401847,-82.3965598
+4608714005,Casa Loyda,,Cienfuegos,Cuba,22.1304102,-80.4510816
+4618120504,Hotel Mar del Sur,,,Cuba,23.1438359,-81.2686345
+4636046491,Gali's place,,,Cuba,22.115925,-78.6237029
+4642553681,Chez Nous,,Habana Vieja,Cuba,23.1362616,-82.3508945
+4666511789,Mhai yoga,,,Cuba,23.178361,-82.2018392
+4678897693,Hotel Saratoga,,,Cuba,20.8860801,-76.2594404
+4686523293,Casa de Ivan y Yara,,,Cuba,23.1454864,-82.3062033
+4700332189,Casa Maikel,,,Cuba,22.1295618,-80.4483093
+4703716896,Hotel Turquino,,,Cuba,20.8883038,-76.2549926
+4706355042,La Colonial 1861,,,Cuba,23.1357769,-82.4058944
+4707742792,Villa Riri,,,Cuba,23.1113299,-82.4102858
+4712955190,El Colonial,,,Cuba,21.3827137,-77.9168736
+4714392307,Villa Arenas,,Holguìn,Cuba,20.881563,-76.2560896
+4727000400,CTC,,,Cuba,23.1392721,-82.3649741
+4728815202,Copihue,http://www.hostalcopihue.cu,,Cuba,23.11198,-82.4160336
+4733166131,Hotel Camino del Principe,,,Cuba,22.495183,-79.5445103
+4734585321,Casa Doña Rosa,,,Cuba,22.7732202,-82.9971247
+4737091321,Hostal Villa Dalia,,,Cuba,21.7624946,-79.9901028
+4738085322,Villa Trinidad de Cuba,,,Cuba,21.8033957,-79.9866649
+4745017023,La Casona,,,Cuba,23.0714433,-82.4557933
+4769365321,Casa de Oswaldo & Odalis,,,Cuba,22.1380766,-80.4454677
+4789232831,Casa central MININT,,,Cuba,20.9531786,-76.2711687
+4791806022,Apartamento Almendares,,La Habana,Cuba,23.1129986,-82.4084529
+4794166924,Hotel Real,,Remedios,Cuba,22.4960038,-79.5448327
+4794184424,La Casona (Flora y Fauna + Avalon),,,Cuba,21.8219995,-77.9565887
+4798578222,Casa marilyn calle 1era,,,Cuba,22.6183627,-83.7079233
+4799049413,Casa Jorge,,"Vedado, Havanna",Cuba,23.1396402,-82.3791714
+4809779325,,,,Cuba,23.1374885,-82.3809221
+4816487525,Casa Amelia,,,Cuba,22.1482911,-80.4500108
+4819075322,Hostal sueños,,,Cuba,23.0451696,-81.5794924
+4823732324,Finca Luna,http://www.fincaluna.com,,Cuba,22.8166662,-81.2002376
+4828118750,,,,Cuba,23.1363396,-82.3798
+4831642744,Casa Janet,,,Cuba,23.087113,-82.3773969
+4851538821,Yami y yukio,,,Cuba,22.1443935,-80.442545
+4851538822,Hostal José,,,Cuba,21.793827,-79.9856528
+4883810841,El Ligerito,,Habana Vieja,Cuba,23.1377088,-82.3570864
+4902418031,Ocean Casa de Mar,,,Cuba,22.6624303,-78.9910222
+4942164821,Ecléctico,,,Cuba,23.1367149,-82.3995649
+4955828721,Homestay Paraíso del Este Cuba,http://www.paraisodelestecuba.com,,Cuba,23.1453416,-82.3069396
+4962934322,Hotel del MININT,,,Cuba,23.0444447,-81.4983722
+4971845824,Alojamiento Cortijo Habana,,,Cuba,23.0917779,-82.3836438
+4986870721,Suite Florencia B&B,http://www.suiteflorencia.com,,Cuba,22.4046097,-79.9643981
+4988926724,Hotel Majestic,,,Cuba,20.887007,-76.2605068
+4995658726,Hotel La Avellaneda,,,Cuba,21.3818784,-77.9164236
+5035128821,Club Meliá Cuba Apartments,,,Cuba,23.1939209,-81.1301674
+5035954921,Meliá Marina Apartments Hotel,,,Cuba,23.1932618,-81.1256053
+5045478121,Villa Azucarera,,,Cuba,21.3663769,-77.8913647
+5051341523,Hotel Meliá Cayo Coco,http://www.melia-cayococo.com,,Cuba,22.5355509,-78.3537312
+5072500141,Casa Cristal,,,Cuba,22.6144834,-83.7100868
+5096826521,,,,Cuba,22.1420824,-80.4454101
+5112269323,Villa Aracelys y Papo,,,Cuba,22.6149769,-83.7081296
+5135489625,El Chef hostal,,,Cuba,21.8008424,-79.986116
+5135508621,El Almaguer,,,Cuba,22.1395002,-80.4464758
+5148485521,Hostal Vivian Rivero,,,Cuba,22.4089776,-79.9640286
+5170704924,,,,Cuba,23.1317339,-82.4127429
+5172106622,Casa familia Leo,,,Cuba,22.1408743,-80.4467628
+5173983982,Balcón del Beny,,Cienfuegos,Cuba,22.1445571,-80.4481844
+5176617921,Hostal Pedro,https://hostalpedro.jimdo.com/,,Cuba,23.038242,-81.5255259
+5195159522,Vía Blanca,,,Cuba,23.169975,-82.1352911
+5198437022,Las Brisas,,,Cuba,23.1594546,-82.3066294
+5198437023,Costa Mar,,,Cuba,23.1596154,-82.3073018
+5199193546,Villa Robert & Milagros,,,Cuba,20.8819298,-76.2571653
+5199224448,Villa Tania,,Holguín,Cuba,20.8819609,-76.2564091
+5216826597,Casa Vega,,,Cuba,21.3828003,-77.9216129
+5217491867,Hostal Estela de Paula,,,Cuba,21.8032188,-79.9827271
+5218740921,Casa León Y Betty Varadero,,,Cuba,23.142097,-81.271753
+5220770530,Hotel 90 Nicaro,,,Cuba,20.7000401,-75.5474297
+5233654044,Hotel ANAP,,La Lisa,Cuba,23.0461446,-82.4727915
+5233655921,Parque fe la 5ta,,,Cuba,23.1222574,-82.4232835
+5244686621,iHouse Garden Havana,https://www.airbnb.es/rooms/1591533,,Cuba,23.1435992,-82.3911012
+5245559823,,,,Cuba,22.1480485,-80.4436823
+5245559824,hostal Noly y Yeny,,,Cuba,22.2820816,-81.2117687
+5262823622,Hostal El Mirador,http://www.hostelsclub.com/hostel-es-33875.html,,Cuba,22.1457208,-80.4480776
+5286590821,Hostal El Gustazo,,,Cuba,22.0492654,-79.4630263
+5314873721,Hotel Campana,,,Cuba,21.1979501,-76.5998796
+5317126022,La Gran Vía,,,Cuba,23.1692533,-82.1468993
+5333579221,Hotel Miramar,,,Cuba,23.1671645,-82.1393498
+5337361536,Piscina Hotel Costa Blanca,,,Cuba,21.5463447,-77.034944
+5337363725,Villa Santa Maria,,Playa Santa Lucía,Cuba,21.5531113,-77.0395689
+5337365030,Alojamiento Turismo Nacional,,,Cuba,21.5503167,-77.0386488
+5344063921,Casa Mia Belkys y Ernesto,,,Cuba,21.7971009,-79.9849506
+5351447424,Plaza,,,Cuba,22.3258026,-79.2363308
+5364859621,Casa Yadira y Eridel,,,Cuba,23.1392414,-82.4002064
+5381067122,Start Fish,,,Cuba,22.6577669,-79.0419628
+5398823122,,,,Cuba,23.1473815,-82.3066
+5403114724,Villa Jonica,,,Cuba,23.1379477,-82.3639408
+5404731324,Hotel La Palma,,,Cuba,22.7478949,-83.5547322
+5411123709,Villa San José del Lago,,Mayajigua,Cuba,22.2294306,-79.071507
+5429681522,HAVANA VIDA,https://es.airbnb.com/rooms/19048080,,Cuba,23.1387977,-82.3560687
+5473632921,Boutique 5ta y 8 Vedado,,,Cuba,23.1360743,-82.4048537
+5497749521,Hotel Rio Miel,,,Cuba,20.348129,-74.4952241
+5501816065,Casa Barby y Arturo,,,Cuba,22.2852001,-81.2096024
+5512734922,Valle del Cauto,,,Cuba,20.3670589,-76.6382548
+5520061525,Lavandero 10 Rosa Haza,,,Cuba,23.1403727,-82.3746229
+5521254421,Casa Martin,,"Caletón, Playa Larga",Cuba,22.2824634,-81.2107789
+5523136729,Finca la Guabina,,,Cuba,22.4643901,-83.745512
+5534359540,Suzel y Juan,,La Habana,Cuba,23.1291798,-82.3908065
+5538739622,Casa Santa Helena,,,Cuba,21.759754,-79.9903208
+5545548022,Hotelito Babalu,https://www.hotelitobabalu.com/,,Cuba,23.0366067,-81.5449119
+5550528121,Doña Antonia,,,Cuba,21.8032712,-79.9868361
+5559695325,Casa Rolando,,,Cuba,23.1420305,-82.3541176
+5581614721,Hostal Llora Lluvia,,,Cuba,21.799124,-79.9824946
+5584637921,El Paseo Penthouse,https://www.elpaseopenthouse.com/,,Cuba,23.1352964,-82.3974954
+5585370263,La Puerta de Obispo,https://www.lapuertadeobispo.com/,La Habana Vieja,Cuba,23.1384388,-82.3540399
+5599487521,Casa La niña y Manolito,,,Cuba,22.2800803,-81.213685
+5601100923,Casa Martin,,,Cuba,22.2824653,-81.2109111
+5602519895,Hostal Nuris,,Sancti Spiritus,Cuba,21.9288218,-79.4437336
+5614342825,Hotel Don José,,,Cuba,20.8853974,-76.2594833
+5631124022,"Casa ""La Muralla 358""",,,Cuba,23.1347592,-82.3535092
+5631128221,Casa Manzaneda,,,Cuba,23.0472515,-81.5810982
+5631128321,Appart,,,Cuba,23.1362549,-82.3555318
+5638732021,Hotel Victoria NH Collection,,,Cuba,23.1419088,-82.384218
+5650004819,"Hotel ""Palacio Arenas""",,,Cuba,22.8064711,-80.0703311
+5650006253,Gran Hotel Sagua,,,Cuba,22.8052291,-80.0719842
+5729334309,Hospedaria do Carmo,,,Cuba,38.1655646,-7.8944003
+5734059262,Hotel Telégrafo,,,Cuba,22.8059927,-80.0732446
+5749978167,El Ranchito Los Lima,,Santa Marta,Cuba,23.1236477,-81.2926356
+5780399254,The Collection by Pullman,,,Cuba,22.5341442,-78.3499293
+5784460153,Motel La Arboleda,,,Cuba,22.1605425,-80.4226027
+5789057653,Hostal Auténtica Perla,,,Cuba,22.1451765,-80.4444977
+5790080153,Hostal Yamile Alejo,,,Cuba,21.7996699,-79.982803
+5830663585,,,,Cuba,22.145708,-80.4382872
+5838481530,"Villa ""La Amistad""",https://www.facebook.com/casalaamista/,Bayamo,Cuba,20.3770202,-76.6485203
+5842502276,Punta Gorda,,,Cuba,19.9841408,-75.8717939
+5846949685,,,,Cuba,21.3806383,-77.915522
+5849420085,Hostal Dami&Lazaro,https://m.facebook.com/Casa-de-alquiler-en-La-Habana-549786402058754/,,Cuba,23.1382115,-82.3741044
+5909875186,Hostal Bertica & Noel,,,Cuba,22.2798769,-81.2139395
+5927156485,Grand Muthu Cayo Guillermo,,,Cuba,22.6034711,-78.6696377
+5934503787,Hotel Rancho del Tesoro,,,Cuba,21.8669277,-82.7999947
+5954935485,,,,Cuba,21.7349508,-79.9991905
+5983595886,El Comienzo,,,Cuba,21.7977638,-79.9848745
+6011384185,Edificio 6 Hotel Playa,,,Cuba,22.6590988,-79.0480249
+6040817264,Villa Ecologica Carpediem,,,Cuba,22.9973781,-82.4860098
+6061541762,Hotel Boutique Vapor 156,https://vapor156.com/,"Plaza,La Habana",Cuba,23.1400162,-82.3775234
+6063621594,Villa Coral,,,Cuba,20.6496843,-74.9150017
+6066643685,Lucia Altieri,,,Cuba,23.0823683,-82.4682885
+6074311086,Iberostar Origin Playa Pilar,https://www.ibercuba.com/en/hotels/cayo-guillermo/iberostar-playa-pilar/,Playa Pilar,Cuba,22.6112989,-78.683695
+6074322986,Iberostar Playa Pilar,,,Cuba,22.6114857,-78.6839444
+6083008785,Hostal San Severino,,,Cuba,23.0448023,-81.5803135
+6083009086,Hostal Ave Fenix,,,Cuba,23.125465,-81.2886678
+6088497485,Arguelles 4111,,,Cuba,22.1439701,-80.4461255
+6100953785,Hostal El Parque,,,Cuba,21.9277147,-79.4435979
+6117420885,La Perla del Centro,,Sancti Spiritus,Cuba,21.9271644,-79.4439172
+6121344487,Hostal Bernabe la Negra,,,Cuba,21.8034865,-79.9790707
+6123792886,Villa Artística,https://conocecuba.com/villa-artistica,,Cuba,23.1228584,-81.2893071
+6128899996,Estancia en Cuba,,La Habana,Cuba,23.1041215,-82.3761193
+6146479261,Casa Aldo,,,Cuba,22.6147552,-83.708497
+6146479549,Hotel Victoria,,,Cuba,20.5839666,-75.2382743
+6172652585,Posibil cazare,,,Cuba,23.1309811,-82.3967384
+6172718585,Hostal Bahía Bianca,,,Cuba,22.1361012,-80.4472295
+6181729085,Hostel Encarnación 60,,,Cuba,21.8075573,-79.9855472
+6181785285,Hostal Juan Luis & Teresita,,,Cuba,22.1420763,-80.4453194
+6183837828,,,,Cuba,19.8918262,-75.568559
+6191194085,Hotel Bauza,,,Cuba,22.4949421,-79.5444972
+6205293388,,,,Cuba,23.1363715,-82.3643524
+6205293389,Bella Trinidad,,,Cuba,21.7995576,-79.9852668
+6205656987,Casa Olivalle,,,Cuba,21.7973937,-79.9856339
+6221905685,Tanya y Nicolas,,,Cuba,23.139785,-82.3996027
+6241903086,Arias 260,,Holguin,Cuba,20.8876912,-76.2632175
+6258144685,Ocean Arena Blanca,,,Cuba,22.2376087,-77.8181247
+6276731786,,,,Cuba,23.1338367,-82.3479731
+6276731787,,,,Cuba,23.1339163,-82.347941
+6304371387,,,,Cuba,23.1339709,-82.3481451
+6311922985,HostalAnita,,,Cuba,22.1454296,-80.4448757
+6312837385,Villa la Roca,http://www.larocaholguinera.com,,Cuba,20.9099576,-76.2588377
+6328344285,Animas 303 Havana,https://animas303.staydirectly.com/,,Cuba,23.1399859,-82.362288
+6328743385,Yvan y Lili,,,Cuba,22.1458795,-80.4433678
+6328743386,Casa Laira,,,Cuba,21.8009752,-79.9821659
+6328743387,Casa Ines,,,Cuba,22.6121344,-83.7050539
+6333370085,Juana y Yuri,,,Cuba,21.8068682,-79.9879645
+6374395490,Villa La Loma,,,Cuba,23.0898881,-82.3673538
+6374425885,NG Art Boutique Hotel,,,Cuba,23.1312024,-82.3913336
+6395072629,Santiago - Habana,,,Cuba,22.7168818,-80.9067986
+6395072636,Gran Hotel Caridad,,,Cuba,22.7156807,-80.9039854
+6418326185,Recepcion Motel Costa Blanca,,,Cuba,21.5467571,-77.034558
+6458944187,Hotel Bousá,,,Cuba,22.4947652,-79.5444441
+6480720675,Sanctuary at Grand Memories,,,Cuba,22.658959,-79.026956
+6482468387,La perla,,,Cuba,22.1486704,-80.448752
+6483408585,Casa China & Fife,http://www.casachinayfife.com,,Cuba,22.2842295,-81.2066788
+6502595287,Hotel Ana Madelaine,,,Cuba,23.1120125,-82.4274719
+6541855887,El sueño de ruso,,,Cuba,23.1882304,-81.1199985
+6542036485,Bonaventura-Reyes,http://www.htpp/rentasholguincuba.com,,Cuba,20.8790443,-76.2534237
+6581150386,Hotel Cuba,,,Cuba,23.1310314,-82.3536394
+6593400153,Palacio de Valle,,,Cuba,22.1214672,-80.4515258
+6620814185,Casa Malecón Colonial,,Centro Habana,Cuba,23.1417094,-82.3662636
+6646708785,E. Casa Bauza,,,Cuba,22.4949979,-79.5444741
+6658633987,E. Leyendas,,,Cuba,22.4946867,-79.5460334
+6743220894,Casa Morejon,,Cienfuegos,Cuba,22.1429016,-80.445213
+6841089689,Casa Mercedes,,,Cuba,23.1408445,-82.3606164
+6842484785,Sol y Compostela,,,Cuba,23.133943,-82.3531378
+6848045007,Apart-Hotel Amigos del Cubanito,,Cienfuegos,Cuba,22.1505508,-80.4465256
+6893327692,Habana 612,,,Cuba,23.135584,-82.352495
+6902570386,Hostal Bohemia Havana,,,Cuba,23.1359347,-82.3624035
+6914471686,Hostal de Meibys,,,Cuba,23.1377993,-82.386021
+6960434185,Morro 52,,la Habana,Cuba,23.1430139,-82.3576275
+6960457990,El Dorado,,,Cuba,23.1693342,-82.1595886
+6965585385,Aima Casa,,,Cuba,20.9587125,-76.9569632
+6967794304,Hostales Yaneva - Casa Jenny,,Camagüey,Cuba,21.3716886,-77.9159213
+6990036586,La Casona,,,Cuba,22.3172951,-79.6555525
+6997858985,Presidential Paradise,,,Cuba,23.1428333,-82.3935097
+7008090060,Iberostar Selection Holguín,https://www.ibercuba.com/en/hotels/holguin/iberostar-holguin/,Holguín,Cuba,21.0961619,-75.9435934
+7014108085,Hotel Faro de Maisí,,,Cuba,20.1745476,-74.2331514
+7029907085,casa Miriam y Luisa,,,Cuba,22.6246131,-83.7062923
+7030345692,Hotel San Juan De Dios,,,Cuba,21.3759535,-77.9173113
+7065355386,El Balcón de Liberty,,,Cuba,23.1460784,-81.2692065
+7076954085,Cayo Guillermo Resort Kempinski,,,Cuba,22.610368,-78.7056494
+7085260229,Hotel La Popa,,,Cuba,21.807377,-79.9815145
+7149557386,Hotel Bamboo,,,Cuba,21.8766835,-82.8002522
+7166955185,Sol Varadero,,,Cuba,23.1635727,-81.230014
+7169903586,Sol Varadero Beach 4,https://www.meliacuba.com/cuba-hotels/hotel-sol-varaderobeach,,Cuba,23.1636764,-81.2307091
+7175402085,The Havana White House,https://es.airbnb.com/rooms/29955873,,Cuba,23.1414218,-82.3552318
+7179781186,Hostal Buena Vista,,,Cuba,21.8319469,-79.883819
+7191887186,Hôtel Frato,,,Cuba,23.036172,-81.5832571
+7200783452,Bayamo,,,Cuba,20.0225793,-75.8225914
+7201057294,Rex,,,Cuba,20.0228863,-75.8214934
+7203816499,El Cobre,,,Cuba,20.047191,-75.949766
+7203866328,Los Peregrinos,,,Cuba,20.0579994,-75.9371062
+7263433797,Iberostar Coral Ensenachos,https://www.ibercuba.com/en/hotels/cayo-los-ensenachos/iberostar-ensenachos-grand-village/,Villa Clara,Cuba,22.6410422,-79.1087539
+7263433987,Iberostar Selection Ensenachos,https://www.iberostar.com/hoteles/cayo-ensenachos/iberostar-ensenachos/,,Cuba,22.6433567,-79.0874836
+7292798885,Villa Motel Rogelio,,,Cuba,22.0805805,-84.202178
+7306481886,La Estrella,,,Cuba,22.6572585,-79.0303746
+7330153185,Mercy & Robert,,,Cuba,23.1477684,-81.2627248
+7365688385,HoteLider,https://www.hotelider.com/,,Cuba,23.1413717,-82.3654863
+7396288275,,,,Cuba,21.3670412,-77.8723765
+7404957585,Hostal Boulevard,,,Cuba,21.9267518,-79.4424758
+7447266485,Lagunas del Mar,,,Cuba,22.6615154,-79.0004562
+7578175985,,,,Cuba,23.1763153,-81.2040903
+7598848462,Esmeralda,,Holguin,Cuba,20.889129,-76.2608702
+7644389884,Las Américas,,,Cuba,21.159455,-76.4730863
+7666561685,Gran Muthu Rainbow Cayo Guillermo,,,Cuba,22.6044877,-78.6713726
+7666680185,Valentín Cayo Cruz,,,Cuba,22.2378026,-77.8174049
+7686279967,Villa Balcón de Guacanayabo,,,Cuba,20.3314446,-77.1295683
+7728337285,Balcon del Caribe,,,Cuba,19.9667551,-75.8646575
+7858667385,Casa del cosmonauta,,,Cuba,23.1642288,-81.2323726
+8015141888,Mystique Regis Habana,https://www.mystiqueresorts.com/es/resorts/habana,,Cuba,23.141652,-82.3583413
+8015150685,Terminal de cruceros y Hotel Aduana (en construcción),,,Cuba,23.1365748,-82.3474641
+8026019285,Los Delfines,,,Cuba,23.1478195,-81.2653043
+8084974320,Camagüey,,,Cuba,21.3620803,-77.8849876
+8084974418,Brisas del Mar,,,Cuba,20.3525285,-74.4994024
+8155851417,Acazul,http://conocecuba.com/acazul,,Cuba,23.1370996,-81.2813547
+8155867520,Hotetur Sun Beach,,,Cuba,23.138579,-81.2796487
+8159058217,Barceló Marina Palace,,,Cuba,23.1959783,-81.1253247
+8168005967,Villa Arboleda,,,Cuba,22.7927592,-83.0120913
+8255155918,Casa Fuster,,Camaguey,Cuba,21.3850543,-77.9186658
+8265965118,"casa Arturo Fontes ""El Musico""",,,Cuba,21.3667556,-77.9015685
+8289762231,Hotel,,,Cuba,20.0512765,-75.9443702
+8297049118,villa Liba,,,Cuba,20.8939728,-76.263318
+8342802917,Paradise House,,,Cuba,21.2759745,-76.4378709
+8361334920,Las Tutys,,,Cuba,23.0967103,-82.3302257
+8387890317,finca ecologica Santa Isabel,,,Cuba,23.1320632,-81.6676321
+8400722318,Hotel siboney,,,Cuba,21.4026944,-77.9433054
+8494169117,Blue Sky,,,Cuba,20.8841512,-76.2361691
+8641658419,Caribeño,,,Cuba,20.2992436,-76.2439682
+8701962519,Sol Encanto,,,Cuba,22.4176892,-83.689093
+8807196432,Catedral,,,Cuba,23.141152,-82.351106
+8830740724,Hotel Itabo,,,Cuba,21.7128862,-78.6247596
+8958641917,El Isleño,,,Cuba,23.1105886,-81.3658898
+9105197570,Hotel Baracoa,,,Cuba,23.053529,-82.551472
+9163622652,,,,Cuba,22.5396987,-81.1186051
+9360087823,Hotel 1era y B ( En construcción),,,Cuba,23.1418724,-82.4001734
+9502893508,Hostal Puerto Casilda,,Casilda Trinidad,Cuba,21.7624206,-79.9900925
+9556836471,Mar Paraíso,https://www.facebook.com/HMarparaiso/,,Cuba,19.9854375,-75.8745868
+9569833119,Hotelera Minfar,,,Cuba,23.0961467,-82.4335631
+9609225740,Casa Prima,https://www.ecocasaprima.com,El Rosario,Cuba,22.7612584,-83.6958942
+9613982767,Al sol,,Habana Vieja,Cuba,23.1341775,-82.3520411
+9696521817,NOA art studio & hostal,,,Cuba,23.1370445,-82.3797147
+9795084793,Hotelito de la UCI,,,Cuba,22.9835861,-82.4643344
+9854520826,Hotel Medvédev,,,Cuba,23.1375689,-82.3580072
+9862518417,Voya Boutique hotel,,,Cuba,23.0959584,-82.3747105
+9923389140,Hotel Kawama,,,Cuba,23.1339426,-81.2923368
+9936089817,Grand Muthu Imperial Cayó Guillermo,,,Cuba,22.5981788,-78.6619199
+9937203417,Hotel Boutique Apodaca 12,,,Cuba,21.3801342,-77.9173709
+9960195817,Hotel Colón,,,Cuba,22.1943911,-78.9115596
+9983612217,Claxon Hotel Boutique,https://claxonhotel.com/,La Habana,Cuba,23.1323745,-82.3957607
+10067418117,,,,Cuba,22.3614956,-83.6777504
+10186141084,Villa Sabinal (El CECE),,,Cuba,21.5457301,-77.2721525
+10267044877,Iberostar Coral Holguín,https://www.ibercuba.com/en/hotels/holguin/coral-level-at-iberostar-selection-holguin/,Playa Pesquero,Cuba,21.0945067,-75.9421741
+10542236009,Hostal La Pianista,,,Cuba,21.7977104,-79.9754142
+10697056106,4 Rooftop at the Downtown,,,Cuba,23.1325617,-82.3732846
+10697056205,Casa Lili y Dani,,,Cuba,23.1275838,-82.3707836
+10713372005,,,,Cuba,23.1383195,-82.3664722
+10811164005,,,,Cuba,20.8889168,-76.2348702
+10946181405,,,,Cuba,22.7743428,-82.9973715
+11122077305,Cayo Santa Maria,,,Cuba,22.6625895,-78.973817
+11134126906,Dock3,,,Cuba,22.5331393,-78.3528918
+11134126908,Dock4,,,Cuba,22.5332008,-78.3521985
+11134142605,Dock2,,,Cuba,22.5339882,-78.3528754
+11134142705,Dock1,,,Cuba,22.5344745,-78.3541406
+11134143005,Dock5,,,Cuba,22.5333866,-78.3516266
+11159846275,Hotel Gran Muthu Habana,https://www.muthuhotelsmgm.com/es/gran-muthu-habana,La Habana,Cuba,23.1133803,-82.4380884
+11160367410,Hotel Saint Johns,,,Cuba,23.1411432,-82.380691
+11162723319,,,,Cuba,23.1310015,-81.3091738
+11162723324,,,,Cuba,23.1312888,-81.3068338
+11162723850,Selectum Family Resort Varadero,https://familyresortvaradero.selectumhotels.com/,Varadero,Cuba,23.1301776,-81.3130733
+11162723851,Grand Aston Varadero Beach Resort,https://www.astonhotelsinternational.com/en/hotel/view/85/grand-aston-varadero-beach-resort,Varadero,Cuba,23.130036,-81.3155873
+11165290535,Hotel Caracolillo,,,Cuba,20.2199644,-74.8079595
+11220847337,Selectum Family Resort Varadero,,,Cuba,23.1305324,-81.3121928
+11237224137,Grand Aston Varadero,,,Cuba,23.1303473,-81.3157958
+11341547869,Hotel FMC,,,Cuba,23.1306106,-82.3941131
+11376212670,Grupo Empresarial Hotelero Gran Caribe,http://www.grancaribehotels.com,,Cuba,23.1136726,-82.4293174
+11388037470,Elvira mi amor,,,Cuba,23.1341165,-82.3529926
+11392419269,Elvira mi amor,,,Cuba,23.1341335,-82.3529758
+11433215569,Casa Maite y Humberto,,,Cuba,23.1324182,-82.3742592
+11620303069,,,,Cuba,23.1302673,-81.307911
+11620303169,,,,Cuba,23.131513,-81.3080883
+11691045869,Playa Caleta,,,Cuba,23.1317546,-81.3068485
+11691045969,,,,Cuba,23.1330674,-81.3024924
+11720976369,,,,Cuba,23.1238152,-82.4133459
+11720976469,,,,Cuba,23.1411406,-82.3945508
+11737249669,Águila 211 Hotel,https://photos.app.goo.gl/YfHDArC9QboQN1kW8,,Cuba,23.139652,-82.3621892
+11794459571,,,,Cuba,23.1022738,-82.4391588
+11795350670,Cabaña La Realidad,,,Cuba,22.6153136,-83.7140099
+11806914669,Hotel Valentín Perla Blanca,,,Cuba,22.6645875,-78.9732713
+11841467269,Casa de Reyna,,,Cuba,23.1325992,-82.3548705
+11845436370,HOTEL VALENTIN CAYO SANTA MARÍA,,,Cuba,22.6652789,-78.9730666
+11845479769,,,,Cuba,22.6652656,-78.973059
+11878777056,Bibanasí,,,Cuba,22.9445744,-80.9123701
+11963163569,Centro de Convensiones,,,Cuba,23.1565775,-82.3060352
+12261165401,puntarenas,,,Cuba,23.1310036,-81.3093624
+12313774559,Boutique Hotel Casa italia,https://boutiquecasaitalia.com/,"Miramar, Playa, La Habana",Cuba,23.126496,-82.4147924
+12374147933,MGM Gran Muthu Ensenada Hotel,,,Cuba,21.1109534,-75.8990371
+12434390901,Hotel Boutique Casa Italia,https://www.boutiquecasaitalia.com,,Cuba,23.1264978,-82.4148051
+12434390902,Hotel Boutique Casa Italia,https://www.boutiquecasaitalia.com,,Cuba,23.1261428,-82.4144532
+12610693401,,https://www.acostarentals.com/,,Cuba,22.6193721,-83.7048259

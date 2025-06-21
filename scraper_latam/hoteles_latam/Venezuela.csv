@@ -1,0 +1,778 @@
+id_hotel,nombre,url_principal,ciudad,pais,latitud,longitud
+265217309,Coral Caribe,,,Venezuela,11.1454571,-63.866033
+520961022,La Viñeta,,,Venezuela,10.2284801,-67.3272718
+587427969,Palmeras Country Club C.A.,,,Venezuela,7.885617,-72.4453517
+606694247,Hotel Olé Caribe,,Macuto,Venezuela,10.6078555,-66.8811665
+683772712,Hotel Venetur (Prado Río),,,Venezuela,8.6083154,-71.1384339
+697292451,Hotel La Terraza,,,Venezuela,8.6292647,-71.1457141
+701657726,Hotel Entre Ríos,,,Venezuela,8.624115,-71.1374148
+701658527,Hotel Río Milla,,,Venezuela,8.6277322,-71.1408371
+702751138,,,,Venezuela,8.62652,-71.15929
+702754221,Hotel Santa Rosa,,,Venezuela,8.62661,-71.164
+704963549,Hotel Caribay,,,Venezuela,8.5894286,-71.1562879
+704964136,Atenas Park,,,Venezuela,8.57985,-71.1671599
+704964287,Hotel Tabis,,,Venezuela,8.5894053,-71.1523188
+853638434,Hotel Oviedo,,,Venezuela,8.591537,-71.152506
+853650725,Hotel Angeles Palace,,,Venezuela,8.5931303,-71.1494637
+853651296,Hotel Paso Real,,,Venezuela,8.5937138,-71.1499465
+853653051,Hotel El Cid,,,Venezuela,8.5938358,-71.1493456
+871570894,Hotel Freburt,,,Venezuela,10.4045983,-67.2872442
+891135231,Hotel Paseo Las Mercedes,,Caracas,Venezuela,10.4783975,-66.8581962
+945490859,Hotel Michelle,,,Venezuela,4.6040058,-61.1073517
+945490860,Backpackers,,,Venezuela,4.6040406,-61.1069521
+977666941,Hotel Los Conquistadores,,,Venezuela,8.7491854,-70.9229677
+977666942,Hotel Carillón,,,Venezuela,8.74874,-70.9240459
+984483453,Viila Suite,,,Venezuela,8.546678,-71.2309937
+1030788838,Excurciones Kavak,,,Venezuela,6.2384083,-62.8515748
+1037620116,Hotel Tokisay,,,Venezuela,8.2473721,-71.8312874
+1041839797,Hotel El Paisa,,,Venezuela,7.06271,-69.5009644
+1062805791,Yakoo,,,Venezuela,4.5895965,-61.0920548
+1067859471,Condado Suites Hotel,,,Venezuela,10.2262723,-67.3271576
+1067860213,Victoria Suites Hotel,,,Venezuela,10.230685,-67.3300967
+1123583384,Posada Villa Del Sol,,,Venezuela,11.1434505,-63.8653222
+1129031983,Hotel El Tisure,,,Venezuela,8.5998072,-71.1404922
+1134911638,Hotel Maracaibo,,,Venezuela,10.1806651,-68.8873967
+1141478455,La Gran Entrada,,,Venezuela,10.1595535,-68.5679134
+1148596498,Orinoquia Lodge,,,Venezuela,5.504235,-67.6152491
+1157114090,Hotel La Plazuela,,,Venezuela,11.0303475,-63.8648854
+1157114091,Hotel La Ciudad,,,Venezuela,11.0314427,-63.8604115
+1166065093,Hotel La Cima,,,Venezuela,10.3024561,-68.8009795
+1179711421,Hotel El Gran Balcón,,,Venezuela,8.5914198,-71.1473447
+1179711740,Aparta Hotel Central,,,Venezuela,8.601022,-71.1402703
+1194926940,Palma Real,,,Venezuela,10.1567321,-68.5672613
+1196828700,,,,Venezuela,10.340573,-68.743526
+1205523361,Hotel Inmaculada,,,Venezuela,8.1247198,-71.4611925
+1218411866,Posada Colibrí,,,Venezuela,8.775725,-70.427792
+1218413619,La Fontana Hotel,,,Venezuela,8.633194,-70.225718
+1218423806,Hotel Moruco,,,Venezuela,8.858208,-70.704382
+1219061095,Hotel Rio Fresco,,,Venezuela,8.776292,-70.429089
+1224832505,Hotel San Remo,,,Venezuela,8.5706316,-71.1919381
+1226365982,,,,Venezuela,7.7820197,-63.0294795
+1243854727,Eurobuilding Express,,Maracay,Venezuela,10.2561391,-67.5917305
+1254881534,Cabañas Fabro,,,Venezuela,8.6413734,-71.1251419
+1254881785,Hotel Princesa,,,Venezuela,8.6718077,-71.1027588
+1254881799,Hotel Valle Grande,,,Venezuela,8.6737816,-71.1022577
+1257906895,Posada El Encanto,,,Venezuela,8.8622329,-70.6935451
+1258964948,Posada Mi Pueblo,,,Venezuela,9.608653,-69.9904118
+1270725317,Hotel Hesperia Maracay,,,Venezuela,10.2855811,-67.5651674
+1270725318,El Dollar,,,Venezuela,10.2840722,-67.566665
+1300836635,Campamento Parakaupa,https://campamentoparakaupa.com/tarjeta-digital/,,Venezuela,6.2450732,-62.8580081
+1335112590,Hotel Renovación,,Caracas,Venezuela,10.5021202,-66.8989605
+1337294017,Hotel Mintoy,,,Venezuela,8.5921755,-71.1428672
+1337294422,Hotel Las 20 truchas de Cheo,,,Venezuela,8.5924917,-71.1417651
+1337294729,Hotel Teleférico,,,Venezuela,8.5926817,-71.142658
+1337294782,Posada La Floridita,,,Venezuela,8.5927331,-71.1434564
+1376026621,Hotel Tampa,,Caracas,Venezuela,10.496151,-66.8791809
+1392768403,Nevada Palace,,,Venezuela,8.5953109,-71.1441859
+1402381834,Hotel Aeropuerto,,,Venezuela,7.060666,-69.4983099
+1402454730,La Vuelta del Cacho,,,Venezuela,7.0681067,-69.5009546
+1402474952,,,,Venezuela,7.0637602,-69.4969581
+1402474956,,,,Venezuela,7.0680404,-69.493557
+1402474967,Hotel La Estrella,,,Venezuela,7.061834,-69.4996725
+1402474970,,,,Venezuela,7.0619938,-69.5034383
+1407223667,Gran Luso,,,Venezuela,10.1637134,-68.8971787
+1407223668,Venezia,,,Venezuela,10.1616102,-68.896957
+1412650561,,,,Venezuela,11.0319234,-70.1095915
+1413633074,Hotel Plaza,,,Venezuela,8.5961233,-71.1441656
+1500873128,Hotel Amalfi,,,Venezuela,11.7591876,-70.1804781
+1500873490,Hotel Jardin,,Judibana,Venezuela,11.7563292,-70.1810387
+1532058033,Traini,,,Venezuela,10.255675,-67.6029942
+1704814366,,,,Venezuela,8.861226,-70.6968229
+1704830436,,,,Venezuela,8.8589632,-70.6967745
+1734545169,Hotel Pequeña Venecia,,,Venezuela,8.5959446,-71.1485094
+1735418069,,,,Venezuela,10.6591825,-71.6106462
+1738844882,Posada Alemania,,,Venezuela,8.6009546,-71.142043
+1754416854,Hotel Caribe,,,Venezuela,10.6437329,-71.609192
+1759067190,Hotel Lido,,,Venezuela,10.0624668,-69.3176243
+1759098170,Hotel Irpinia,,,Venezuela,10.1744863,-70.0808518
+1761573045,Hotel Abruzzese,,,Venezuela,10.1619222,-68.8957956
+1761573046,Country Express,,,Venezuela,9.2916799,-70.6239394
+1787225555,Hotel Las Cabañas,,,Venezuela,10.1948266,-67.9259452
+1834063397,Hotel Los COCOS,,,Venezuela,10.2139868,-67.3421104
+1862816259,Hotel Tiffany,,,Venezuela,10.0647837,-69.2962759
+1863279637,Hotel Andrea,,,Venezuela,8.0048414,-62.3905049
+1863715915,Hotel Uairen,,,Venezuela,4.6026821,-61.1106692
+1863715929,Hotel San Marcos,,,Venezuela,4.6017972,-61.1090786
+1863715953,Hotel Granate Prada,,,Venezuela,4.6024014,-61.1094246
+1863729800,Hotel Panzarelli,,,Venezuela,4.6040537,-61.111439
+1863729817,Hotel Fontana,,,Venezuela,4.6042569,-61.111447
+1863737134,Hotel Lucrecia,,,Venezuela,4.6058743,-61.1069489
+1863737142,Hotel Los Castaños,,,Venezuela,4.6083744,-61.1073973
+1863737150,Posada de Tonita,,,Venezuela,4.6081522,-61.1080111
+1872063888,Hotel Cavier,,,Venezuela,10.0656036,-69.321027
+1872127349,Hotel Jaspe Park,,,Venezuela,7.9989934,-62.3821517
+1873870044,Hotel Posada Villanela,,,Venezuela,7.9999014,-62.3793643
+1873889734,Hotel Garibardi,,,Venezuela,8.0113703,-62.3990817
+1873889851,Hotel Pellegrino,,,Venezuela,8.012837,-62.4015816
+1873890027,Hotel Roraima,,,Venezuela,8.0145788,-62.4060448
+1873890044,Hotel Crismar,,,Venezuela,8.0166988,-62.4079781
+1873890141,Hotel Yocoima,,,Venezuela,8.0187971,-62.4074395
+1883788870,Posada Doña Rosa,,,Venezuela,8.5878868,-71.130185
+1887579126,Villa Victoria,,,Venezuela,10.2173421,-67.3896003
+1892669852,Cabañas El Viejo,,,Venezuela,8.621401,-71.0635695
+1942241089,,,,Venezuela,7.9659869,-72.2386324
+1958887728,Hotel Yurubi,,,Venezuela,10.358373,-68.7469183
+1965608940,Hotel Las Truchas,,,Venezuela,8.9962101,-70.7398342
+2016746756,Hotel Barcelos,,,Venezuela,9.3723416,-70.4328668
+2138391652,La Romereña - Posada Agroturistica,,,Venezuela,8.153122,-71.9339939
+2143058346,Hotel Royal,,,Venezuela,9.7469925,-63.1856387
+2153978187,Executive Suites Valencia,,,Venezuela,10.2143873,-68.0143801
+2153978226,Hotel Ucaima,,,Venezuela,10.2156174,-68.0174163
+2165776382,Hotel Castillo de Sueños,http://sites.amarillasinternet.com/hotelcastillodesuenos,,Venezuela,9.7384791,-63.1971635
+2165776386,Hotel Chaima Inn,,,Venezuela,9.7264839,-63.1527127
+2165776393,Hotel Emperador,,,Venezuela,9.7414232,-63.1973139
+2165776400,Hotel Friuli,,,Venezuela,9.7401779,-63.1978643
+2165776407,Hotel Jade,http://www.hoteljade.net/,,Venezuela,9.7377565,-63.2002041
+2168339436,Hotel Monagas Internacional,http://hotelmonagasinternacional.com/,,Venezuela,9.7360479,-63.1999333
+2215603438,New Hotel,,,Venezuela,10.179382,-67.9968272
+2225781624,"Hotel El Viajero de la 30, C.A.",,,Venezuela,10.0636211,-69.3213649
+2242869768,Hotel Mar y Sol,,,Venezuela,10.0647951,-65.0410104
+2252770265,Posada La Cascada,,,Venezuela,7.7700665,-72.2250956
+2258428954,Hotel 2001,,Caracas,Venezuela,10.4826343,-66.9386088
+2262232989,Hotel Maigualida,,,Venezuela,10.4493303,-63.9125487
+2262943019,Hotel Ramo Blanco,,Caracas,Venezuela,10.4900062,-66.9284749
+2262943058,Hotel Naciones Unidas,,Caracas,Venezuela,10.4897924,-66.9333004
+2271239132,Hotel El Oeste,,Caracas,Venezuela,10.5000421,-66.9234401
+2271248551,Hotel Líder,,Caracas,Venezuela,10.4976282,-66.9191407
+2271248555,Hotel 42,,Caracas,Venezuela,10.4927096,-66.9205572
+2271252441,Hotel Junín,,Caracas,Venezuela,10.5049491,-66.9185925
+2276343769,Estancia Sanbuenaventura,https://www.venaventours.com/sanbuenaventura/,,Venezuela,8.5548405,-71.1806276
+2280295797,Hotel California,,,Venezuela,10.2176787,-64.6408772
+2280863115,Hotel Cristal Park,,,Venezuela,10.2211983,-64.6359297
+2280863120,Hotel Gaeta,,,Venezuela,10.2230993,-64.6365599
+2280863129,Hotel Sorrento,,,Venezuela,10.221774,-64.6338974
+2283198135,Hotel Europa,,,Venezuela,10.2208583,-64.6380462
+2283198137,Hotel Montecarlos,,,Venezuela,10.2206231,-64.6391095
+2288398380,Hotel Amazonia,,,Venezuela,11.4194774,-69.6537066
+2290586726,Hotel La Breña,,,Venezuela,9.7442339,-63.1922582
+2293165040,Caribe Mar Hotel,,,Venezuela,10.2172761,-64.6405073
+2303199683,Hotel Ausonia,,Caracas,Venezuela,10.5088513,-66.9181727
+2303243875,Hotel Edén,,Caracas,Venezuela,10.5067903,-66.9175639
+2303243878,Hotel Arbet,,Caracas,Venezuela,10.5061795,-66.9181227
+2304044937,Hotel Baralt,,Caracas,Venezuela,10.511648,-66.9163354
+2304044949,Hotel Grand Galaxy,,Caracas,Venezuela,10.5116637,-66.9157027
+2304044953,Hotel Niteroy,,Caracas,Venezuela,10.5112919,-66.916373
+2305440231,Hotel Uslar,,Caracas,Venezuela,10.4754432,-66.9492353
+2315371004,Hotel Metropol,,Caracas,Venezuela,10.5074574,-66.9086268
+2315371007,Hotel Terepaima,,Caracas,Venezuela,10.5086865,-66.9084175
+2315371043,Hotel Inter,,Caracas,Venezuela,10.507621,-66.9076102
+2315827111,Hotel Cervantes,,Caracas,Venezuela,10.5073308,-66.9097667
+2315888601,Hotel Tiuna,,Caracas,Venezuela,10.5069037,-66.9111533
+2315928668,Hotel Hollywood,,Caracas,Venezuela,10.5057802,-66.9089996
+2322679643,Hotel Barcelona,,,Venezuela,10.1345108,-64.6858342
+2322679644,Hotel Oviana,,Barcelona,Venezuela,10.1361606,-64.691271
+2332433337,Hotel Jupiter,,,Venezuela,10.1811553,-64.6663104
+2333965336,VENETUR Anauco Suites,http://www.venetur.gob.ve/,Caracas,Venezuela,10.4986885,-66.9000841
+2348760117,Hotel Cumanacoa,,,Venezuela,10.2528233,-63.9189631
+2349946686,Hotel Venecia,,Caracas,Venezuela,10.4761519,-66.8949771
+2352866472,Hotel Bella italia,,Caracas,Venezuela,10.4976543,-66.9093939
+2352866477,Hotel Nueva Lucía,,Caracas,Venezuela,10.4970556,-66.9095415
+2352866482,Hotel Triángulo Dorado,,Caracas,Venezuela,10.4997219,-66.9115853
+2352866503,Hotel D' Angelo,,Caracas,Venezuela,10.4967866,-66.9096005
+2353999170,Hotel Mansión,,Caracas,Venezuela,10.4851969,-66.9083217
+2355169881,Hotel El Arroyo,,Caracas,Venezuela,10.5008854,-66.9168032
+2361060263,Posada Casa Mejillon,,,Venezuela,11.0063389,-64.0202726
+2370185511,Hotel Los Bordones,,Cumaná,Venezuela,10.4182202,-64.2180703
+2370193420,Hotel Villamar Suites,,Cumana,Venezuela,10.4266617,-64.20975
+2370748776,Cabañas San Luis,,Cumana,Venezuela,10.4248247,-64.2110269
+2370748781,Gran Hotel Cumaná,,Cumana,Venezuela,10.4384976,-64.1982018
+2370748786,Hotel Angelopolis,,Cumana,Venezuela,10.4398876,-64.1890519
+2370748787,Hotel Bahia Azul,,Cumaná,Venezuela,10.4563562,-64.1859496
+2370748788,La Casa Hotel,,Cumaná,Venezuela,10.4717882,-64.1646181
+2370756663,Hotel Bahia Palmeras,,Juan Griego,Venezuela,11.0776971,-63.9537454
+2370756664,Hotel Descanso Tropical,http://www.descansotropical.com/,,Venezuela,11.082054,-63.9670735
+2376678259,Hotel El Paseo,,Caracas,Venezuela,10.4865062,-66.8910286
+2377353183,,,,Venezuela,8.707593,-70.993631
+2381737964,Aparta-Hotel Los Ilustres,,Caracas,Venezuela,10.4764128,-66.8948965
+2384600013,Hotel EL Jardin,,,Venezuela,8.7606086,-70.4048812
+2388820806,Hotel Milenio,,Caracas,Venezuela,10.4862346,-66.8856939
+2388925490,Hotel Manzoni,,Caracas,Venezuela,10.4966522,-66.9166355
+2388925504,Hotel La Neve,,Caracas,Venezuela,10.4987092,-66.9179497
+2388925510,Hotel La Gheisha,,Caracas,Venezuela,10.4978126,-66.9160159
+2389673184,Hotel Excélsior,,Caracas,Venezuela,10.500226,-66.9151257
+2389673248,Hotel Ricovigi,,Caracas,Venezuela,10.498459,-66.9127949
+2389792284,Hotel Horcones,,Caracas,Venezuela,10.4995044,-66.9072043
+2389792313,Hotel ABC,,Caracas,Venezuela,10.4985975,-66.9068591
+2397989565,Hotel El Limón,,Caracas,Venezuela,10.4974451,-66.9007738
+2403973255,Hotel Real,,Caracas,Venezuela,10.5187047,-66.8969484
+2404159321,Hotel Cajigal,,Caracas,Venezuela,10.5161941,-66.9036861
+2404179625,Hotel Ribot,,Caracas,Venezuela,10.5022022,-66.8983217
+2414123870,Posada Villa Fairmont,,,Venezuela,4.6127573,-61.1121354
+2414401696,Posada Salto Catedral,,,Venezuela,4.5233152,-61.5257228
+2414405258,Cabañas Kamá-Merú,,,Venezuela,5.4156091,-61.2189979
+2417288009,Hotel Los Jazmines,,Caracas,Venezuela,10.5047536,-66.8832793
+2417288019,Hotel Los Manolos,,Caracas,Venezuela,10.5049267,-66.8834082
+2418392703,Hotel La Naranja,,Caracas,Venezuela,10.4939937,-66.8813916
+2418392710,Hotel Tanausu,,Caracas,Venezuela,10.4942523,-66.8816517
+2426819374,Hotel Harmony,,Caracas,Venezuela,10.4885609,-66.8809141
+2434567509,Hotel Astro,,Caracas,Venezuela,10.4933187,-66.8792267
+2434567546,Hotel Royal,,Caracas,Venezuela,10.4949406,-66.8805678
+2434567552,Hotel Madrigal,,Caracas,Venezuela,10.4936009,-66.8792186
+2434567562,Nuestro Hotel,,Caracas,Venezuela,10.4934558,-66.8792213
+2434575778,Hotel Jolly Inn,,Caracas,Venezuela,10.4960561,-66.8793313
+2434575784,Hotel Cristal,,Caracas,Venezuela,10.4948203,-66.8787169
+2434592559,Torre Molino,,Caracas,Venezuela,10.4971374,-66.8795244
+2434592575,Hotel Guaika,,Caracas,Venezuela,10.4933081,-66.8787063
+2434592621,Hotel Capri,,Caracas,Venezuela,10.4971849,-66.8796961
+2435870142,Hotel Boulevard Suites,,Caracas,Venezuela,10.4949828,-66.877097
+2435901617,Lincoln Suites,https://www.lincoln-suites.com.ve/,Caracas,Venezuela,10.4955445,-66.8778588
+2435940438,L Country Hotel,,Caracas,Venezuela,10.501774,-66.8721057
+2435940458,Hotel La Moncloa,,Caracas,Venezuela,10.4991393,-66.8713919
+2438078423,Hotel Plaza Palace,,Caracas,Venezuela,10.4953495,-66.8731358
+2438078589,Hotel Nueva Esparta,,Caracas,Venezuela,10.4941785,-66.8736291
+2438094712,Hotel Cumberland Caracas,,Caracas,Venezuela,10.4939756,-66.8714272
+2438094717,Hotel Savoy,,Caracas,Venezuela,10.4933667,-66.8716885
+2438094719,Hotel Doral,,Caracas,Venezuela,10.4942023,-66.8716794
+2438119861,Hotel Coliseo,,Caracas,Venezuela,10.4920582,-66.875674
+2439779218,Hotel Edú,,Caracas,Venezuela,10.4882873,-66.8696812
+2439779232,Hotel Montpark,,Caracas,Venezuela,10.4896482,-66.8709365
+2439779261,Hotel Las Américas,,Caracas,Venezuela,10.4901487,-66.8705314
+2439779268,Hotel Madrid,,Caracas,Venezuela,10.4893046,-66.8707215
+2439779277,Hotel Mari,,Caracas,Venezuela,10.4910961,-66.872948
+2439779280,Hotel Broadway,,Caracas,Venezuela,10.4900908,-66.869724
+2439840848,Hotel Villa Verde,,Caracas,Venezuela,10.4928811,-66.871446
+2466123141,Hotel Radazul,,,Venezuela,8.8891497,-64.2530689
+2469106173,Hotel Ritz,,Caracas,Venezuela,10.4982332,-66.8823067
+2469179858,Hotel Nilson,,Caracas,Venezuela,10.5020164,-66.884626
+2469179877,Hotel La Palmera,,Caracas,Venezuela,10.5003444,-66.8836765
+2469179883,Hotel Atlántida,,Caracas,Venezuela,10.5012384,-66.884634
+2469179888,Hotel Cesar,,Caracas,Venezuela,10.5017421,-66.8850471
+2469319190,Hotel City,,Caracas,Venezuela,10.4963251,-66.8816648
+2469319193,Hotel Vistávila Suites,,Caracas,Venezuela,10.4975066,-66.8792911
+2470400837,Hotel La Toja,,Caracas,Venezuela,10.4975756,-66.8668352
+2470453207,Hotel Monte Alegre,,Caracas,Venezuela,10.4973328,-66.8705662
+2487297597,Hotel Riazor,,Caracas,Venezuela,10.4876908,-66.8646975
+2496282368,Hotel Campo Alegre,,Caracas,Venezuela,10.4943247,-66.858254
+2498031939,Lidotel,,Caracas,Venezuela,10.4910328,-66.8622425
+2498807473,Hotel Altamira,,Caracas,Venezuela,10.493247,-66.8495583
+2499029979,Villa Luna Suite,,,Venezuela,9.3656088,-70.4365683
+2509359726,Posada Lla Troja,,,Venezuela,9.3558177,-70.4449812
+2518997153,La Concepcion,,,Venezuela,9.4160227,-70.4828812
+2519328222,hotel,,,Venezuela,9.4097092,-70.4829349
+2520408577,Posada San Lázaro,,,Venezuela,9.2800329,-70.5159899
+2539705068,Jungle Rudy Campamento,,,Venezuela,6.2427393,-62.8335956
+2539994402,Posada Pirineos,,San Cristóbal,Venezuela,7.7746333,-72.2158634
+2544283743,Hotel Paradise,,,Venezuela,7.8037934,-72.2312902
+2544283748,Hotel Palermo,,,Venezuela,7.8045415,-72.2310213
+2546969738,Hotel Alan,,,Venezuela,7.7678458,-72.2285276
+2546969755,Dinastía Suites,,,Venezuela,7.7727619,-72.2306818
+2546969756,Dinastía,,,Venezuela,7.7734931,-72.2311921
+2546969758,Hotel Faraón,,,Venezuela,7.7684318,-72.2306212
+2547778789,Mon Cricket,,,Venezuela,7.7713841,-72.2271908
+2547844818,Hotel Los Molinos,,,Venezuela,7.7833342,-72.2123977
+2547844820,Hotel Pirineos,,,Venezuela,7.7821373,-72.2123865
+2547972280,San Francisco,,,Venezuela,7.7689008,-72.2157551
+2548228675,Hotel Del Rey,,San Cristóbal,Venezuela,7.7818112,-72.221967
+2557684404,Hostal La Ciudadela,,,Venezuela,7.7716932,-72.2210543
+2558819724,Hotel Plaza Real,,,Venezuela,7.7709814,-72.2244734
+2578768832,Hotel Emperador,,Caracas,Venezuela,10.4774204,-66.8183544
+2596248748,Hotel El Triunfo,http://hoteleltriunfo.com/,,Venezuela,9.2182984,-66.0125761
+2596248749,Hotel San Marco,www.hotelsanmarco.com.ve,,Venezuela,9.1966672,-65.9999732
+2596248750,Palace Hotel,http://www.palacehotel.com.ve/,,Venezuela,9.2158387,-66.0056597
+2607961333,Estancia La Bravera,,,Venezuela,8.6415951,-71.3831644
+2626190603,Hotel Riviera Suite,www.hotelrivierasuite.com.ve,Barinas,Venezuela,8.652318,-70.2535532
+2634708876,Paternópolis,,,Venezuela,9.6681116,-68.553918
+2726461149,Hotel Morales,,,Venezuela,7.8189018,-72.4446727
+2778175069,Hotel Santiago,,Caracas,Venezuela,10.4996937,-66.9184672
+2797872892,Hotel Los Llanos,,Caracas,Venezuela,10.4974442,-66.916734
+2797873691,Hotel Firenze,,Caracas,Venezuela,10.498978,-66.9146575
+2815596123,Hotel Orquídea,,Caracas,Venezuela,10.4771784,-66.9436576
+2842220411,Hotel Cacique,,Barinas,Venezuela,8.6155625,-70.2453625
+2986861720,Hotel Villarreal,,,Venezuela,8.8949722,-64.1505453
+2987692487,Hotel Cel,http://www.hotelcel.com.ve,San José de Guanipa,Venezuela,8.8939743,-64.1765557
+3033649748,La Hosteria,,barquisimeto,Venezuela,10.0667384,-69.35559
+3054633248,Hotel Aventura Suite,,,Venezuela,10.7418499,-68.319391
+3054633249,Hotel Playaroa,,,Venezuela,10.7028168,-68.3047671
+3073397553,Hotel Aventura Suite,,,Venezuela,10.742618,-68.319809
+3073397554,Hotel Intercaribe,https://hotelintercaribe.jimdo.com/,,Venezuela,11.4100262,-69.6756083
+3073397555,Hotel San Ana,http://www.hotelsantaana.com.ve/,,Venezuela,11.4108575,-69.6747212
+3073926268,Circulo Militar,,,Venezuela,10.9941645,-63.8014601
+3124858176,Hotel Chipi's Beachs,,Catia La Mar,Venezuela,10.6083341,-67.0101235
+3160146594,Campamento Anaconda,,,Venezuela,6.1755424,-61.4257708
+3164025679,Bahía del Mar,,,Venezuela,10.6022557,-67.0380771
+3213597083,Hotel Tibisay,http://www.venetur.gob.ve/index.php/Oficinas-Comerciales/oficinas-comerciales.html,Maturín,Venezuela,9.7349259,-63.2313086
+3219149831,Hotel Amalfi,,Judibana,Venezuela,11.757013,-70.1801116
+3226623401,Hotel Luna Azul,,,Venezuela,8.5926679,-71.1418968
+3275606777,Posada Vista Hermosa,,,Venezuela,7.7932843,-68.2181361
+3275607161,Hotel Capanaparo,,,Venezuela,7.7817766,-68.2258589
+3281161437,Hotel Restaurant Bergland,,,Venezuela,10.4109119,-67.2893703
+3281194562,Hotel Restaurant Selva Negra,http://www.hotelselvanegra.com/,,Venezuela,10.4066017,-67.2867448
+3281194662,Hotel Kaiserstuhl,,,Venezuela,10.4078285,-67.2874589
+3281194863,Hotel Restaurant Edelweiss,,,Venezuela,10.4140331,-67.290499
+3281195062,Hotel Restaurant Alta Baviera,,,Venezuela,10.4127137,-67.2896436
+3362169540,Hotel La Gabarra,,La Guaira,Venezuela,10.6188139,-66.8525436
+3369236875,Hotel Country Trujillo,,,Venezuela,9.3605782,-70.4462169
+3369236876,Hotel La Paz,,,Venezuela,9.3610104,-70.4456775
+3370117069,Hotel Lido,,,Venezuela,8.7704641,-70.41948
+3406419241,Hotel Aladino,,,Venezuela,8.6274527,-70.2202355
+3438461508,Palma Real,,,Venezuela,8.8987112,-64.3007816
+3644968699,Hotel y Posada Los Juanes,,Tucacas,Venezuela,10.7681276,-68.3282935
+3648987599,Hotel Gaeta,,Tucacas,Venezuela,10.7916899,-68.3214496
+3649474789,The Rock Inn Hotel,,Ciudad Guayana,Venezuela,8.2746302,-62.7996485
+3670938563,Hotel Brisas del Norte,,,Venezuela,10.715111,-71.6424103
+3749261863,Hotel Brisas Paraguana,,,Venezuela,11.7093284,-70.1884064
+3779604626,Villa Romana,,,Venezuela,10.4319273,-64.1559567
+3779608238,Posada El Capitán,,,Venezuela,10.4280892,-64.1498471
+3780404061,Hotel Tintini,,,Venezuela,10.3219594,-72.3124738
+3780427547,Hotel Tinacoa,,,Venezuela,10.3229246,-72.3201871
+3782704384,Hotel Mi Felicidad,,,Venezuela,10.5103584,-63.4297862
+3782715319,Posada Restaurant Bella Casanay,,,Venezuela,10.5192615,-63.427855
+3797515521,Hotel Reina Churuata,,,Venezuela,9.9097785,-68.3032874
+3813178846,Hotel El Río,,,Venezuela,9.2383507,-70.6577357
+3864357855,Hotel Lilma,,Carúpano,Venezuela,10.6630686,-63.2509506
+3876254232,Posada Caceres,https://casatropical.com.ve/,Altamira de Caceres,Venezuela,8.8237684,-70.5016004
+3884190934,Hotel Portachuelo,,,Venezuela,9.9203606,-67.3524192
+3884190935,Hotel La Montañita,,,Venezuela,9.9163605,-67.3416414
+3884190938,Hotel Camoruquito,,,Venezuela,9.8800421,-67.3712676
+3884214876,Hotel Grand Palace,,,Venezuela,9.9117375,-67.3574413
+3884230447,,,,Venezuela,9.9202729,-67.353535
+3884241317,,,,Venezuela,9.8846501,-67.3973516
+3884241326,El Brasero,,,Venezuela,9.9130319,-67.3526633
+3942844474,Hotel Dinastía,,Sabana Larga,Venezuela,11.4451492,-69.5970717
+3978732146,Hotel Bariloche,,,Venezuela,9.465328,-70.4605779
+3989244457,Cabañas Mareca,http://www.cabanasmareca.com/mareca2.htm,,Venezuela,10.6649841,-63.2915426
+3993704005,Cordillera Hotel,,,Venezuela,9.1340058,-70.7057749
+3993715587,Los Molinos de Amadeo,,,Venezuela,9.1517733,-70.6941539
+4022775229,Hotel La Casona,,Los Teques,Venezuela,10.3442686,-67.0411794
+4023854078,Hotel Victoria,,Caracas,Venezuela,10.498927,-66.9153167
+4062282906,Hotel Bristol,,,Venezuela,8.6258733,-70.2201337
+4062399761,Hotel,,,Venezuela,8.5864125,-70.329211
+4062399762,Hotel Hilmor,,,Venezuela,8.6177409,-70.2709997
+4065174094,Hotel Grand Sabana,,Santa Elena de Uairén,Venezuela,4.5810174,-61.119896
+4090486438,Hotel Riazor,,,Venezuela,9.5344196,-69.2351706
+4090486441,Hotel La Colina,,,Venezuela,9.5820511,-69.2211687
+4107644789,Paoca,,,Venezuela,8.1218479,-63.5486644
+4108977791,Hotel Wisam,,,Venezuela,8.6158505,-70.2488852
+4110402290,Hotel Don Guillermo,,,Venezuela,11.0212589,-70.6773174
+4110418889,Residencias La India ,,,Venezuela,11.0220591,-70.6766798
+4111725090,Hotel Manaurina,,,Venezuela,11.0351173,-70.6718882
+4156443040,Hotel Tiuna Calabozo,,,Venezuela,8.9176795,-67.4329399
+4166562092,Hotel Dallas,,,Venezuela,9.6032202,-69.2329335
+4166562390,Hotel Bella Vista,,,Venezuela,9.6007508,-69.2298472
+4166564589,Motel Villas del Norte,,,Venezuela,9.6039259,-69.2320382
+4196337089,Hotel Naval Manzanillo,,Carúpano,Venezuela,10.6619622,-63.4184544
+4198132945,Hotel Villas Playa de Uva,,,Venezuela,10.7068516,-63.0329177
+4218411389,Palma Real Suites,www.palmarealsuites.com.ve,,Venezuela,9.796813,-63.1982316
+4218423989,Tipuro Suites,www.tipurosuites.com.ve,,Venezuela,9.781722,-63.1904285
+4229160226,Hotel del Este,,,Venezuela,9.0414851,-69.7436639
+4229180189,Hotel Betania,,,Venezuela,9.045571,-69.7509721
+4247530394,Hamcord,,,Venezuela,10.0146223,-69.2272118
+4252885728,Playa Grande Caribe Hotel,https://caracas.travel/playagrande,Catia La Mar,Venezuela,10.6096902,-67.0300178
+4252886825,Hotel Lunamar,,,Venezuela,10.6079086,-67.0338922
+4253704794,Hotel Todariquiba,,,Venezuela,11.4104047,-69.676423
+4277341094,Restaurant Da Gino,,,Venezuela,8.1273886,-63.5361738
+4278152493,Hotel laja city,,,Venezuela,8.1316928,-63.5416111
+4291040891,Klein Dorf,https://www.kleindorf.com/,Colonia Tovar,Venezuela,10.4056471,-67.2999152
+4305631182,,,,Venezuela,9.9939424,-69.2168939
+4312539499,Hotel Mayan,,Caracas,Venezuela,10.4980146,-66.9093857
+4312641989,Hotel Ber Mar,,Caracas,Venezuela,10.4977139,-66.9095743
+4320492694,Hotel Puerto Playa,,,Venezuela,10.1932641,-64.6954381
+4325142795,Hotel del Centro,,,Venezuela,10.9279283,-68.2695996
+4325142796,Hotel Flamingo,,,Venezuela,10.9661501,-68.3695706
+4329174992,Hotel Tiffany,http://www.tiffanyhotel.com.ve,,Venezuela,10.0607899,-69.2972209
+4349254489,Hotel Circulo Militar de Maracaibo,,,Venezuela,10.6824577,-71.6215229
+4357788925,Hotel Boutique Eduards,http://www.eduards.net/,,Venezuela,10.6050987,-66.9006252
+4359302091,Hotel Laja Real,,,Venezuela,8.1273326,-63.5367744
+4379866296,hotel yaracuy,,,Venezuela,10.3479608,-68.7438342
+4393898990,Hotel Casa Vieja,,,Venezuela,9.0061775,-62.6374663
+4403337194,Hotel Yumbo,,Caracas,Venezuela,10.5024285,-66.8800889
+4405138689,Hotel Caribbean Inn,,,Venezuela,10.222838,-64.634236
+4414031008,Hotel El Diamante,,,Venezuela,10.1787306,-68.0061001
+4417208889,Hotel Guaparo INN,,,Venezuela,10.2496727,-68.0136982
+4426763290,Hotel El Ciclón,,,Venezuela,10.1765561,-68.0030059
+4426785089,Hotel Dinastía,,,Venezuela,10.1870749,-68.0035492
+4427234890,Hotel HESPERIA,,Valencia,Venezuela,10.2332683,-68.004643
+4430727888,Hotel Guadalupe,,,Venezuela,9.1352428,-70.701408
+4444751089,Hotel Aventino,,,Venezuela,10.2545436,-67.5994973
+4449576301,Nuevo Miri Dasil c. a.,,,Venezuela,8.1462399,-70.873374
+4452514990,Hotel San Felipe,,,Venezuela,8.6149094,-71.6528809
+4459568191,,,Punto Fijo,Venezuela,11.6857903,-70.2086683
+4459568192,Hotel Altamira,,Punto Fijo,Venezuela,11.6854363,-70.209106
+4459589365,Hotel Caribe,,Punto Fijo,Venezuela,11.6945045,-70.2065922
+4459593734,Hotel Presidente,,Punto Fijo,Venezuela,11.6933403,-70.2117395
+4462086890,Hotel El Kaiser,,,Venezuela,10.1953678,-67.9251829
+4468550398,Posada Plaza,,,Venezuela,10.1726175,-63.5002672
+4471536594,Confort Express,,,Venezuela,10.0481615,-69.3780614
+4473894792,Hotel Emperador,,,Venezuela,10.1959896,-68.0050432
+4478139289,Posada,,,Venezuela,8.6168694,-71.6516952
+4479802189,Silvana,,,Venezuela,8.6119711,-71.6393821
+4484429977,Hotel Palace,,Valencia,Venezuela,10.1950682,-68.0062255
+4491554165,Muévete por Vargas,,,Venezuela,10.602333,-67.0321202
+4534709589,Hotel Venecia Suite C. A,http://www.hotelveneciasuite.com.ve,,Venezuela,8.2235317,-70.8277185
+4535621889,Quinta Real Hotel,,,Venezuela,8.2294585,-70.823508
+4539758691,Nayarit,,,Venezuela,7.8155015,-72.4485304
+4548442389,Terra Sur,,,Venezuela,7.767424,-72.2242715
+4563809790,Hotel Apamate,,,Venezuela,10.6435732,-63.2615552
+4564293984,Hotel Katus,,,Venezuela,8.6552136,-70.2525682
+4569700989,Hotel 5ta AV,,,Venezuela,7.7703292,-72.2330487
+4569700990,Hotel Japon,,,Venezuela,7.7694482,-72.2324942
+4571087203,Hotel wuilmar,,,Venezuela,11.1652092,-68.7344792
+4575933961,CASA BLANCA VIP,,,Venezuela,7.7710418,-72.2132455
+4578192090,Posada La Mia Casa,,,Venezuela,8.5960186,-71.1440497
+4591739092,Hotel Médano,,,Venezuela,11.4148426,-69.6662874
+4604859282,Carache,,,Venezuela,9.6276378,-70.2294887
+4620037590,Posada Violeta,,,Venezuela,10.9550348,-63.8425865
+4620839890,Complejo turístico Mis Ensueños,http://www.misensuenos.com,,Venezuela,9.2363757,-70.2417773
+4628818190,Posada la Coronela,,,Venezuela,7.7531684,-72.2165502
+4681917792,Hotel Guaparo Suites,,,Venezuela,10.2277493,-68.0075196
+4682626998,Hotel Manuel,,,Venezuela,7.8150857,-72.443916
+4684568989,Hotel La Estancia,,,Venezuela,10.0114711,-69.2284607
+4703941593,,,,Venezuela,8.3671847,-62.6652349
+4703941598,Hotel Yolly,,,Venezuela,8.368565,-62.6637406
+4703955290,,,,Venezuela,8.3669609,-62.6647881
+4703962192,,,,Venezuela,8.3669631,-62.6596183
+4703962290,Hotel El Águila,,,Venezuela,8.3672818,-62.6649908
+4703965290,,,,Venezuela,8.3702881,-62.6611226
+4704012291,Hotel Los Primos,,,Venezuela,8.3674918,-62.6632346
+4721382792,Posada Los Fundadores. Bejuma,,,Venezuela,10.1751134,-68.2508598
+4727798890,Tiguani,,,Venezuela,9.2453271,-70.2601793
+4727904789,Campestre La Colina,,,Venezuela,9.2457383,-70.2774308
+4728029800,Mi Pequeño Jardín,,,Venezuela,9.243158,-70.2687955
+4728086989,Casa Blanca,,,Venezuela,9.238717,-70.2725725
+4733090021,Esguillen,,,Venezuela,8.3286131,-71.7510329
+4737310424,Hotel Takiko,,,Venezuela,10.774074,-71.5184712
+4738198521,Hotel Don Carlos,,Ciudad Bolívar,Venezuela,8.1432489,-63.5524846
+4753111540,Hotel Reina Suites,,,Venezuela,7.9041609,-67.4765363
+4771775128,Luz Caraballo,,,Venezuela,8.6033987,-71.1390433
+4771865821,Milla Suite,,,Venezuela,8.6027859,-71.1381624
+4779346158,Hotel Castelo,,,Venezuela,10.0838054,-69.3151217
+4784690223,Posada Eco Lodge,http://ecovenezuela.com,,Venezuela,10.4880196,-67.7733884
+4790576422,Covadonga,,,Venezuela,9.2441443,-70.2707396
+4790846525,Hotel Acuario,,,Venezuela,10.4822778,-67.7722601
+4810638350,Hotel Venezuela Mía,,,Venezuela,9.083414,-70.7394566
+4810716821,Hotel Magla,,,Venezuela,9.1303136,-70.7074004
+4810716826,Hotel Portachuelo,,,Venezuela,9.1303286,-70.7053882
+4824154151,Hotel Paradise,,Carúpano,Venezuela,10.6640044,-63.2502765
+4824154439,,,,Venezuela,10.6646552,-63.2486531
+4828748080,Hotel Bahia,,Punto fijo,Venezuela,11.6919646,-70.2097245
+4829259122,Kamoiran,,,Venezuela,5.6171365,-61.36397
+4837843837,Hotel El Cielo,,Carúpano,Venezuela,10.6624808,-63.3165304
+4840417729,Hotel Alessandro,,Carúpano,Venezuela,10.6686625,-63.2465516
+4858319841,Hotel Coordillera,,,Venezuela,9.295834,-70.6711948
+4907450021,Hotel Jolly,,,Venezuela,10.0722378,-69.2983645
+4910609722,Hotel Jardín,,,Venezuela,8.1268757,-63.5496977
+4964371084,El Cid,,Punto Fijo,Venezuela,11.6943771,-70.2101531
+5007362183,Hotel Aladin,,,Venezuela,10.1988428,-67.9653479
+5052218221,La Pequeña Valencia,,,Venezuela,10.1852075,-68.0020091
+5054973921,Princesita Suites,,,Venezuela,9.0715025,-69.7058784
+5060031459,Hotel La Quizanda,,,Venezuela,10.1777536,-67.9681794
+5096900924,Hotel Plaza,,,Venezuela,9.29926,-70.6127797
+5103659924,Hostal Valle de los Mucas,,,Venezuela,9.2342154,-70.2733824
+5107464022,Casa Campo,,,Venezuela,9.7380704,-69.6580408
+5126993933,Posada Virgen del Valle,,Ciudad Guayana,Venezuela,8.2525209,-62.7786595
+5141338125,Hotel Paraíso,,,Venezuela,11.4580587,-69.5486784
+5148553385,Posada Orinokia,,Ciudad Guayana (Puerto Ordaz),Venezuela,8.2732597,-62.7889934
+5153715539,Posada Tu Quinta Canaan,,Ciudad Guayana (Puerto Ordaz),Venezuela,8.2513817,-62.8013518
+5166243824,"Hotel Santa Barbara, C.A.",,,Venezuela,10.3497923,-67.0411579
+5171498922,Hotel Acarigua,,,Venezuela,9.557966,-69.2073532
+5175961182,Hotel Javiar,,Los Teques,Venezuela,10.3494085,-67.0410819
+5216484911,Hotel Yaracal,,Yaracal,Venezuela,10.9737173,-68.5427967
+5218429022,Hotel Turístico Sol de Arichuna,,,Venezuela,9.3287567,-69.1204782
+5223180622,Posada Libertad,,,Venezuela,7.8220429,-72.3220167
+5224119221,Hotel Milenium,,,Venezuela,10.0697101,-69.3209679
+5226484222,Hotel Boutique Las Palmas,,,Venezuela,7.7839938,-72.2123016
+5240193646,Hotel El Mirador,,,Venezuela,7.8200143,-71.1932092
+5240999021,,,,Venezuela,10.4697169,-68.0160259
+5240999022,Isla Larga Hotel Suites,,,Venezuela,10.4718868,-68.0181402
+5240999221,Pequeña Vegas,,,Venezuela,10.4702223,-68.0149622
+5241000522,Hotel La Fragata,,,Venezuela,10.4719108,-68.0189089
+5241025822,Ensenada Suites,,,Venezuela,10.4715795,-68.027184
+5251443921,Hotel Alcalá,,,Venezuela,10.1920215,-67.9649848
+5253366354,Hotel Don Luis,,Valera,Venezuela,9.314661,-70.6113071
+5259762321,Hotel Paramaconí,,,Venezuela,10.0552925,-72.5582077
+5273380925,Urumaco Suite,,,Venezuela,11.4093241,-69.6737808
+5294356327,Hotel Gran Príncipe de Araure,,,Venezuela,9.6002476,-69.1737585
+5294357022,Hotel Miraflores,,,Venezuela,9.5866144,-69.186353
+5296247621,Hotel Wladimir,,Maracay,Venezuela,10.2515077,-67.5992059
+5298314123,,,,Venezuela,10.2495448,-67.6003646
+5298314124,Hotel Adrimer,,,Venezuela,10.248931,-67.5979341
+5298314127,Hotel El Preferido,,,Venezuela,10.2485145,-67.5975016
+5298325821,Hotel Rio Neveri,,,Venezuela,10.2490798,-67.5979032
+5298325823,Hotel Florida,,,Venezuela,10.2492551,-67.6029461
+5298363821,Mar de plata,,,Venezuela,10.2526234,-67.5989787
+5301531769,Gardel,,,Venezuela,10.2157168,-68.0110381
+5303921727,Hotel Arvi,,,Venezuela,7.8245548,-71.1872793
+5305280223,Los Ranchos de Chano,,,Venezuela,10.4990886,-67.6085655
+5308801421,Inter INN,,,Venezuela,10.6683583,-71.6114426
+5312289121,Hotel Plaza,,,Venezuela,10.2049752,-67.473411
+5319242124,Hotel Comercio,,,Venezuela,10.2224885,-64.6356657
+5319246522,Hotel American Suites,,,Venezuela,10.2231604,-64.6337399
+5319271521,Hotel El Trébol,,,Venezuela,10.2259661,-64.6307231
+5319275722,Hotel Cristina Suites,,,Venezuela,10.2198738,-64.6312599
+5319283525,D Spa,,,Venezuela,10.1793566,-64.6784942
+5319283526,Tropical Suites,,,Venezuela,10.179904,-64.6786148
+5319312221,Hotel Neveri,,,Venezuela,10.1391696,-64.6846802
+5321098422,Apart Hotel Gran Franca,,Cumaná,Venezuela,10.4567518,-64.1859089
+5322291921,Hotel Savoia,,Cumaná,Venezuela,10.4560616,-64.1858889
+5322859822,Hospedaje Italia,,Cumaná,Venezuela,10.463265,-64.1738964
+5322871421,Posada San Francisco,,Cumaná,Venezuela,10.4606458,-64.1745015
+5325980523,Posada D'Dino,,,Venezuela,11.0851346,-63.9698417
+5326045024,Posada Atlantic,,,Venezuela,11.1184533,-63.9323785
+5326045324,Posada Arimacoa,,,Venezuela,11.1095481,-63.9218551
+5326045388,Las Casitas de Fredis (Casas Vacacionales),http://www.venaventurs.com/lascasitasdefredis,,Venezuela,11.1093725,-63.9194046
+5326047621,Posada Agua Viva,,,Venezuela,11.1195412,-63.9313498
+5326070058,La Posada de Gabriel,,,Venezuela,11.1092155,-63.9189265
+5327563223,Hotel Sunsol,,,Venezuela,11.1445322,-63.8633052
+5327575924,Posada Doña Romelia,,,Venezuela,11.1489773,-63.8786089
+5328082422,Posada La Bartolita,,,Venezuela,11.1100331,-63.9232652
+5329280226,Club Punta Playa Hotel Resort,https://islamargarita.travel/puntaplaya,,Venezuela,11.1218616,-63.9236429
+5329367022,Hotel Salto Ángel,,,Venezuela,10.0650757,-69.343119
+5331532225,Hotel Costa Brava,,,Venezuela,10.9707795,-63.837856
+5331538721,Hotel Flamingo,,,Venezuela,10.9631626,-63.8437689
+5348157746,L'Oasis,https://www.loasisbnb.com/,,Venezuela,11.0230084,-64.374705
+5360915721,Hotel La Solana,,,Venezuela,10.06625,-69.3418289
+5378923921,Hotel Edi,,,Venezuela,8.1128141,-63.5418693
+5432132821,Valera,,,Venezuela,9.3192379,-70.6016202
+5438122422,Hotel Macagua,,,Venezuela,8.3331049,-62.6453929
+5496772002,Hotel Inverazuela,,,Venezuela,10.4961632,-66.8333775
+5519374331,Rancho Los Herederos,,,Venezuela,10.9154682,-64.0492076
+5521004504,Hotel Casa Maya,https://casamayaelyaque.com/,Playa El Yaque,Venezuela,10.8980176,-63.9657053
+5521004854,Hotel Surf Paradise,,,Venezuela,10.8972573,-63.9623386
+5521004890,Jump'n Jibe,,,Venezuela,10.8975217,-63.9613836
+5521005030,El Yaque Beach Hotel,https://islamargarita.travel/yaquebeach,,Venezuela,10.897528,-63.9611523
+5521005054,Casa Viva Hotel,,,Venezuela,10.8976093,-63.9602508
+5521005093,El Yaque Suites,,,Venezuela,10.899146,-63.9601566
+5521091265,Casa Nora,,,Venezuela,10.9017375,-63.9613374
+5521290056,Posada Namaste,,,Venezuela,10.8989388,-63.963665
+5521290057,Kaleo Beach Suites,,,Venezuela,10.90001,-63.9659012
+5550591922,Hotel Florencia,,,Venezuela,10.0653944,-69.3228951
+5557320518,Posada Los Chíparos,,,Venezuela,10.9991179,-64.0220013
+5557321945,Posada Hostal Tukusito,,,Venezuela,11.0012251,-64.0204498
+5575924121,Hotel salma suit,,,Venezuela,9.0507292,-62.047023
+5577062459,Posada Sun Set,,,Venezuela,11.0851833,-63.9723998
+5577062460,Hotel Patrick,,,Venezuela,11.0849709,-63.9719801
+5577062461,Posada Las Playas,,,Venezuela,11.0849249,-63.9716838
+5578283921,Hotel Saxi,,,Venezuela,8.9912018,-62.0782813
+5578549245,Posada Quinta San José,,,Venezuela,11.0051117,-63.9585701
+5579494962,Hotel Kokobay,www.islamargarita.travel.com,,Venezuela,11.1085783,-63.9591512
+5579666921,Hotel Terraza Suites,,,Venezuela,9.5365239,-69.2299087
+5586993787,Posada Balcones De Tacarigua,,,Venezuela,11.0498833,-63.894889
+5590660379,Posada de Raúl,www.casahorus.com,,Venezuela,11.0705396,-63.9242915
+5590775744,Posada La Arcadia,,,Venezuela,11.1125045,-63.9175799
+5590775763,Posada Hulmaria,,,Venezuela,11.113553,-63.920284
+5593497622,Posada Ranchos De Sergi,,,Venezuela,11.101703,-63.9554358
+5600471820,Posada Carmencita,,,Venezuela,11.0858547,-63.962308
+5678460635,Costa Galana Spa,,,Venezuela,11.1704429,-63.880127
+5694864576,Sunsol Punta Blanca,https://margarita.travel/puntablanca,Isla de Coche,Venezuela,10.80921,-63.9886169
+5698130329,Hotel Posada Clary,,Juan Griego,Venezuela,11.0848184,-63.9672389
+5700198279,Hotel Granzon,,Juan Griego,Venezuela,11.0826528,-63.9712733
+5700198283,Hotel La Coral,,Juan Griego,Venezuela,11.082141,-63.9716365
+5729169664,,,,Venezuela,11.1551848,-63.8833975
+5729169721,Ikaraton Hotel Boutique,,,Venezuela,11.1543761,-63.8811839
+5729334210,Agua Dorada Beach Hotel By Lidotel,,,Venezuela,11.1506063,-63.8692337
+5731320304,Posada Serena,,,Venezuela,11.1459297,-63.8720904
+5735267436,Hotel Hesperia Edén Club,https://www.hoteleshesperia.com.ve/,Playa El Agua,Venezuela,11.1452848,-63.8641054
+5735267438,Hotel Marlin,,Playa El Agua,Venezuela,11.1458079,-63.864584
+5735364907,Hotel Nathalie,,Playa El Agua,Venezuela,11.1396168,-63.859829
+5737129810,Posada Milsol,https://www.margarita.travel/,Playa El Agua,Venezuela,11.1430702,-63.8689085
+5737602491,El Pinar,,El Pinar,Venezuela,8.9184656,-71.3116489
+5750226012,Posada Santa Isabel,,Sotillo,Venezuela,10.407598,-66.0917911
+5959649486,Hotel El Canastro,,,Venezuela,9.8610894,-66.3834422
+5981470385,Hotel El Molino,,,Venezuela,7.7836136,-72.2116171
+6126937785,Hotel Las Vegas,,,Venezuela,10.0669821,-70.9206963
+6275103127,Posada El Secreto Centro de Arte.,,,Venezuela,10.7820303,-63.9958234
+6327036585,Hato La Garza,,,Venezuela,7.8938641,-69.3403412
+6341312739,Posada Logde Domus 369,,Ciudad Guayana,Venezuela,8.3346165,-62.6858224
+6341312754,Hotel Mucuchíes,,Ciudad Guayana,Venezuela,8.3512974,-62.6718559
+6384580391,Hotel Frankfurt,,,Venezuela,10.4143806,-67.2706221
+6384587985,Hotel SunFlower,,Puerto Cabello,Venezuela,10.4724439,-68.0421162
+6389222986,Hotel Vista Hermosa,,,Venezuela,11.1245142,-63.8499003
+6389222987,Hotel Villa Gaviota,,,Venezuela,11.1242736,-63.8490926
+6389222990,Posada Caribbean Palm,,,Venezuela,11.1230235,-63.8487705
+6416601685,Suiza,,,Venezuela,8.5135013,-71.8247743
+6449804387,Hotel RocaMar,,,Venezuela,10.202927,-64.6593857
+6449804392,Hotel Laguna Azul,,,Venezuela,10.0501463,-65.0298908
+6468886873,Hotel Turístico Queniquea,,Queniquea,Venezuela,7.9204993,-72.0180734
+6481127086,Nevada Suites,https://m.facebook.com/NevadaHotelRestaurant/?locale2=es_LA,,Venezuela,7.7485113,-72.207332
+6512169328,Hotel Palma Real,,Ramal de Dolores,Venezuela,8.3075579,-69.5426711
+6596070886,Posada La Luzonera,,,Venezuela,10.4928279,-67.528086
+6597120688,Hotel Plaza Suite,,,Venezuela,10.1978682,-71.3153867
+6597196185,Hotel Palacio Suite,,,Venezuela,10.1939698,-71.3108726
+6718280986,Hotel El Tisure,,,Venezuela,8.5992463,-71.1406329
+6726755585,Hotel Eco Inn,,,Venezuela,10.0596292,-64.9931277
+6747434492,Hotel Las Palmas Inn,https://www.laspalmasinn.com/,,Venezuela,11.7059029,-70.1873022
+6776205585,Hotel Florida,,,Venezuela,10.0656206,-69.3229833
+6780260385,Carrizal Suites,,,Venezuela,8.6239959,-70.2183618
+6822453685,Hotel El Paseo,,,Venezuela,10.6754819,-71.5908973
+6917910687,Las Vegas,,,Venezuela,10.5999881,-71.6503755
+6942750485,Hotel Don luis,,,Venezuela,10.0549649,-72.5584151
+6945143992,La Bokaina,,,Venezuela,10.5063031,-67.6090546
+6996041385,Estancia Altos de Veracruz,,,Venezuela,9.7266832,-69.6537227
+7006663025,Hotel Las Turas,,,Venezuela,10.8183124,-69.5403025
+7082484986,Ecoposada Casa Maria,,,Venezuela,10.2828704,-68.2542604
+7096499486,Posada de Christina,,,Venezuela,11.0295047,-63.8663466
+7129450385,Hotel sol zuliano,,,Venezuela,10.6583305,-71.6365226
+7137231727,Hotel Portal del llano,,Puerto Páez,Venezuela,6.2245935,-67.4524647
+7137231730,,,,Venezuela,7.236837,-70.7324121
+7315450232,Hotel Bella Vista,,,Venezuela,7.8042367,-72.1955772
+7944528128,Hotel La Habana Cuba,,Ciudad Guayana (Puerto Ordaz),Venezuela,8.3161744,-62.7148336
+8057327674,Círculo Militar Maracay,,,Venezuela,10.2731027,-67.5819211
+8058434506,Hotel Olé,,Ciudad Guayana (Puerto Ordaz),Venezuela,8.3153417,-62.7127237
+8113978781,Hotel del Orinoco,,El Tigre,Venezuela,8.8861163,-64.260916
+8241527279,Portofino Plaza Hotel,,Ciudad Guayana (Puerto Ordaz),Venezuela,8.3076213,-62.7173985
+8382494615,Hotel Imperial,,,Venezuela,9.4228185,-64.4654555
+8382504940,Hotel Canaima Suites,,,Venezuela,9.42962,-64.4783294
+8382504944,Hotel Muñíz,,,Venezuela,9.4336422,-64.4792054
+8382505034,Hotel Los Pilones,,,Venezuela,9.4342819,-64.456021
+8392460368,Hotel Panamerícan,,,Venezuela,8.8862187,-64.2628805
+8400717583,Hotel Hato Nuevo,,,Venezuela,9.7372185,-64.5943161
+8416261652,Hotel Anaco,,,Venezuela,9.4205642,-64.4695219
+8416261708,Araguaney Express,,,Venezuela,9.4086027,-64.4621376
+8420221838,Hotel Gran Cacique,,,Venezuela,10.2067477,-64.6633411
+8420222034,Hotel Las Palmas,,,Venezuela,10.2360751,-64.5950694
+8423516534,Hotel Aladdin,,,Venezuela,10.1504164,-64.6457867
+8423516535,Automotel New,,,Venezuela,10.1481087,-64.6455705
+8474279973,Hotel Riviera,,,Venezuela,10.1993404,-64.6622815
+8474279974,Hotel Aqua Vi Suites,,,Venezuela,10.2017322,-64.6634552
+8481498201,El Dorado Suites,,,Venezuela,10.1069915,-64.6715251
+8637899717,Eurohotel,,,Venezuela,10.0534231,-69.359745
+8757837078,Hotel Juan Pescador,,,Venezuela,10.956339,-63.8525391
+8808089368,Posada Don Marcelo,,,Venezuela,7.2934806,-61.5120175
+8808089373,Hotel Posada Kaypoa,,,Venezuela,7.3184508,-61.5161071
+8808089376,Hotel Central,,,Venezuela,7.300912,-61.5057407
+8808089382,Hotel Las Acacias,,,Venezuela,7.2996332,-61.5057527
+8898259219,Baycla,,,Venezuela,7.2434681,-70.7200639
+8918368683,Paradise Coche,,Isla de Coche,Venezuela,10.8075741,-63.988226
+8949523826,Portal de Higuerote,,,Venezuela,10.4318935,-66.1190045
+9101384917,Hotel Nuestra Señora de Coromoto,,,Venezuela,8.213747,-72.2485271
+9173386348,Posada Casa Rosa,,,Venezuela,11.1379934,-63.8645571
+9242802057,Ara Meru lodge,https://www.arameru.com/,,Venezuela,6.2443079,-62.8548834
+9382453061,Timanel House,,,Venezuela,8.2841547,-62.710759
+9578935355,Hotel Leblanc Suites,,Puerto La Cruz,Venezuela,10.2165903,-64.6408155
+9578935376,Hotel Monagas,,Puerto La Cruz,Venezuela,10.2170312,-64.6412983
+9578935381,Hotel Yuruary Suites,,puerto la cruz,Venezuela,10.2169229,-64.6410663
+9626717316,Posada La Quilla,,,Venezuela,10.5498287,-67.2396326
+9675731501,posada tia claris,,puerto la cruz,Venezuela,10.1903065,-64.6357726
+9735814164,Hotel Paradise,,Puerto La Cruz,Venezuela,10.2227477,-64.6280095
+9739996385,Hotel El Montañez,,Caracas,Venezuela,10.4728575,-66.7718607
+9755706985,posada chuito,,puerto la cruz,Venezuela,10.2149039,-64.6419493
+9783956402,Hotel Luna sol,,Puerto La Cruz,Venezuela,10.2175674,-64.6406088
+9783956407,Hotel la perla,,Puerto La Cruz,Venezuela,10.2171749,-64.6399
+9804493130,Hotel Merys,,Puerto La Cruz,Venezuela,10.2151608,-64.6387289
+9809365406,Hotel Lomar,,Puerto La Cruz,Venezuela,10.2187657,-64.6383361
+9811589967,Hotel Senador,,Puerto La Cruz,Venezuela,10.2242618,-64.6350041
+9823301773,Posada luna Isamar,,Puerto La Cruz,Venezuela,10.2167047,-64.6395222
+9823301796,Hotel Marsella,,Puerto La Cruz,Venezuela,10.2193101,-64.637886
+9823305880,Hotel mi hotel,,Puerto La Cruz,Venezuela,10.2226624,-64.6353996
+9823305882,Hotel Colón,,Puerto La Cruz,Venezuela,10.2225304,-64.6352065
+9834652341,Hotel Riviera,,Puerto La Cruz,Venezuela,10.2243435,-64.6354822
+9834652404,Posada Diana,,Puerto La Cruz,Venezuela,10.2214593,-64.6381966
+9834652425,Hotel Neptuno,,Puerto La Cruz,Venezuela,10.2208416,-64.6386982
+9834652449,Residencias Monterrey,,Puerto La Cruz,Venezuela,10.2197382,-64.639645
+9853796820,Hospedaje my darline,,Puerto La Cruz,Venezuela,10.2194725,-64.6347678
+9859196094,Hotel puerto real,,Puerto La Cruz,Venezuela,10.2163014,-64.6358973
+9871416817,Hotel Rossi,,,Venezuela,9.7489089,-63.1721118
+9913648117,Hotel El Padrino,,,Venezuela,7.3520844,-61.8308728
+9917589864,Hotel las gaviotas,,Lechería,Venezuela,10.2016846,-64.694883
+9977206417,Posada del Sol,,,Venezuela,10.5033443,-67.6072777
+10090377810,Posada el dulce placer,,Barcelona,Venezuela,10.1281743,-64.6852285
+10117468230,Hotel Cilla Camaguán,,,Venezuela,8.1090477,-67.6063367
+10184302736,Hotel estoril,,Barcelona,Venezuela,10.1292237,-64.6830221
+10197896402,Posada VDP,,Barcelona,Venezuela,10.1269141,-64.6825339
+10208103295,Posada la estancia,,Barcelona,Venezuela,10.1330418,-64.6865301
+10263247778,Apart hotel canastel,,Barcelona,Venezuela,10.1433457,-64.6981178
+10613243179,Gran Hotel Guarico,,,Venezuela,8.9262228,-67.428877
+10616181027,Hotel Plaza Real,,,Venezuela,8.9211303,-67.4302486
+10616181028,Hotel La Vega,,,Venezuela,8.921598,-67.4297843
+10646883892,Hotel Villamar,,,Venezuela,8.94681,-67.3863435
+10678506025,Hotel Don Quijote I,,,Venezuela,8.9259018,-67.4315298
+10678506026,Hotel Don Quijote II,,,Venezuela,8.9137221,-67.4225347
+10681525419,hotel don Luis,,Barcelona,Venezuela,10.1350113,-64.6866525
+10681619320,hotel luna de miel,,Barcelona,Venezuela,10.134467,-64.6856071
+10681619323,,,Barcelona,Venezuela,10.1343798,-64.685583
+10681619373,Hotel colonial,,Barcelona,Venezuela,10.1341395,-64.6827666
+10681619379,hotel copacabana,,Barcelona,Venezuela,10.1337145,-64.6848051
+10681692761,hotel hipaniola,,Barcelona,Venezuela,10.1330808,-64.6851645
+10689315643,hotel doña María,,Barcelona,Venezuela,10.1354479,-64.6826086
+10689315650,Hotel,,Barcelona,Venezuela,10.1353641,-64.6831196
+10716973763,golden palace,,Barcelona,Venezuela,10.1261005,-64.6814419
+10717411112,pension Caracas,,Barcelona,Venezuela,10.1234116,-64.6813244
+10739934405,posada caridad del cobre,,Barcelona,Venezuela,10.1510196,-64.6802744
+10749415491,Hotel Cajigal´s,,Barcelona,Venezuela,10.1382143,-64.680194
+10751728727,Cocoroa Country and Beach Club,,,Venezuela,10.6670904,-68.2911711
+10751728916,Villas Vacacionales Los Cayos Con Playa Privada,,,Venezuela,10.6698156,-68.2931218
+10751729122,Posada Renacer,,,Venezuela,10.6956134,-68.3019837
+10751729127,Palmeras Suites,,,Venezuela,10.6980683,-68.3027481
+10751729128,Conjunto Residencial Turistico Puerto Viejo,,,Venezuela,10.7010914,-68.3036896
+10751729129,Conjunto Residencial La Gloria,,,Venezuela,10.7014993,-68.3039683
+10751729150,Residencias Playa Dorada,,,Venezuela,10.704061,-68.3049677
+10751729155,Hesperia Bahía Kangrejo,,,Venezuela,10.7092515,-68.3073581
+10751729157,Posada Caracola,,,Venezuela,10.7109385,-68.3068766
+10751729217,Posada Enerienacer,,,Venezuela,10.7185295,-68.3097574
+10751729270,Posada Maria Emilia,,,Venezuela,10.7320563,-68.3150337
+10751729474,Caribbean Suites Marina and Beach Club,,,Venezuela,10.7564364,-68.3243369
+10751729607,Tucacas,,,Venezuela,10.7547321,-68.3240254
+10751729608,Marina Napoli,,,Venezuela,10.7529496,-68.3232351
+10751729648,La Posada Palma Dorada,,,Venezuela,10.7716903,-68.3261963
+10751729649,Complejo Residencial Caribe,,,Venezuela,10.772676,-68.3259211
+10751856319,Hotel The Mountain,,,Venezuela,10.7890249,-68.3225397
+10751856503,Posada San Gabriel,,,Venezuela,10.8573291,-68.363414
+10751856505,Latitud 10 Hotel Boutique,,,Venezuela,10.8660779,-68.3660987
+10751856506,Latitud Suites,,,Venezuela,10.8662514,-68.3663436
+10751856507,Cotoperi Hotel & Lounge,,,Venezuela,10.8649616,-68.3661571
+10751921924,Hotel Albatros,,,Venezuela,12.004937,-69.8265735
+10753845163,Paraguaná Mall Hotel,,,Venezuela,11.679451,-70.1524878
+10753845258,Punto Fijo,,,Venezuela,11.6869301,-70.177015
+10753845259,Hotel La Península,,,Venezuela,11.6873391,-70.1778925
+10753845274,Hotel Riche Coucher,,,Venezuela,11.683985,-70.178749
+10754619610,Hotel El Faro,,,Venezuela,11.7726343,-70.1812132
+10754619800,Hotel Luiggi,,,Venezuela,11.7589282,-70.1797391
+10754619847,Posada mi bella santa ana,,,Venezuela,11.6966635,-69.9498916
+10754619915,Posada Santa Anita,,,Venezuela,11.7163374,-69.9573288
+10754619984,Hotel Paradise Adicora,,,Venezuela,11.9379802,-69.8064379
+10754619985,30 Nudos,,Adícora,Venezuela,11.9378865,-69.8077835
+10754619986,Posada Villa del Mar,,,Venezuela,11.9368169,-69.813034
+10754619988,Hotel Casa Blanca,,,Venezuela,11.9428026,-69.8087094
+10756777658,Posada Palawaipo´u,,,Venezuela,11.341078,-71.9634832
+10764512105,Hotel Romano,,,Venezuela,10.4324693,-71.6589306
+10764512121,Hotel Park El Ranchon de la Gocha,,,Venezuela,10.4321969,-71.6663162
+10769334934,El Solito,,,Venezuela,10.4371991,-71.6516565
+10774559105,Hotel Aquavi Suites,,,Venezuela,10.2041983,-64.6639471
+10776567499,Florida Suite,,,Venezuela,10.5438856,-71.5250382
+10776567625,Luna Suite,,,Venezuela,10.4917341,-71.4597027
+10782397973,Villa Maloka Margarita,,,Venezuela,10.9870552,-63.8168605
+10782397978,Marbellamar,,,Venezuela,10.9901574,-63.8203516
+10784762502,Quinta Cotoperiz,,,Venezuela,11.0041763,-64.0200032
+10784762527,Posada del Capitán,,,Venezuela,10.9925906,-64.0292951
+10800482035,Minais,,,Venezuela,7.824609,-72.4378244
+10800482036,Guilles,,,Venezuela,7.8264057,-72.4375798
+10815514943,Brisas de Coche,,,Venezuela,10.807193,-63.9858002
+10815514944,Bahía de Coche,,,Venezuela,10.806316,-63.987729
+10815514945,Cabañas Coven,,,Venezuela,10.8036083,-63.9863076
+10815515185,Media Playa,,,Venezuela,10.7670244,-63.9474264
+10832081205,Hotel Paraiso,,,Venezuela,10.6593038,-71.6107161
+10861077889,Hotel Rio Mar,,Barcelona,Venezuela,10.1490127,-64.6677447
+10905226593,Hotel Plaza,,San Fernando,Venezuela,7.8929145,-67.4761013
+10958011288,Tanausu,,,Venezuela,10.6078401,-67.0344133
+10968360449,,,,Venezuela,10.3287752,-68.7467305
+10969826318,Alamo,,,Venezuela,10.6057203,-66.8994817
+10969826319,Santiago de Macuto,https://hotelsantiagodemacuto.com/,,Venezuela,10.604784,-66.9012353
+10969826537,Plazamar,,,Venezuela,10.605612,-66.8960468
+10992880156,Costa Real Suites,,,Venezuela,10.6111679,-66.825886
+11026180641,Chelonia Eco Village,https://cheloniaecovillage.com/,,Venezuela,10.9502991,-65.2275529
+11082103839,Novo Hotel Express,http://www.novohotelexpress.com/,Caracas,Venezuela,10.4899703,-66.9210354
+11173084556,Posada Campos,,Puerto Páez,Venezuela,6.2225551,-67.4519808
+11178855137,Cabañas y Habitaciones Roraima,,,Venezuela,4.6112909,-61.1098796
+11233322897,El Bosque Dorado,,,Venezuela,10.1501244,-63.5807884
+11339243369,Hotel Tibisay Del Lago Maracaibo,,,Venezuela,10.6819777,-71.5940178
+11340554280,Hotel Juan Valdes c,,,Venezuela,7.7708944,-72.2208566
+11358809269,posada cumarco,,,Venezuela,10.4913077,-67.7409183
+11409047669,Posada Boca Beach,,,Venezuela,10.1309761,-65.394549
+11670320370,Posada Caripiteño,,,Venezuela,10.1128749,-63.0937037
+11672258569,Hotel Waraira Repano,,,Venezuela,5.6333069,-67.6032393
+11673716472,,,,Venezuela,5.6341629,-67.6046981
+11954000370,Hotel Bermúdez,,,Venezuela,10.2461667,-67.5935371
+12035952792,Posada Paraíso Queen,,,Venezuela,10.8250276,-68.3443596
+12043623306,Posada Medregal,,,Venezuela,10.5499129,-67.2414089
+12270884038,Hotel Jardín,,Maracay,Venezuela,10.2485651,-67.5939836
+12281748925,Hotel Poza Cristal,,,Venezuela,10.4867657,-63.4785585
+12307075072,Hotel El Paraíso,,,Venezuela,7.8737538,-67.5013505
+12497332151,Hotel Las Palmeras,,,Venezuela,8.0354868,-72.2536066
+12507145803,El besó,,,Venezuela,7.3001542,-61.5076898
+12571644752,Hotel Emiro,,,Venezuela,10.2889554,-67.7296798
+12586528408,Hotel Escocia,,,Venezuela,8.052405,-72.2519326
+12635330381,Ikin Margarita Hotel & Spa,https://www.ikinmargarita.com/,,Venezuela,11.1048013,-63.8411039
+12682522701,Tucupita Suite,,,Venezuela,9.0589541,-62.0525012
+12789361901,Bosques Suite,,,Venezuela,10.1337283,-70.1119285
+12790262002,El Mirador,,,Venezuela,9.0342935,-69.7640633
+12801298901,Agua Linda,,,Venezuela,10.1789661,-70.0893045

@@ -1,0 +1,259 @@
+id_hotel,nombre,url_principal,ciudad,pais,latitud,longitud
+447548023,Beverly Hills,,,El Salvador,13.6643453,-89.2540744
+462755981,Hotel Trópico Inn,,,El Salvador,13.47693,-88.184047
+465733550,Posada de Don Oli,,,El Salvador,13.8686713,-89.852339
+469067155,Las Veraneras,,,El Salvador,13.5276324,-89.8089112
+469067668,Roca Sunzal Surf Resort,https://rocasunzal.com/,,El Salvador,13.4934733,-89.3849535
+469069699,Hotel Astoria,,,El Salvador,13.9213409,-89.8479282
+472086762,Hotel American,,,El Salvador,13.7004471,-89.200069
+503714364,Villa La Lupe,,,El Salvador,20.1898643,-75.2306067
+630729249,Pasada Luna,,,El Salvador,13.4954854,-89.3839395
+864126790,Hostal Casa Verde,,,El Salvador,13.9922613,-89.5612612
+906059297,El Parador,,,El Salvador,13.9385408,-89.8551674
+1366010897,Hotel Kankan,,,El Salvador,13.9214937,-89.8453282
+1543149326,,,,El Salvador,13.6734687,-89.2998266
+1546620055,Olas Permanentes,https://olaspermanentes.surf/restaurantes/el-zonte/,Playa El Zonte,El Salvador,13.4953881,-89.4413685
+1546620074,Paraiso Azul Resort,,,El Salvador,13.4941881,-89.3893347
+1546620082,Hotel El Zonte,,,El Salvador,13.4955454,-89.4354366
+1546620106,Punta Gara,,,El Salvador,13.4953263,-89.4361769
+1546620115,Villa Bendición,,,El Salvador,13.4958213,-89.4362696
+1546620119,Canegue Hostal,,,El Salvador,13.4954823,-89.4386343
+1546620126,Esencia Nativa,https://esencianativa.com/,,El Salvador,13.4951641,-89.4394311
+1546675633,Qi-x la Fabrica (surfshop/hotel),,,El Salvador,13.4942766,-89.3796586
+1546675647,Tortuga Surf Lodge,,,El Salvador,13.4930946,-89.3833419
+1546675648,Hotel Pupa,,,El Salvador,13.4934097,-89.3813138
+1546675660,The Carp House,,,El Salvador,13.4950478,-89.3843665
+1546675661,La Sombra Hostel,,El Tunco,El Salvador,13.4938659,-89.3829681
+1546675664,Casa Miramar,,,El Salvador,13.492857,-89.3829502
+1546675667,Hotel Mopelia,,,El Salvador,13.4936759,-89.3833687
+1546675668,Casa Makoi,,El Tunco,El Salvador,13.4935418,-89.3830974
+1546675691,Tekuani Kal,,,El Salvador,13.4931919,-89.3830811
+1546675695,Papaya's Lodge,,,El Salvador,13.4944715,-89.3842886
+1546683895,Hotel La Guitarra,,,El Salvador,13.493942,-89.3846024
+1546732058,Hotel Barlovento,,,El Salvador,13.4940513,-89.3789428
+1549806601,Emerald Hotel,,,El Salvador,13.6973058,-89.2134824
+1549806603,Hotel Nueva Villa Santander,,,El Salvador,13.6975824,-89.2140878
+1549806649,Hostal Portada,,,El Salvador,13.6981323,-89.2140153
+1549940459,Restaurante y Hotel El Malecón,,,El Salvador,13.4874138,-89.3174592
+1549940485,Hotel Renacer,,,El Salvador,13.4863731,-89.3224962
+1549944985,Hotel el Faro,,,El Salvador,13.4866526,-89.3136257
+1551128532,Hostal en apaneca,,,El Salvador,13.8568813,-89.8039516
+1551150125,Igloo hostal at Laguna Verde Guest House,,,El Salvador,13.8850669,-89.7901275
+1551150148,"Casa de Montaña ""Laguna Verde""",,,El Salvador,13.8884674,-89.788811
+1551173171,Hotel Juayua,,,El Salvador,13.8463238,-89.7435965
+1551187825,Apartamentos Sta Lucia,,,El Salvador,13.8446571,-89.7433283
+1551187901,Casa de Huespedes Dona Mercedez,,,El Salvador,13.8418913,-89.7454687
+1551215074,Hotel Juayua,,,El Salvador,13.8445738,-89.7478344
+1551215094,Hotel y Restaurante el Mirador,,,El Salvador,13.8429539,-89.7486444
+1551253233,Hostal Villa Santo Domingo,,,El Salvador,13.8698371,-89.8517348
+1551253245,La Posada,,,El Salvador,13.8497989,-89.8229851
+1554337933,Hostal Raices,,,El Salvador,13.8673989,-89.8522508
+1554930532,Auto Hotel La Fuente,,,El Salvador,13.6667165,-89.2695188
+1554930544,Auto Hotel Flamingos,,,El Salvador,13.6666644,-89.2715841
+1554930565,Auto Hotel El Doral,,,El Salvador,13.6613944,-89.2767232
+1554930577,Auto Hotel La Campana,,,El Salvador,13.653703,-89.2783164
+1554962577,Hotel Merliot,,,El Salvador,13.675173,-89.263046
+1707848252,Hotel King Palace,,,El Salvador,13.4847971,-88.1712157
+1961069576,La Union INN,,,El Salvador,13.3424442,-87.8628379
+2072258512,Hotel Sahara,,Santa Ana,El Salvador,13.9939761,-89.5614073
+2390528560,El Casa de Mamapán,,,El Salvador,13.9188796,-89.848418
+2779438439,Hotel Florencia Centro Histórico,,,El Salvador,13.70199,-89.200384
+2948759942,Club La Joya Pacifico,,,El Salvador,13.3151037,-88.9393068
+3044869088,La Casa de Izel,http://lacasadeizel.com/,Santa Tecla,El Salvador,13.6767578,-89.287837
+3268261161,TropiClub,,,El Salvador,13.1720827,-88.0875837
+3368465482,Hotel-Cafe Arbol de Paz,,San Ignacio,El Salvador,14.336692,-89.1789501
+3368465483,Posada de Reyes,,San Ignacio,El Salvador,14.338181,-89.1775565
+3368510557,Hôtel-Restaurant El Pital Lecho de Flores,http://elpitallechodeflores.com/,Rio Chiquito,El Salvador,14.3621532,-89.1225908
+3371896819,,,,El Salvador,13.813482,-87.9693383
+3606453427,Casa Il Bongustaio Boutique Hotel,https://www.casailb.com/,San Salvador,El Salvador,13.6913546,-89.2439113
+3677717628,Hotel Alicante,,,El Salvador,13.6764054,-89.2414571
+3700466916,Villa Blanca,,,El Salvador,14.3305733,-89.4468707
+3700467028,Hostal Villa Blanca,,,El Salvador,14.333504,-89.4481426
+3782585761,Hostal Buenos Aires Restaurante y Bar,,,El Salvador,13.873255,-89.8500056
+3782589757,Hostal Las Terrazas de Santo Domingo,,,El Salvador,13.8700521,-89.8535515
+3816242907,Hotel Pacific Sunrise,,La Libertad,El Salvador,13.4868692,-89.3136207
+3816280170,Rancho Alcima,,Playa San Diego,El Salvador,13.4724522,-89.2658238
+3816898471,Hotel Rick,,La Libertad,El Salvador,13.4858939,-89.3239614
+3816898472,La Posada de Don Lito,,,El Salvador,13.4856822,-89.3239553
+3817485988,,,La Libertad,El Salvador,13.4869979,-89.3225734
+3817935063,,,El Majahual,El Salvador,13.4921423,-89.3667066
+3817935094,Eco Del Mar,,El Tunco,El Salvador,13.4939902,-89.3829862
+3817935096,Dylan's Surf Inn,,El Tunco,El Salvador,13.4936981,-89.3830425
+3817935098,LayBack Surf Hostel,,El Tunco,El Salvador,13.493395,-89.3831526
+3818368959,Tunco Lodge,,El Tunco,El Salvador,13.4946308,-89.3841943
+3819131774,Hotel Eclipse,,,El Salvador,13.4649424,-88.1700792
+3832015388,Rancho Estero y Mar,,,El Salvador,13.3787294,-89.0823344
+3866402560,Hotel,,,El Salvador,13.5908634,-87.772919
+3874199803,Hotel Royal King,,,El Salvador,13.5055153,-88.8760427
+3958980843,Las Magnolias,,,El Salvador,13.691642,-89.2385662
+3959411980,Meson de Maria Hotel,,,El Salvador,13.6886413,-89.2415896
+3969141542,Hotel y Restaurante Laínez,,,El Salvador,13.3428988,-87.8645068
+3969212926,Hotel Porto Bello,,,El Salvador,13.3375374,-87.8450811
+3969243403,Hotel Centroamericano,,,El Salvador,13.3349805,-87.842738
+3969266276,Hotel San Francisco,,,El Salvador,13.3357376,-87.8392794
+3969266277,Hotel Day and Night,,,El Salvador,13.3349695,-87.8392071
+3972334598,Hotel La Pasada de Márquez,,,El Salvador,13.4846065,-88.4670349
+3974111617,Motel Jardín,,,El Salvador,13.27361,-88.5494045
+3987114005,Hotel Cacahuatique,,,El Salvador,13.7645759,-88.2707289
+4015172403,Hotel Meson Maya Posada,,,El Salvador,13.9881265,-89.5536294
+4022546115,Eco Hotel Mariscal,https://hotelmariscal.com/#home,,El Salvador,13.7021863,-89.2285461
+4022775055,Hilton San Salvador,https://www.hilton.com/en/hotels/salsahh-hilton-san-salvador/,,El Salvador,13.7097284,-89.2412114
+4033387554,Hotel Camelot,,San Miguel,El Salvador,13.4855477,-88.1743772
+4037325460,,,,El Salvador,13.4920729,-88.1932462
+4037508561,Hotel Venecia,,,El Salvador,13.9911611,-89.5636834
+4038800650,Hotel Posada Real,,,El Salvador,13.9729662,-89.5627756
+4129247649,Hotel Paraíso,,,El Salvador,13.1794242,-87.6976132
+4129248337,Hotel La Joya,,Meanguera del Golfo,El Salvador,13.1754713,-87.6942415
+4133686289,Hotel Paso del Pital,,,El Salvador,14.3154006,-89.1683596
+4286427718,,,,El Salvador,13.493218,-89.391751
+4423670989,El Tibet,,,El Salvador,13.8344715,-89.62388
+4479031090,Continental Plaza Hotel,https://www.continentalplazahotel.dirsv.com/,,El Salvador,13.4848029,-88.1822764
+4511357589,Hotel Grecia Real,,san salvador,El Salvador,13.7092191,-89.2133621
+4575318571,Hotel Villa Real,,,El Salvador,13.7098688,-89.2139521
+4575318572,Hostal de Asturias,,,El Salvador,13.7096074,-89.2137272
+4609257491,Blanca Luna ($),,,El Salvador,13.9357194,-89.0259471
+4684056091,Hotel La Hachadura,,,El Salvador,13.8389708,-90.0793659
+4684056193,Hotel El Puente,,,El Salvador,13.8589589,-90.0861718
+4686093449,Hotel Arcos,,,El Salvador,13.4860592,-89.3306151
+4686123514,Pato Canales Hotel & Resort,,,El Salvador,13.4745046,-89.0695699
+4686124503,Hotel El Bunker,,,El Salvador,13.4876249,-89.3041487
+4689659093,Hotel Palmeras,,,El Salvador,13.1737858,-88.1082731
+4689659195,Hotel Leones Marinos,,,El Salvador,13.1734158,-88.1023388
+4689659196,Hotel Pacific Paradise,,,El Salvador,13.1706376,-88.0718215
+4689659291,Azul Surf Club,,,El Salvador,13.1728809,-88.098394
+4689678589,Hotel Rosita,,,El Salvador,13.1736987,-88.1070375
+4707514889,Firewood,,,El Salvador,13.4940157,-89.3814328
+4709191017,Auto Hotel Puerto Escondido,,,El Salvador,13.6022748,-89.8063344
+4714346490,Hotel Fonta,,,El Salvador,13.509765,-88.4877013
+4723086222,Hotel Mediterráneo Inn,,,El Salvador,13.6277124,-87.8936303
+4723087897,,,,El Salvador,13.5979937,-87.7691816
+4723087898,,,,El Salvador,13.5888077,-87.788521
+4816910892,Hotel El oso,,San Salvador,El Salvador,13.7013566,-89.1967785
+4831415175,Paraiso Real,,,El Salvador,13.958434,-89.7800112
+4868340124,Suites de Jaltepeque,,,El Salvador,13.3159735,-88.9379054
+4903809722,Hotel Livingston,,,El Salvador,13.9920892,-89.5616739
+4960239596,Monkey Lala Suites,,,El Salvador,13.4930705,-89.3835634
+5306932321,Hotel,,,El Salvador,13.7135998,-89.7181031
+5324669621,Hotel Torola Bay,,,El Salvador,13.1622138,-87.956451
+5341057423,Hotel Arizona,,,El Salvador,13.7137363,-89.7180241
+5348084122,Hotel Florida,,,El Salvador,13.7153865,-89.721272
+5355709534,Hostal Metapan,,,El Salvador,14.3307088,-89.4431192
+5366155522,Hotel el Mirador,,,El Salvador,13.8427033,-89.7483445
+5369290321,El Economico,,,El Salvador,13.9904917,-89.561749
+5403695421,Hostal Miraflores,,,El Salvador,13.9041276,-89.932444
+5483403072,Rancho Alicia,,,El Salvador,13.1720436,-88.1187839
+5483427120,Comedor Mama Kata,,,El Salvador,13.1714843,-88.1192052
+5506782762,Edith,,,El Salvador,13.5127198,-89.5973592
+5506782763,,,,El Salvador,13.5122321,-89.5957429
+5764482419,Hotel Boutique San Benito,https://san-benito-sv.book.direct/,San Salvador,El Salvador,13.6969943,-89.2370966
+5776059393,Hotel Latino,,,El Salvador,13.9828203,-89.5679466
+6034337286,Hotel central,,,El Salvador,14.3310535,-89.4462293
+6052795496,Hotel Villa Dovela San Benito,,San Salvador,El Salvador,13.6888266,-89.2406179
+6054798996,Hotel Sheraton Presidente,,,El Salvador,13.691336,-89.2416896
+6238713294,Hour Hotel,,,El Salvador,13.9910692,-89.5640415
+6240849985,,,,El Salvador,13.9916169,-89.5635545
+6250567685,,,,El Salvador,14.3215162,-89.1765361
+6250567686,Hostal y Mas,,,El Salvador,14.3629345,-89.1241046
+6250567885,Posada,,,El Salvador,14.3149692,-89.1683372
+6250567887,Cabanas Los Encios,,,El Salvador,14.3640021,-89.1235682
+6250568185,,,,El Salvador,14.315059,-89.1681317
+6250569189,Cabanas y Comida El Bosque,,,El Salvador,14.3646667,-89.123662
+6250569191,El Pital Highland Cabanas y Restaurant,,,El Salvador,14.3673534,-89.1236999
+6250569192,Se al Quila,,,El Salvador,14.3748948,-89.124597
+6264976230,Hotel Finca Campo Bello,https://hotelfincacampobello.com/,Cerro Verde,El Salvador,13.8318794,-89.6365742
+6296898685,Casa de Maria,,,El Salvador,13.898716,-88.1155811
+6311941988,Hotel Arco Iris,,,El Salvador,13.6985546,-88.1042343
+6312578990,Hotel San Francisco,,,El Salvador,13.6984447,-88.1042462
+6312907286,Hotel Los Hermanos,,,El Salvador,13.6262571,-87.8904416
+6312984185,Hotel Larios,,,El Salvador,13.6299572,-87.8865167
+6401672686,Hostal Doña Angelina,,,El Salvador,13.9845322,-89.6792396
+6574462491,AUTO-HOTEL EL PAISANO.,,,El Salvador,14.0529752,-88.9958396
+6592277585,Hotel CERVECERIA PUNTO X,,,El Salvador,14.0596144,-89.0039292
+6832882986,Rancho Argueta,,,El Salvador,13.475616,-89.0663771
+6977232585,,,,El Salvador,13.7799953,-89.7369387
+7016826514,Kartagus Hotel & Eventos,http://www.kartagushotelelsalvador.com/,San Salvador,El Salvador,13.7083228,-89.2360482
+7037360285,hotel Torogoz,,,El Salvador,13.72008,-89.2072786
+7181756988,La perla de Azacualpa,,,El Salvador,14.2988749,-89.4752553
+7181756989,El Viajero,,,El Salvador,14.3349553,-89.4461683
+7181757188,Amacuilco Hostel,,,El Salvador,13.8931869,-89.5242378
+7441830085,Hotel Ramada Inn,https://us2.cloudbeds.com/es/reservation/7zqnwh/?currency=usd,San Salvador,El Salvador,13.7019284,-89.2398896
+7891249781,Tony Surf Hotel,,La Libertad,El Salvador,13.4867555,-89.321654
+8436244744,Hotel Armonia Hostal,https://www.armoniahostal.com/,San Salvador,El Salvador,13.719743,-89.2076849
+8750234194,hotel famropo,https://hotel-famropo.business.site/?utm_source=gmb&utm_medium=referral,,El Salvador,13.3017846,-87.8664325
+9217073466,Hotel Piedra Dorada,,,El Salvador,13.7018682,-89.1897905
+9366441417,jardín el Carmen,,,El Salvador,13.67612,-89.2889515
+9374464117,Hostal Raíces,,,El Salvador,13.941654,-89.0212664
+9395202517,Hotel Camelot,,,El Salvador,13.4856999,-88.1744887
+9769522518,,,,El Salvador,13.9956396,-89.5559291
+9769523017,"Hotel y Restaurante ""Los Amigos""",,,El Salvador,14.0425971,-88.9154915
+9769523117,Hotel El Patio de Don Mancho,,,El Salvador,13.6762359,-89.2868589
+10085630774,Garten Hotel,https://www.gartenzonte.com/,,El Salvador,13.4960915,-89.4433974
+10087444256,Hotel Michanti,https://hotelmichanti.com/,,El Salvador,13.4970075,-89.441047
+10112188400,Palo Verde Sustainable Hotel,https://paloverdehotel.com/,,El Salvador,13.4956433,-89.4384439
+10115300184,Bitcoin Landing Spot,https://linktr.ee/bitcoinlandingspot,San Salvador,El Salvador,13.7041881,-89.2489602
+10132813557,Hotel Martinez,https://thehotelmartinez.com/,,El Salvador,13.1742662,-88.120378
+10558509809,Santa Marta,,,El Salvador,13.3359403,-87.8434975
+10583032607,Las Cabañas,,,El Salvador,13.827645,-89.9487342
+10747504405,Pulunte House,,,El Salvador,13.8449973,-89.7134569
+10748881053,HOTEL,,,El Salvador,13.722385,-88.9362699
+10772067863,Don luis,,,El Salvador,13.6266072,-87.8870503
+10833026436,Hotel Don Quijote,https://hoteldonquijote.wordpress.com/,Concepción de Ataco,El Salvador,13.8698756,-89.8537016
+10874242305,,,,El Salvador,13.5096567,-88.4897116
+10876081906,,,,El Salvador,13.5097158,-88.4897048
+10914991205,,,,El Salvador,13.6873233,-89.2443439
+11131486005,,,,El Salvador,13.6711695,-89.2542608
+11131486105,,,,El Salvador,13.6711848,-89.2541847
+11131486205,,,,El Salvador,13.6711743,-89.2541784
+11142035293,Vista Las Olas Surf Resort,,,El Salvador,13.1726191,-88.1129426
+11142035294,Hotel Miraflores,,,El Salvador,13.1731166,-88.1148878
+11142035295,Hotel Infinito,,,El Salvador,13.1731472,-88.1151707
+11142035297,Hotel Infinito,,,El Salvador,13.1720525,-88.1150931
+11142035298,Hotel Alazan,,,El Salvador,13.1729632,-88.1111918
+11142035299,Sunset Hotel,,,El Salvador,13.1732122,-88.110604
+11160633008,Hostal Café El Cedro,,Berlín,El Salvador,13.4910331,-88.5335211
+11175541538,Pool House Hostel,,,El Salvador,13.9912725,-89.5577237
+11309812824,Villavela Hotel Boutique,https://www.hotelvillavela.com/,Acajutla,El Salvador,13.5886954,-89.8342671
+11310473582,Casa Ignacia,,,El Salvador,13.7227334,-89.7969152
+11323002783,HOSTAL LA JOYA,,,El Salvador,13.5583486,-88.4271011
+11328504391,Hotel & Restaurant Fleur de Lis,https://fleur-de-lis-ataco.business.site/?utm_source=gmb&utm_medium=referral,Concepción de Ataco,El Salvador,13.8707234,-89.8529993
+11328533114,Hotel La Fuente S.V,,,El Salvador,13.499917,-88.5276229
+11339091811,The Palace Hotel,,,El Salvador,13.4982773,-88.5239119
+11382056273,Hotel Finca San Nicolás,https://www.fincasannicolas.com/,San Salvador,El Salvador,13.6670131,-89.2192315
+11594889485,Mandala Eco Villas,https://www.mandalaecovillas.com/,,El Salvador,13.4856085,-89.351531
+11603019532,Hostal Cielo Azul,,San Salvador,El Salvador,13.7146068,-89.2187452
+11603030384,Green Life,,San Salvador,El Salvador,13.6831615,-89.2105223
+11603030990,Hostal Los Heroes,,San Salvador,El Salvador,13.6824433,-89.2250285
+11603061559,KAIBLUE,,La Libertad,El Salvador,13.4919433,-89.3703801
+11603065887,Hotel Tekapa,,,El Salvador,13.5089265,-88.4872867
+11603105662,Vennua Suits,,Mejicanos,El Salvador,13.7178775,-89.2081271
+12012784769,,,,El Salvador,13.6931944,-89.221335
+12098041087,Hostal Brisas de Berlin,,Berlín,El Salvador,13.4998159,-88.5309223
+12189179435,Looking Good,,,El Salvador,13.4953291,-89.4410837
+12259879882,Sol Tropical,,Municipio de San Luis La Herradura,El Salvador,13.3362483,-88.9868955
+12312738948,Bitcoin Container House,,Sonsonate,El Salvador,13.6546722,-89.7671152
+12338354285,Las Flores Resort,https://lasfloresexperience.com/es/,,El Salvador,13.1727145,-88.1181885
+12351899832,La Canasta,,,El Salvador,13.4960399,-89.4391792
+12357244001,Hotel Brisas del Norte,,,El Salvador,14.0846674,-89.1441831
+12360076401,Ximena's Guest House,,,El Salvador,13.7098992,-89.2118335
+12379441398,NAIA Miravalle,https://naiamiravalle.com/,,El Salvador,13.5317721,-89.758943
+12387620845,The Whale Lounge,,"Berlín, Usulután",El Salvador,13.4993947,-88.5310012
+12389304791,Mi Tierra Hotel y Restaurante,http://mitierra.info/,,El Salvador,13.4825684,-89.0658742
+12395474468,Puro Surf,https://www.purosurf.com/,,El Salvador,13.4963704,-89.4376257
+12459802250,Hotel San Alejo,,,El Salvador,13.4301309,-87.9641637
+12489343818,Blue Dolphin Hotel y Restaurante,,,El Salvador,13.1734426,-88.0985952
+12489343819,Posada Don Pablito,https://posadadonpablito.com/,,El Salvador,13.6378315,-88.7839923
+12530501656,Five Stars Hotel SV Inc,https://5starshotelsv.com/,,El Salvador,13.4980805,-88.5293612
+12534414701,Hotel Entre Pinos,,,El Salvador,14.3338614,-89.1784044
+12552176690,Casa V Mizata,https://www.casavmizata.com/,,El Salvador,13.5120135,-89.5975172
+12578274424,Hotel Casa Grande,,,El Salvador,13.4799574,-88.1838874
+12647758001,Silver Lake,,,El Salvador,13.879217,-89.5640034
+12654064586,Palo Verde,,,El Salvador,13.4963828,-89.4384825
+12657561701,Casa Maya Resort,,,El Salvador,13.4947057,-89.3957419
+12657615958,Los Cielos,,,El Salvador,13.8645635,-89.8024646
+12663151600,The Whale Lounge,https://www.thewhalelounge.com/,Berlin,El Salvador,13.4944719,-88.5312106
+12668194657,Tesoro Beach,https://hoteltesorobeach.com/,,El Salvador,13.3220381,-88.9529097
+12749969471,Casa blanca tu casa,,,El Salvador,13.9889865,-89.5482106
+12771272401,Hotel Y Restaurante Genesis La Laguna,,"La Laguna, Chalatenango",El Salvador,14.1620508,-88.9448793
+12813419239,Cabañas Chander,,"La Laguna, Chalatenango",El Salvador,14.1543402,-88.9364757
+12841037833,Miravalle Eco Surf,https://airbtc.online/properties/nature-retreat-in-paradise-miravalles-el-salvador/,,El Salvador,13.5315723,-89.7583241
+12863239831,Kuluka Resort,https://6f45c05c4a29c1e71e28d145.waiterio.com,,El Salvador,13.1730612,-88.1164311

@@ -1,0 +1,800 @@
+id_hotel,nombre,url_principal,ciudad,pais,latitud,longitud
+281793976,Posada Juma Ocag,,,Guatemala,14.558034,-90.7377631
+281794287,Hotel Pan American,,,Guatemala,14.6405835,-90.5143555
+281794288,Hotel Regis,,,Guatemala,14.742267,-91.1584378
+289716849,El Carmen,,,Guatemala,14.5578317,-90.7320771
+299722322,La Isla Verde,,,Guatemala,14.7397992,-91.2109544
+466576996,Grand Tikal Futura,,,Guatemala,14.6226742,-90.5539107
+471522432,El Puente,,,Guatemala,14.8343098,-91.5207636
+499380763,San Carlos,,,Guatemala,14.2526028,-90.2790371
+617430380,Hotel San Carlos,,,Guatemala,14.6058606,-90.5152843
+652192156,,,,Guatemala,14.5195112,-90.5345987
+767602083,Hilton Garden Inn,,,Guatemala,14.599916,-90.5177718
+795044425,Suites Altamira,,,Guatemala,14.6001586,-90.5203061
+806834269,Hotel Villa Dorada,,,Guatemala,14.6337037,-90.5193612
+806837879,Hotel Santoña,,Ciudad de Guatemala,Guatemala,14.6331224,-90.5127415
+806839122,Hotel Exel,,,Guatemala,14.6331016,-90.5119261
+806841546,Hotel Belmont,,,Guatemala,14.6329148,-90.5119476
+806861527,Hotel Capri,,,Guatemala,14.6323127,-90.5119798
+806872139,Hotel Fortuna Royal,,,Guatemala,14.6372409,-90.5120871
+806876760,Hotel Pension Altense,,,Guatemala,14.6401605,-90.5114326
+806879290,,,,Guatemala,14.6402643,-90.5117867
+806879292,Hotel Villa del Rosario,,,Guatemala,14.6388733,-90.5191359
+806880932,Hotel Portal de la Fé,,,Guatemala,14.6389902,-90.51925
+806892739,Hotel Residencia del Sol,,,Guatemala,14.6118236,-90.517662
+806911314,Apartamentos Quality S.A.,,,Guatemala,14.6049055,-90.5154452
+806912148,Radisson Hotel And Suites Guatemala City,https://www.radisson.com/guatemala-city-hotel-gt-01010/guatemal,Ciudad de Guatemala,Guatemala,14.6008979,-90.5150589
+806948076,Hotel Antaño,,,Guatemala,14.599176,-90.523386
+806954867,Hotel Time Watch,,,Guatemala,14.5956565,-90.5153444
+806957032,Hotel Posada Los Próceres,,,Guatemala,14.5953744,-90.5149517
+806960009,Santander Plaza Hotel,,,Guatemala,14.5965892,-90.5137071
+806966394,Hotel Casa Serena,,,Guatemala,14.5976666,-90.5118364
+806976959,Hotel Piedra Luna,,,Guatemala,14.5945049,-90.5074656
+806980584,Posada las Auroras,,,Guatemala,14.5861337,-90.5333302
+806981822,Posada San Judas Guatemala,,,Guatemala,14.585708,-90.5198118
+829976630,Posada de Tres Volcanes,,,Guatemala,14.7398942,-91.1602645
+829976656,Villas de Guatemala Santa Catarina,,,Guatemala,14.7222363,-91.135593
+847830597,Park Hotel,,,Guatemala,15.3751838,-90.4244027
+853331005,Rubel Nahuq,,,Guatemala,15.3387864,-89.7361701
+859535529,Emperador,,,Guatemala,15.343159,-91.3117435
+859535766,Tujaal,,,Guatemala,15.2898267,-91.08794
+904141324,Eco Hotel,,,Guatemala,15.3184813,-90.34088
+914853808,Villa Nebaj,,,Guatemala,15.4074122,-91.1470782
+965407986,Hotel Paradise Inn,,,Guatemala,14.7388299,-91.1574824
+965434197,Hotel El Chaparral,,,Guatemala,14.7392189,-91.1610487
+1028949236,Colibri,,,Guatemala,14.6921431,-91.2703283
+1028949239,Peneleup,,,Guatemala,14.6916528,-91.2700132
+1029824821,Joyas del Sol,,,Guatemala,14.6921958,-91.2703781
+1211456218,Valle Dorado,,,Guatemala,15.0834207,-89.481547
+1239164720,Filadelfia Coffee Resort & Tours,,,Guatemala,14.5792221,-90.7325266
+1241457145,,,,Guatemala,15.8085604,-88.7565401
+1241457248,Casa Perico,,,Guatemala,15.6786982,-88.9902266
+1241457297,Hotel Kangaroo,https://hotelkangaroo.com/,,Guatemala,15.6403563,-88.9913558
+1242632672,Finca Ixobel,https://www.fincaixobel.com/,,Guatemala,16.3041434,-89.4218184
+1258865298,La Iguana Perdida,,,Guatemala,14.740369,-91.206244
+1264393806,El Retiro Lodge,,,Guatemala,15.5813919,-89.9758091
+1291781879,Hotel Sabana,,,Guatemala,16.9316395,-89.8910026
+1291781919,Hotel Casa Azul,,,Guatemala,16.9316491,-89.8912739
+1382306626,Hotel Don Jose,,,Guatemala,14.6790987,-92.1407631
+1410870767,Los Nazarenos,,,Guatemala,14.6436867,-90.5162075
+1457029659,Hotel Lee,,,Guatemala,15.7322648,-88.6007843
+1457029700,Hotel Xelaju,,,Guatemala,15.7324713,-88.598896
+1457029731,Hotel El Reformador,,,Guatemala,15.7254644,-88.5994003
+1457029770,Hotel Henry Berrisford,,,Guatemala,15.7241476,-88.5973832
+1457029771,Hotel del Norte,,Puerto Barrios,Guatemala,15.7355216,-88.6043513
+1548329159,Hotel Santa Lucia,,,Guatemala,14.5576508,-90.73777
+1548330166,Hotel La Posada,,,Guatemala,14.55782,-90.737195
+1748791560,Hotel en Ticabus,,,Guatemala,14.6001225,-90.5502464
+1788015714,Hotel y Restarurante la Casona,,,Guatemala,14.276811,-90.3011754
+1796040072,,,,Guatemala,13.9290588,-91.1595508
+1873471066,Hotel La Paz,,,Guatemala,15.4714522,-90.3772132
+1979401717,Hotel Valle de la Esperanza,,,Guatemala,14.6344236,-89.9881984
+1984603930,Hotel Mendez,,,Guatemala,14.6331785,-89.9881889
+2047472999,Hotel Tikal,,,Guatemala,14.966057,-91.8073471
+2083618006,Posada de San Sebastián,,,Guatemala,14.5578532,-90.7323212
+2083834094,Hotel Camino Real,,,Guatemala,16.998442,-89.7265452
+2083834300,Hotel Palominos,,,Guatemala,16.9958301,-89.6927551
+2100327267,Hotel Puente Viejo,,,Guatemala,14.6283385,-89.9841486
+2103673158,Hotel La Catedral,,,Guatemala,14.5525754,-90.7397179
+2103673159,Hotel Casa Don Pedro,,,Guatemala,14.5594603,-90.7274763
+2103673160,Marqués de Antigua,,,Guatemala,14.5507493,-90.7332434
+2103673161,Hostal Las Marías,,,Guatemala,14.5554779,-90.7415097
+2103673167,Hotel Valle de Santiago,,,Guatemala,14.5547977,-90.7333557
+2103673170,Los Pasos,,,Guatemala,14.5531637,-90.7305853
+2103673171,Posada El Ángel,,,Guatemala,14.5515006,-90.7332324
+2103673172,Posada de los Leones,,,Guatemala,14.5611238,-90.7243497
+2103673173,Palacio de Doña Beatriz,,,Guatemala,14.5620512,-90.7246171
+2111024476,Hotel Portal de la Fe,,,Guatemala,14.5624923,-89.3529024
+2129367113,Palacio Chico,,,Guatemala,14.5554914,-90.7323327
+2135326197,,,,Guatemala,16.9233484,-89.903143
+2135326227,,,,Guatemala,16.922743,-89.9033441
+2135344010,Hotel Samaria,,,Guatemala,16.9186614,-89.887595
+2163840207,Hotel Emy,,,Guatemala,15.6657989,-89.0176045
+2163841030,Hotel,,,Guatemala,15.6607257,-89.0067882
+2163845047,Hotel,,,Guatemala,15.6581101,-89.0013484
+2180387838,Hotel y Restaurante El Submarino,,,Guatemala,14.2915724,-91.9136383
+2190349519,Auto Hotel California Dreams,,,Guatemala,14.5453335,-91.6797712
+2245575117,AutoHotel Sol y Luna,,,Guatemala,14.5317761,-91.677557
+2245575170,Hotel Montreal,,,Guatemala,14.5311948,-91.6782764
+2247379754,COMSYS REU,,,Guatemala,14.5433675,-91.6861341
+2271219114,Hotel Santiaguito,,,Guatemala,14.329162,-91.0316226
+2273085894,Hotel Chicago,,,Guatemala,14.5035084,-90.9496989
+2273085898,Hotel El Paraiso,,,Guatemala,14.5080149,-90.9486931
+2277281693,Hospedaje San Bernardino,,,Guatemala,14.501798,-90.9543686
+2282459794,Waron,,,Guatemala,15.2935731,-90.1195568
+2412281217,El Progreso,,,Guatemala,14.8546712,-90.0676641
+2454413572,Barceló Guatemala,,,Guatemala,14.5970142,-90.518335
+2481824687,Hotel Don Lorenzo,,,Guatemala,14.9149824,-90.5211748
+2488282184,"Hotel la villa de don pancho, Tecpan",,,Guatemala,14.7626532,-90.9932496
+2522440922,Casa Duranta,,,Guatemala,15.4689508,-90.3698794
+2523420531,Hotel Central,,,Guatemala,15.4706379,-90.3723584
+2523454866,Alcazar Doña Victoria,,,Guatemala,15.4756998,-90.3725744
+2524458876,Cabaña Suiza,,,Guatemala,14.6169922,-90.6177113
+2546219506,Villa Moncada,,,Guatemala,14.5649233,-90.5080175
+2546225392,Residenciales Lucerna,,,Guatemala,14.5652359,-90.5076342
+2578648491,Residenciales Cacic,,,Guatemala,15.4731862,-90.4016219
+2580453827,Hotel Europa,,,Guatemala,15.7302617,-88.5996664
+2583848562,,,,Guatemala,16.787505,-90.1154051
+2583848565,,,,Guatemala,16.787783,-90.1154535
+2583848570,,,,Guatemala,16.7880747,-90.1176464
+2583848574,,,,Guatemala,16.786905,-90.1117972
+2583848580,,,,Guatemala,16.7932288,-90.1250855
+2600784205,Hotel Villa Astur,,San Marcos,Guatemala,14.9642539,-91.7896083
+2635582257,Hotel Reforma,,Guatemala,Guatemala,14.6306496,-90.5115075
+2640338969,Finca Tatin,,,Guatemala,15.787618,-88.8007832
+2722402740,Hotel Fuentes,,,Guatemala,14.6286095,-90.5143684
+2724140307,Hotel Howard Johnson Guatemala,,,Guatemala,14.609811,-90.515183
+2726300974,Hotel Carillón,,,Guatemala,14.6026065,-90.5215023
+2726300977,Hotel Mayestic,,,Guatemala,14.602677,-90.5214547
+2741401613,Hotel Atlantis,,,Guatemala,14.620963,-90.516384
+2741454485,Latinos,,,Guatemala,14.6201688,-90.5165476
+2741454498,Hotel,,,Guatemala,14.621634,-90.5157151
+2742311042,Hotel Villa Española,,,Guatemala,14.6130519,-90.5155083
+2742440391,Porta Hotels,,,Guatemala,14.5995727,-90.5177513
+2802321181,Wanderlust Hostel,,,Guatemala,14.5547844,-90.7364251
+2962757033,Hotel Malú,,Teculután,Guatemala,14.990751,-89.714725
+2969424633,La Casa Del Mundo,https://lacasadelmundo.com,Jaibalito,Guatemala,14.7362481,-91.2162113
+2969699933,Hotel Casa Blanca Inn,https://hotelcasablancainn.com/,Ciudad de Guatemala,Guatemala,14.585167,-90.532896
+3101842205,Oasis Chiyú,,,Guatemala,15.84692,-89.45267
+3177756033,Hotel Dionisio Inn,,,Guatemala,14.5546115,-90.7364287
+3223652850,Hotel Catamaran Island,,,Guatemala,15.6721584,-88.99202
+3285070866,Gil Resort,,,Guatemala,15.826307,-88.7480018
+3285072361,Hospedaje Dona Alida,,Livingstone,Guatemala,15.8273946,-88.7480291
+3328593552,Hotel Marroquín,,,Guatemala,14.6342297,-89.6243416
+3328603606,Hotel El Dorado,,,Guatemala,14.6149999,-89.626735
+3330573217,HOTEL IPALA REAL,,,Guatemala,14.6204788,-89.6178273
+3330578493,HOTEL PEÑA,,,Guatemala,14.6195806,-89.6223867
+3356512431,Villas KM5,,Santa Catarina Palopó,Guatemala,14.7255555,-91.1401838
+3397330957,Hotel Villa Sol,,,Guatemala,14.6924195,-91.268966
+3397337332,Mikaso,,,Guatemala,14.6939982,-91.2679937
+3397679233,Pinocchio Hotel,,,Guatemala,14.6945501,-91.2700403
+3397679237,Casa Atitlan,,,Guatemala,14.6948459,-91.2703802
+3500121361,Chez Daniel,http://chezdanielantigua.blogspot.com/,,Guatemala,14.5529134,-90.7405138
+3524670423,Hotel,,,Guatemala,14.9680135,-91.7526514
+3665157480,Ever Green Hotel,,,Guatemala,14.5924953,-90.5078007
+3700464921,Chaltunha,,,Guatemala,16.9286058,-89.8927445
+3816447385,San Gregorio Hotel & Spa,http://www.sangregoriospa.com/,Villa Canales,Guatemala,14.4440738,-90.5003672
+3833753195,Ni'tun,,"San Andrés, Petén",Guatemala,16.9625299,-89.928184
+3833753196,Bolontiku Boutique Hotel,,"San Andrés, Petén",Guatemala,16.9624151,-89.9265883
+3872986223,Cafe Del Sol,,,Guatemala,13.8906255,-90.4854328
+3872986227,,,,Guatemala,13.8922397,-90.4903709
+3872990735,Cabo Tortugas,,,Guatemala,13.8849744,-90.4636486
+3873297200,Pacific Fins,,,Guatemala,13.9289352,-90.7470007
+3873584926,Martita,,,Guatemala,13.9247021,-90.8186113
+3873613495,Hotel Suites Mar Y Sol,,,Guatemala,13.9343667,-90.7824469
+3873613497,Club Mar Y Tierra,,,Guatemala,13.9357579,-90.782831
+3875326346,Casa Bourbon,,,Guatemala,14.5690117,-91.64988
+3875392563,La Perla,,,Guatemala,14.6191222,-91.5969897
+3875404190,El Jardin,,,Guatemala,14.6342319,-91.578732
+3875404191,Boca Costa,,,Guatemala,14.6330426,-91.5833451
+3877385729,La Esperanza,,,Guatemala,14.8643492,-91.5579037
+3877446699,Hotel Andalucia,,,Guatemala,14.8497966,-91.5220746
+3877446700,Hotel Tucson,,,Guatemala,14.8498795,-91.5217189
+3878709167,Posada Del Bosque,,,Guatemala,14.7467823,-91.1555561
+3881792024,Hotel Texas,,,Guatemala,14.2932477,-90.7827053
+3886501558,Hospedaje Sanchez,,,Guatemala,14.7422077,-91.1604996
+3888137403,Tortugal,https://www.tortugal.com/,,Guatemala,15.6497606,-89.0015083
+3909772536,Hotel Quinta de las Flores,,,Guatemala,14.5507536,-90.7286118
+3911410963,Hotel Hacienda Tijax,,,Guatemala,15.6627404,-89.0023408
+3928664668,Hotel Bambu,,Santiago Atitlán,Guatemala,14.6477033,-91.2296952
+3928774469,Hotel Tolimán,,San Lucas Tolimán,Guatemala,14.6376839,-91.1419473
+3932703312,La Reunion Golf Resort & Residences,,,Guatemala,14.4288348,-90.8329772
+3967263182,Bungalows Dos Americanos,,,Guatemala,14.7369616,-91.1494619
+3969287233,La Quinta Lucía Hotel,,,Guatemala,14.5552367,-90.7384362
+3973370933,turicentro las gardenias,,,Guatemala,14.693623,-91.8519701
+3989030357,Posada el enSueño,,,Guatemala,14.545796,-90.7268585
+4010161990,Zac Luk,,,Guatemala,16.9890686,-89.6914702
+4010161991,La Casa De Don David,https://www.lacasadedondavid.com/,,Guatemala,16.9937511,-89.6920358
+4010162895,El Muelle,,,Guatemala,16.9878734,-89.6920338
+4010162897,Sun Breeze Hotel,,,Guatemala,16.9928366,-89.6916552
+4010162898,Las Gardenias,,,Guatemala,16.9933311,-89.6913395
+4010164863,La Mansión del Pájaro Serpiente,,,Guatemala,16.9880034,-89.6916744
+4010166198,Girón,,,Guatemala,14.943679,-91.1114499
+4020259689,Utopía,,,Guatemala,15.5411618,-89.9351013
+4028637559,Sotano Hotel,,,Guatemala,14.6199013,-90.5164941
+4036817006,Las Torres,https://www.lastorreshotel.com/,,Guatemala,14.5998446,-90.5161537
+4036817007,Days Inn Hotel & Suites,,,Guatemala,14.6004833,-90.5139162
+4037684189,Hotel Casa Blanca,,,Guatemala,14.6167197,-90.5191378
+4048514151,Posada de Doña Angelita,,Antigua Guatemala,Guatemala,14.5571138,-90.7376277
+4051582414,Hotel Rodry,,Mazatenango,Guatemala,14.5377339,-91.5050003
+4053027185,,,Mazatenango,Guatemala,14.5347221,-91.505107
+4053795387,Hotel Brisas del Lago,,,Guatemala,14.7436504,-91.1590077
+4053921844,Hotel Costa Rica,,Mazatenango,Guatemala,14.5339548,-91.505941
+4054946679,Hotel Maua-Kanek,,,Guatemala,14.7449439,-91.1535025
+4057017485,Cabañas del Lago,,,Guatemala,15.5280512,-89.3215054
+4058578634,Hotel Los Arcos,,Patulul,Guatemala,14.4221515,-91.1611244
+4058720833,Hotel Reyes del Río,,,Guatemala,14.4225277,-91.1606365
+4060409406,Villa Lupita Hospedahe • Rooms,,,Guatemala,14.7462224,-91.1538542
+4073891519,,,,Guatemala,14.8365855,-91.5101484
+4082351626,Posada Los Volcanes,,San Lucas Tolimán,Guatemala,14.6331719,-91.142699
+4083404288,Hotel Iquitiu,,San Lucas Tolimán,Guatemala,14.6361429,-91.1402825
+4110759754,Hotel Ribiera Del Lago,,,Guatemala,17.0133057,-89.7587938
+4113148608,Parque Ecològico Hun Nal Ye,,,Guatemala,15.67765,-90.3196109
+4152347389,Hotel Vista Real,,,Guatemala,14.617855,-89.627266
+4226053113,HOTEL EL SOL,,,Guatemala,14.7367771,-91.1493505
+4226059603,Hotel Sanfrancisco,,,Guatemala,14.6921907,-91.2703115
+4226923389,Hotel Paraiso,,,Guatemala,14.6953575,-91.2718018
+4242486291,Hotel Río Lindo,,,Guatemala,14.6229003,-89.445621
+4254599389,Posada Belen Museo Inn,,,Guatemala,14.6346966,-90.509771
+4262610005,Hotel Casa Cristina,,,Guatemala,14.5615735,-90.7359426
+4262610232,Posada de La Luna,,,Guatemala,14.5558771,-90.7401739
+4262610233,Hotel Posada San Pedro,,,Guatemala,14.5538236,-90.7320809
+4262610234,Laguna Lodge,,,Guatemala,14.7403739,-91.1970107
+4262610235,Hotel Cirilo,,,Guatemala,14.5621017,-90.7263684
+4264093290,Hotel La Libertad,,,Guatemala,14.533274,-91.5022528
+4264095690,Hotel Rio Dulce,,,Guatemala,14.5307063,-91.5015202
+4274804089,"Hotel Sak'cari, El Amanecer",http://hotel-sakcari.com/,San Pedro La Laguna,Guatemala,14.6945226,-91.2689834
+4278776588,Hotel Palmera,,,Guatemala,14.8010783,-89.5418426
+4278823675,Hotel Victoria ll,,,Guatemala,14.8017841,-89.5414959
+4278824041,Hotel Gran Caporal,,,Guatemala,14.7678131,-89.5247719
+4278827403,Hotel California,,,Guatemala,14.8011866,-89.5409037
+4278831496,Hotel Victoria,,,Guatemala,14.8014482,-89.5418256
+4289680190,Hotel y Restaurante El Quinto,,,Guatemala,15.0079538,-91.1480263
+4297140690,Montebello,,,Guatemala,15.2322434,-90.2316874
+4297198790,Ram Tzul,,,Guatemala,15.209259,-90.2064762
+4297198891,Balneario Arroyo Verde,,,Guatemala,15.2396416,-90.2455583
+4301847195,Paredon Surf House,,,Guatemala,13.9156821,-91.069599
+4313720924,Viñas del Lago,,,Guatemala,15.6346755,-88.9992813
+4318454893,La Paz,,,Guatemala,14.7234463,-91.2596072
+4318459190,Paco Real,,,Guatemala,14.7235042,-91.2592374
+4318548391,Viñas,,,Guatemala,15.5713769,-89.9802612
+4318624390,Mr. Mullet's Hostel,,,Guatemala,14.6947085,-91.2734182
+4323391391,Posada Santa Teresita,,,Guatemala,14.560572,-90.7392661
+4336218217,Eco-Hotel Mayachik,https://www.mayachik.com/,San Juan La Laguna,Guatemala,14.6888876,-91.2881004
+4339301596,Hotel Spa Stanza,http://www.stanzahotel.gt/site/,,Guatemala,14.5442787,-90.4636197
+4365581790,Hotel Pop Wuj,,,Guatemala,14.9405393,-91.1115965
+4388782240,Casa Blanca,,San Pedro La Laguna,Guatemala,14.6932381,-91.2749558
+4389968389,Casa Rolando,,,Guatemala,14.6941655,-91.2738421
+4391195491,La casa de Iguana,,,Guatemala,15.8198544,-88.7525476
+4423012589,Hospedaje El Quijote,,,Guatemala,14.6280121,-90.5197559
+4458676191,El sueño de Tansú,,,Guatemala,15.5763691,-89.9799613
+4466405789,Hotel Casa Rustica,https://www.casarusticagt.com/,,Guatemala,14.5568076,-90.7353664
+4489617890,Hotel Monte Verde,,,Guatemala,15.635816,-89.003656
+4493018989,Hotel Nahual Maya,,,Guatemala,14.6956051,-91.2721633
+4494662491,Hotel Posada Catedral,,,Guatemala,14.833005,-91.517013
+4511471489,Hotel El Viajero,,,Guatemala,15.8232876,-88.7500919
+4518245990,Club Venaca,,,Guatemala,14.7366385,-91.2175741
+4537767890,La Casona de la Isla,,,Guatemala,16.9297959,-89.8927105
+4547191644,Chi-Ya Hotel,,,Guatemala,14.6958849,-91.2787134
+4560623389,Miguel de Cervantes Guest House ($),http://www.learn2speakspanish.com,,Guatemala,14.8327045,-91.5191506
+4574131991,Hotel mi Recuerdo,,,Guatemala,16.5133337,-89.4192861
+4577329668,Posada Las Marias,,,Guatemala,15.5415604,-89.9494589
+4577392622,Posada Rural y Ecuestre Unicornio Azul,,,Guatemala,15.3926745,-91.3802603
+4577393099,Hacienda San Antonio,http://quesochancol.com/,,Guatemala,15.4111827,-91.1947002
+4577461797,Posada De Jaibalito,,,Guatemala,14.7380616,-91.2195293
+4585984238,Hotel Cielo Azul,,,Guatemala,14.6452814,-91.226756
+4589720690,Hotel Cascata,http://www.facebook.com/hotelcascata1994,,Guatemala,15.3120298,-91.4822616
+4590031989,Hostal El Viajero,,,Guatemala,14.7451179,-91.1568127
+4594907889,,,,Guatemala,14.5487226,-90.7380659
+4600748689,Villa Ellina,,,Guatemala,14.5468465,-90.7469256
+4605037298,Panajache Hotel,,,Guatemala,14.7436476,-91.1537724
+4625664267,Hotel Casa Semuc,,,Guatemala,15.4696851,-90.3753136
+4635089192,Hotel Rab'in Itzam,,,Guatemala,15.5767407,-89.97998
+4636294290,Hotel Montana,,,Guatemala,15.3465803,-90.8718879
+4636294292,Hotel Casa Blanca,,,Guatemala,15.3457842,-90.8741252
+4636294792,Hotel D'Mendoza,,,Guatemala,15.3480263,-90.8686329
+4636442989,Popi's Restaurante y hospedaje,,,Guatemala,15.406334,-91.1479486
+4636472491,Hotel Santa Maria,,,Guatemala,15.4070172,-91.1480156
+4638639189,El Maguey,,,Guatemala,15.4353316,-91.0354333
+4638639289,La Posada de Don Juan,,,Guatemala,15.4343587,-91.0357639
+4642377113,Hotel El Sitio,,,Guatemala,15.0272189,-91.1476947
+4643212191,Hotel Bella Aurora,,,Guatemala,15.0313034,-91.147192
+4643212192,Hotel Getsemaní,,,Guatemala,15.0280493,-91.1469053
+4643212193,Hotel de don robert,,,Guatemala,15.0270189,-91.1474224
+4643332490,Hotel Terminal,,,Guatemala,15.0268476,-91.1474099
+4645163590,Hotel Kasa Kamelot,,,Guatemala,14.8334305,-91.5171024
+4652809989,Hotel Maria Elena,,,Guatemala,14.6958397,-91.2725548
+4660332191,Hotel Yoselin,,,Guatemala,15.6286185,-91.895929
+4660413490,Hotel Marisol,,,Guatemala,15.6423864,-91.9841283
+4660413493,Hotel Villa Cali,,,Guatemala,15.2987483,-91.5022104
+4660436593,Hotel Maria Eugenia #1,,,Guatemala,15.6424817,-91.9842479
+4660436597,Hotel Manolo,,,Guatemala,15.6168711,-91.8741025
+4660436598,Puerta al Cielo Hotel & Restaurant,,,Guatemala,15.3055507,-91.5216509
+4660436599,Hotel Castillo de Belen,,,Guatemala,15.2933339,-91.4877649
+4660437090,Hotel Sarita,,,Guatemala,15.6368112,-91.9185993
+4660437093,Hotel San Fernando,,,Guatemala,15.2948873,-91.4914034
+4660452289,Hotel Maricruz,,,Guatemala,15.6423109,-91.984353
+4660452389,Hotel Oasis,,,Guatemala,15.6416471,-91.9812042
+4660452689,Hotel Jeshua Ram,,,Guatemala,15.6411646,-91.9800472
+4660452889,Hotel Mily's,,,Guatemala,15.6407744,-91.9807421
+4660452890,Hotel Colonial,,,Guatemala,15.6144426,-91.8709005
+4660453090,El Reposo Hotel,,,Guatemala,15.6201245,-91.9418427
+4660453091,Hotel Valle Occidental,,,Guatemala,15.617539,-91.8752537
+4661324994,Hotel Grano del Paraiso,,,Guatemala,15.3116265,-91.4855211
+4661377690,Mont's Hotel,,,Guatemala,15.3071797,-91.4926982
+4661377692,Hotel Trinitaria,,,Guatemala,15.3118538,-91.482376
+4661377791,California Centro de Conveniones,,,Guatemala,15.311543,-91.4852848
+4661377989,Hotel del Prado,,,Guatemala,15.3122923,-91.4860286
+4661378092,Hotel y Restaurant Kristal,,,Guatemala,15.3113693,-91.4834927
+4661378093,Hotel & Restaurante California,,,Guatemala,15.3118386,-91.4824728
+4661378189,Hotel Oro Verde,,,Guatemala,15.318311,-91.4720526
+4663763901,Hotel el dragon,http://www.eldragonhotel.com,,Guatemala,14.7238184,-91.2572763
+4664169998,Hotel La Paz,,,Guatemala,14.7218623,-91.2583036
+4664200294,Posada Schumann,,,Guatemala,14.7219117,-91.2582044
+4665755602,Hotel Pelico,,,Guatemala,15.0381865,-91.5087737
+4666298696,Hotel S&J Bella Luna,,,Guatemala,14.8473692,-91.4808466
+4666304411,Hotel Real Classic,,,Guatemala,14.8597138,-91.4718188
+4666304412,Hotel Mansion del Viajero,,,Guatemala,14.8448123,-91.4867458
+4666334193,Hotel Reforma,,,Guatemala,14.9102897,-91.4411875
+4666351693,Pension Bonifaz Hotel,,,Guatemala,14.8350417,-91.5176824
+4666367004,Hotel Colonial San Miguel,,,Guatemala,14.8396878,-91.5031697
+4666367005,Hotel Arcos Inn,,,Guatemala,14.8394625,-91.5046635
+4666370714,Pension Ideal,,,Guatemala,14.8344776,-91.515392
+4669839190,Hotel del Oeste,,,Guatemala,14.8419791,-91.5159413
+4670164591,Casa Mañen,,,Guatemala,14.8343278,-91.5164274
+4670164592,Casa Ponce,,,Guatemala,14.8346304,-91.5165563
+4670170592,Hotel Hibiskus,,,Guatemala,14.8337185,-91.5169836
+4670170690,Hotel Kasa Kamelot,,,Guatemala,14.8333505,-91.5171232
+4670234889,Antigua Hotel,,,Guatemala,14.8347194,-91.5170143
+4673707390,Hotel Sueño Encantado,,,Guatemala,14.8219277,-91.3100552
+4673713791,Hotel China Town,,,Guatemala,14.7952133,-91.2922528
+4675324289,Hotel Tzanjuyu Bay,,,Guatemala,14.7437483,-91.1631432
+4675678892,Hotel Jardines del Lago,,,Guatemala,14.7405228,-91.1622019
+4675678894,Hotel El Palacio Maya,,,Guatemala,14.7440496,-91.1561068
+4675678895,Hotel California,,,Guatemala,14.7441137,-91.1560367
+4675708791,Hotel Casa Colonial,,,Guatemala,14.7405609,-91.1603116
+4675709290,Hotel Nimbo,,,Guatemala,14.7435681,-91.1583665
+4675715189,Hotel Blue Mayan,,,Guatemala,14.741069,-91.1604582
+4676542691,Hotel Ecológico El Venado,,,Guatemala,15.9257278,-90.6631591
+4677377590,Tzam Poc Resort,,,Guatemala,14.7173358,-91.1321799
+4677415390,Casa Palopó,,,Guatemala,14.7166044,-91.1318867
+4677424066,Hotel Calin's,,,Guatemala,15.6416752,-91.9832313
+4679364691,Hotel y Restaurante Las Bugambilias,,,Guatemala,14.4170947,-91.1714258
+4679364791,La Posada de Gerald,,,Guatemala,14.4201322,-91.1640799
+4679413991,Hotel del Pacifico,,,Guatemala,14.2895686,-90.9391299
+4680889792,Quinta San Rafael Hotel,,,Guatemala,14.1201931,-90.6458514
+4680889793,Hotel y Restaurante Papagayo,,,Guatemala,14.115738,-90.6444015
+4680909190,Hotel Arizona,,,Guatemala,14.2776085,-90.7658652
+4680956790,Hotel y Restaurante Costalinda,,,Guatemala,14.0668014,-90.3982508
+4684033293,Hotel y Restaurante La Carreta,,,Guatemala,14.0633784,-90.3706172
+4684033297,Del Sol Hotel,,,Guatemala,13.8811831,-90.0990939
+4684037593,Hotel y Restaurante La Esperanza,,,Guatemala,14.05634,-90.3564706
+4684037596,Hotel Arcoiris,,,Guatemala,13.8721897,-90.0948388
+4684056196,Hotel y Restaurante Cuernos,,,Guatemala,13.8703274,-90.0936911
+4684056197,Hotel Pasabien,,,Guatemala,13.8690594,-90.0925046
+4684062792,Hotel Sayrita,,,Guatemala,13.866558,-90.0924515
+4684421001,,,,Guatemala,15.0444368,-91.4057489
+4686032350,Hotel Reforma,,,Guatemala,14.9093459,-91.4423528
+4688847434,Hotel Salcaja,,,Guatemala,14.8866338,-91.4575049
+4692849796,Hotel Montufar,,,Guatemala,14.743197,-91.1558301
+4700348489,Casa familiar,,,Guatemala,15.5083819,-91.6040546
+4712555489,Camino Real,,,Guatemala,15.6781521,-91.8092235
+4721321189,Hotel Doña Eva,,,Guatemala,14.8013967,-89.5423607
+4721433707,Hotel Rio Lindo,,,Guatemala,15.6576333,-91.431625
+4726658602,Hotel aqua azul,,,Guatemala,16.519603,-90.1839867
+4726967390,Hotel Maya Ch'orti,,,Guatemala,14.8221251,-89.3908867
+4728186590,Hotel Ramirez,,,Guatemala,14.8218064,-89.3908061
+4740909729,Hotel El Atlántico,,,Guatemala,15.003975,-89.67107
+4744075439,Proyecto Turismo Cañón Seacacar,http://www.riosguatemala.com,,Guatemala,15.5726228,-89.2881103
+4745650824,Villa Veronica,,,Guatemala,15.6356665,-89.0040994
+4768743821,Casa Lobo,https://www.casalobo.org/,,Guatemala,14.6844391,-91.2601377
+4773142777,,,,Guatemala,14.5270858,-90.7637425
+4774201122,,,Cobán,Guatemala,15.4712383,-90.3968482
+4781761221,Hostel Vista Verde,,,Guatemala,15.5792733,-89.9815883
+4791595622,,,,Guatemala,15.719739,-88.5950138
+4795962826,Hotel y restaurante Río Dulce,,,Guatemala,15.82542,-88.7498253
+4795969322,Hotel Villa Caribe,,,Guatemala,15.8250944,-88.7493428
+4795969525,Flamingos Hotel y Restaurante,,,Guatemala,15.832397,-88.7535473
+4797705029,Hotel La Unión,,,Guatemala,16.9311867,-89.8924233
+4797705031,Posada de Don José,,,Guatemala,16.9318899,-89.890934
+4799146764,El Peregrino,,,Guatemala,16.9291182,-89.8925629
+4816938522,Hotel Caribe,,,Guatemala,15.735365,-88.59822
+4839162033,Hotel Tejutla,,,Guatemala,15.1237548,-91.8043599
+4839162272,Villa Dorada,,,Guatemala,15.1174536,-91.809079
+4846453723,Hotel Casa del Cerro,,,Guatemala,14.563007,-90.7321652
+4846749521,El Mirador,,,Guatemala,14.576889,-90.677194
+4855915530,Centro de Ideas,,Antigua Guatemala,Guatemala,14.553226,-90.7417472
+4862627221,Autohotel La Escondida,,,Guatemala,14.5180062,-91.6831031
+4874513321,Vagamundo,,,Guatemala,14.5591004,-90.7358787
+4882532822,Hotel Mansion de santo Domingo de Guzman,http://www.mansioncoban.com.gt,,Guatemala,15.4779079,-90.3450569
+4883963222,Hotel Casa Guastatoya,,,Guatemala,14.8515415,-90.0712602
+4883983425,América,,,Guatemala,14.5364958,-91.6751717
+4883983428,San Carlos,,,Guatemala,14.08543,-90.3787291
+4890472256,Hotel Posada Chinimaya,,p,Guatemala,14.7393841,-91.1568111
+4902283581,Hotel Jire,,Tejutla,Guatemala,15.1224799,-91.8058473
+4902283582,Hotel Los Olivos,,Tejutla,Guatemala,15.1232487,-91.8050381
+4907011322,Hotel Miralvalle,,,Guatemala,14.9660269,-91.7845227
+4911019721,,,,Guatemala,14.6001533,-90.5154084
+4926892921,,,,Guatemala,15.4804319,-90.3069755
+4970552222,Hotel Miralvalle,,,Guatemala,14.9663544,-91.7836271
+4972843024,Mansion del rio,,,Guatemala,15.6395225,-89.0051518
+4988940122,Hotel Tzutujil,,,Guatemala,14.7378673,-91.1579234
+4995424725,Casa en la Piedra,,,Guatemala,14.7357157,-91.2217375
+5000677422,Parking Alta Vista Hotel Boutique,,,Guatemala,14.6329038,-89.9869088
+5000677521,Alta Vista Hotel Boutique,,,Guatemala,14.6326713,-89.9870423
+5004142621,,,,Guatemala,14.6918883,-91.0250505
+5010072021,Mansión la villa,,,Guatemala,14.2927611,-89.8986346
+5049461123,Hotel doña juanita,,,Guatemala,15.3473468,-90.8017064
+5049461124,Hotel colonial,,,Guatemala,15.47195,-90.3644698
+5106446724,Casa Royli,,,Guatemala,14.5564505,-90.7288665
+5113342523,Valle de Oro,,,Guatemala,14.8830313,-91.5149529
+5139758829,Hotel Paraíso,,,Guatemala,14.7163828,-91.3047875
+5177211732,Hotel Shinula,,,Guatemala,15.3208142,-91.4683468
+5203397333,Casa Nativos,,,Guatemala,14.834795,-91.518798
+5224158022,Berna's Hotel,,,Guatemala,14.5356184,-90.184898
+5234101621,Candelaria Lodge,https://www.candelarialodge.com/,,Guatemala,15.8721531,-90.1064211
+5241156023,America,,,Guatemala,15.4733345,-90.3699812
+5241184721,Casa Villanueva,,,Guatemala,15.0267931,-91.1480809
+5251240924,EGDY,,Chimaltenango,Guatemala,14.6626076,-90.8247416
+5253278521,Hotel Camino Real,,,Guatemala,14.5971284,-90.5159692
+5258312350,Hotel Texas,,,Guatemala,15.6205258,-91.8825556
+5260475925,"Rancho Grande Hotel, Restaurante",,,Guatemala,15.2793842,-91.1148558
+5276500924,Hotel Posada San Vicente,,Antigua Guatemala,Guatemala,14.5558092,-90.7353167
+5278528372,Hôtel Costa Sur,,,Guatemala,14.2978791,-90.7850807
+5282549833,,,,Guatemala,14.8613642,-90.0825412
+5282549850,,,,Guatemala,15.0044263,-89.6692668
+5283017725,,,,Guatemala,15.004122,-89.6698887
+5284999422,,,,Guatemala,15.0047238,-89.6712448
+5288964723,Las Marías,,,Guatemala,13.928679,-90.6917162
+5294869930,,,,Guatemala,14.6493193,-90.4341929
+5324750724,Hotel,,,Guatemala,15.524877,-89.335386
+5333678138,Hotel Costa Azul,,Barrio la Bascula,Guatemala,15.6620356,-89.0091368
+5334184221,Rosa Saron,,,Guatemala,15.1024182,-90.3198892
+5334184421,Bella Achuapa 55Q,,,Guatemala,14.3564924,-89.8467104
+5353337523,Casa familiar,,,Guatemala,15.5089077,-91.6040651
+5378524022,Hotel Restorante San Juan Maya,,,Guatemala,14.6937697,-91.2859544
+5382321333,Hostal Colonial,,,Guatemala,14.5545835,-90.7378809
+5398979322,Tul y Sol Hotel Restaurant,,,Guatemala,14.7217093,-91.2588129
+5412982221,Casa Kaktus,https://www.casakaktus.com,,Guatemala,14.7409792,-91.2048933
+5423352321,Casa del Ernesto,,,Guatemala,16.9970153,-89.697778
+5438138423,Ecohotel Playa Quilombo,,,Guatemala,13.7906947,-90.2374247
+5440737921,Hotel Todos Santos,,,Guatemala,15.508575,-91.6038208
+5441131721,,,,Guatemala,14.9444233,-91.1089941
+5451686843,,,,Guatemala,14.7422422,-91.1923167
+5476181318,,,,Guatemala,14.8376361,-91.5230181
+5485237721,Dulce y Salado,,,Guatemala,13.8861921,-90.4715392
+5497695734,Las Peñas,,,Guatemala,15.7997962,-91.7566295
+5512660121,letona,,,Guatemala,14.6337282,-90.5129064
+5525541824,Yair,,,Guatemala,15.5240527,-89.3320604
+5529603485,Autohotel,,,Guatemala,14.6504468,-90.4521803
+5540641521,The travel hotel,,,Guatemala,17.0624008,-89.1509501
+5564997331,Hotel El Recreo,,,Guatemala,15.5739919,-89.981083
+5564997332,Estancia de la Virgen,,,Guatemala,15.8169726,-90.2912152
+5564997524,Hacienda Mil Amores,,,Guatemala,15.4088935,-91.1961338
+5564997527,Hotel La Uspanteca,,,Guatemala,15.348278,-90.8698155
+5590234122,Hotel Villa de Flores,,,Guatemala,16.9195485,-89.8874058
+5594790524,Hotel el Castillo,,,Guatemala,15.728467,-88.598486
+5614998321,Hotel y Restaurante Villa Linda,,,Guatemala,17.0580348,-89.1565
+5624967922,Hotel Dionisio,,,Guatemala,14.558688,-90.7367404
+5633838923,Hotel Pacifico,,,Guatemala,13.9167667,-91.0698949
+5633909824,Hotel Rio,,,Guatemala,15.0376663,-89.5945713
+5633924123,Hotel Margarita,,,Guatemala,15.2554429,-89.0958778
+5638585361,Soleil Antigua,,,Guatemala,14.5516378,-90.7387088
+5640485523,Hotel y Restaurante Tio Juan,,,Guatemala,14.8615737,-90.0734673
+5640762321,Hotel Atlántico,,,Guatemala,14.6511405,-90.5021229
+5648698221,Hotel las Buganvilias,,,Guatemala,14.6316965,-89.9884267
+5652663021,Hotel Tinamit,http://Facebook.com/hotel.tinamit,,Guatemala,14.6953983,-91.2725206
+5652728721,Los Amigos 2,,,Guatemala,16.9291632,-89.8910698
+5661936521,La Luna Azul,,,Guatemala,14.6946803,-91.2773313
+5686220721,Posada Yasab,,,Guatemala,14.6817884,-91.0110329
+5699778362,Hotel Jeresol,,,Guatemala,14.0714493,-90.4639013
+5712370421,Hotel Calle Real,,,Guatemala,15.4329226,-91.0370503
+5724602319,,,,Guatemala,14.9644518,-91.7950302
+5724605330,,,,Guatemala,14.9645817,-91.7926929
+5758784596,Hospedaje D' Reyes,,,Guatemala,14.7454635,-91.1570938
+5791170553,Campamento el chiclero,,,Guatemala,17.3954649,-89.6331439
+5808125894,Hotel,,,Guatemala,14.7100144,-92.0922163
+5808125897,Hotel,,,Guatemala,14.7234829,-92.0351512
+5808125898,Hotel,,,Guatemala,14.7237923,-92.0349712
+5808125899,Hotel,,,Guatemala,14.7254607,-92.0345292
+5808147206,Santa Fe Pajapita,,,Guatemala,14.7251456,-92.0326425
+5851480789,Hotel Villas de Monterrico,,,Guatemala,13.8902676,-90.482375
+5855279286,,,,Guatemala,14.7422103,-91.1923795
+5871896661,Hotel Central,,,Guatemala,14.5222734,-89.4568359
+5891796425,Hotel San Judas,,,Guatemala,14.5652191,-89.3507146
+5891814021,Hotel El Gran Chortí,,Esquipulas,Guatemala,14.5613491,-89.3598364
+5898426385,Madelen,,,Guatemala,15.2388039,-92.0696755
+5901056085,Casa Elizabeth,http://casa-elizabeth-gt.book.direct,,Guatemala,14.8357387,-91.518698
+5936120886,Hotel Villa Real,,,Guatemala,15.0728365,-91.8694193
+5938996789,,,,Guatemala,14.5542811,-90.7314425
+6030612085,,,,Guatemala,14.7368613,-91.1588287
+6066233286,El Hostal Lanquín,,,Guatemala,15.5761503,-89.9802697
+6073026585,,,,Guatemala,15.0954918,-91.1536607
+6091153085,Chiminos Island Lodge,,,Guatemala,16.4323974,-90.1907224
+6095465488,La Caribeña,,,Guatemala,15.7310517,-88.60194
+6122075485,The Walker hostal,https://www.thewalkerhts.com/,,Guatemala,14.8322692,-91.5188681
+6138142785,The Walker hostal,https://www.thewalkerhts.com/,,Guatemala,14.8322942,-91.5188498
+6138539788,El Mirador,,,Guatemala,15.5812627,-89.9722311
+6139371785,El Mashito,,,Guatemala,14.9430057,-91.1136185
+6146593085,Hostal la luna,,,Guatemala,14.8367996,-91.5188722
+6162476385,Hotel Arvik,,,Guatemala,15.3113346,-91.4814963
+6167240885,la luna,,,Guatemala,15.7043788,-91.5976307
+6173030860,Villas B'Alam Ya,,,Guatemala,14.7286215,-91.1414048
+6178824886,Hotel Monja Blanca,https://m.facebook.com/hotelmonjablanca/?locale2=nb_NO,,Guatemala,16.7967848,-90.1267718
+6204102687,Hospedaje y Restaurant Shadai,,,Guatemala,14.9693333,-91.79295
+6204102786,Hospedaje La Terminal,,,Guatemala,15.309432,-91.4826367
+6204384686,Hotel Aurora,,,Guatemala,16.9310937,-89.8921625
+6215303385,Hotel Mopan,,,Guatemala,16.7341013,-89.3760355
+6217025285,Hotel del Itsmo,,,Guatemala,14.6150018,-90.5215196
+6223061485,Paraíso Tropical,,,Guatemala,15.6572896,-89.0010585
+6223959591,,,,Guatemala,14.7176099,-91.2970989
+6223980885,,,,Guatemala,14.7141244,-91.3029007
+6223983186,El Te Telefono,,,Guatemala,14.9431054,-91.1137244
+6223983187,El Mashito,,,Guatemala,14.9430565,-91.1136047
+6224846593,Cabañas Brisas del Lago,,,Guatemala,15.5709432,-89.1980562
+6233164091,Hospedaje San Antonio,,,Guatemala,14.6297597,-90.5190949
+6233164092,,,,Guatemala,14.6147017,-90.5204409
+6233164689,Hotel Salomon,,,Guatemala,14.6281072,-90.520866
+6233166886,,,,Guatemala,14.6143839,-90.5205833
+6245938588,Hotel El Recuerdo,,,Guatemala,16.6604264,-90.2940945
+6245938589,Hotel Dany,,,Guatemala,16.6588843,-90.2904445
+6262121892,Hotel y Bungalows Santa Ana,http://www.hotelsantaanaxela.com,,Guatemala,14.8293754,-91.5257155
+6269097485,Hotel Nenton,,,Guatemala,15.7998761,-91.7548804
+6269592988,Viñas Hotel,,,Guatemala,15.5704387,-89.981442
+6294688985,Pensión el quetzal,,,Guatemala,15.805559,-91.3129088
+6326876767,Hotel Magdalena,,,Guatemala,15.8305696,-91.4771193
+6350580312,Villa de Guadalupe,,,Guatemala,15.0222921,-91.1474866
+6350580692,Hotel Don Gabriel,,,Guatemala,15.3470667,-90.8705122
+6350581086,hotel Tu casa de Descanso,,,Guatemala,15.3921399,-91.1388723
+6352588290,Mansión del Viajero,,,Guatemala,15.4743336,-88.8301626
+6353164685,Villa Florentina,,,Guatemala,14.6019417,-90.5305517
+6398377385,pensión buenos aires,,,Guatemala,14.8469517,-91.5207965
+6399364486,Hotel Victoria,,,Guatemala,15.3232252,-91.4689693
+6414019866,La ceiba,,,Guatemala,15.6519287,-91.9215982
+6417140185,,,,Guatemala,14.3450187,-90.3878096
+6426842700,Amatique Bay,,,Guatemala,15.7474167,-88.5774902
+6461983795,Hotel Tepepul Kaan,,,Guatemala,14.6941088,-91.2727042
+6480922186,Oxib Peck,,,Guatemala,15.4710532,-90.3818359
+6489650605,Tikal Inn,,,Guatemala,14.8039304,-89.5376617
+6501157687,Hotel barato,,,Guatemala,15.8040798,-89.8677428
+6514622888,Maya Hotel,,,Guatemala,15.9881301,-90.7833839
+6519761185,Don Abelino,,,Guatemala,16.3300096,-89.4202639
+6525699385,Hotel Tzalam Ha,http://www.hoteltzalamha.com.gt,,Guatemala,15.0735002,-90.2823763
+6528534485,Posada San Juan,,,Guatemala,14.5283921,-90.1862486
+6529956685,Hotel Payaqui,https://hotelpayaqui.com/,,Guatemala,14.5627131,-89.3521971
+6535915785,Hotel Villa Del Lago,,,Guatemala,14.6964015,-91.2717416
+6561548023,Hotel Cancuen,,,Guatemala,15.8665368,-90.0464851
+6585165085,Maya Moon Lodge,,,Guatemala,14.7275481,-91.2431717
+6585478203,Hotel Gran Shalom II,,,Guatemala,15.3989457,-91.143741
+6597800585,,,,Guatemala,14.5542601,-90.7319922
+6647590985,Mayan Spirit,,,Guatemala,16.9367659,-89.8988886
+6757992338,Hotel Casa Bella,,,Guatemala,13.8599019,-90.3980209
+6757992339,,,,Guatemala,13.8600503,-90.3983535
+6757992340,Playa Plana,,,Guatemala,13.8601727,-90.3986619
+6757992341,,,,Guatemala,13.8608502,-90.40037
+6757992359,,,,Guatemala,13.8606331,-90.3999122
+6757992360,,,,Guatemala,13.8614107,-90.4014042
+6758022459,Freedom Beach House,,,Guatemala,13.861961,-90.4035277
+6758022467,Villa Arena's,,,Guatemala,13.8625871,-90.4048145
+6758033106,Villa Victoria,,,Guatemala,13.8611479,-90.3979073
+6759509867,Hotel Iximché 2,,,Guatemala,14.7616797,-90.9922514
+6759781532,Hotel Manhattan,,,Guatemala,13.8630467,-90.4065349
+6772733088,Rancho Brisas del Mar,,,Guatemala,13.8627625,-90.40579
+6772733093,Rancho León,,,Guatemala,13.8655102,-90.4126614
+6772733094,Hotel Honolulu,,,Guatemala,13.8657863,-90.413289
+6772733103,Lahaina Resort,,,Guatemala,13.8658534,-90.4136031
+6772733104,Casa Caracol,,,Guatemala,13.8668872,-90.4162424
+6772733105,Casas Paraíso Monterrico,,,Guatemala,13.8679105,-90.4177536
+6787986423,Hotel Alonzo,,,Guatemala,16.9200086,-89.8921766
+6793642690,,,,Guatemala,13.8652971,-90.4118056
+6793642691,,,,Guatemala,13.865421,-90.4121296
+6818714861,Mon Ami,,,Guatemala,16.9972129,-89.7007663
+6820567606,Maya Jade,,,Guatemala,13.8466843,-90.3678476
+6820567688,El Refugio,,,Guatemala,13.8468561,-90.3661935
+6883913894,Hotel La Reina Isabel,,,Guatemala,15.9862387,-90.7832539
+6899165886,Posada Rural Yuam Ché,,,Guatemala,15.4271291,-90.4144208
+6914053586,Hotel California,,,Guatemala,14.6520708,-90.8921909
+7021152875,Hotel Villa Margarita,,,Guatemala,16.9295273,-89.8922221
+7021152879,Hotel Petén,https://hotelesdepeten.com/hotel-peten/,,Guatemala,16.929127,-89.8931126
+7021152884,Hotel Itza II,,,Guatemala,16.9290398,-89.8924622
+7021729491,,,,Guatemala,14.1850806,-89.6687727
+7024677287,Hotel Villa Hermosa,,,Guatemala,15.6613514,-91.7081751
+7024677804,Hotel y Restaurante Amazona,,,Guatemala,16.0378737,-91.7446586
+7024677990,HOSPEDAJE SANTA CRUZ,,,Guatemala,15.7676627,-91.8489482
+7024678029,Hotel Los Olivos,,,Guatemala,15.6684445,-91.7124862
+7024678048,Hotel Q'ANIL,,,Guatemala,15.6665057,-91.7157121
+7024678190,Hospedaje Nahemi,,,Guatemala,15.6661636,-91.7149504
+7024709286,Hotel Florida,,,Guatemala,15.6674927,-91.7109601
+7024713806,Hotel y Restaurante El Paso,,,Guatemala,15.6537885,-91.7718117
+7024713809,Hotel Susy,,,Guatemala,15.6543491,-91.7707864
+7024713822,Hotel,,,Guatemala,15.6819927,-91.8207859
+7024713889,Hotel Don Napo,,,Guatemala,15.6542049,-91.7718765
+7041144785,Sarah’s boutique Hotel y Restaurante,,,Guatemala,15.4691754,-90.3664444
+7048209786,Rincón Tigre,,,Guatemala,15.7051967,-91.8807649
+7087114008,Casa Antigua,,Antigua Guatemala,Guatemala,14.5582057,-90.7348957
+7120430885,Hotel Cristal,,,Guatemala,14.7055848,-91.8609589
+7142034288,Hotel Villa Linda,,,Guatemala,15.3182575,-90.3520963
+7142040485,Hotel La Joya,,,Guatemala,15.3187129,-90.3525954
+7152883535,Hotel Reyna Vasty,,Playa Grande Ixcán,Guatemala,15.9876577,-90.7813054
+7152883536,Hotel Posada de Don Carlos,,playa grande ixcan,Guatemala,15.9917572,-90.7821972
+7157135686,La colonia Hotel,,,Guatemala,14.5758479,-91.6413924
+7182105985,In & Out,,,Guatemala,14.5868782,-90.533989
+7188475662,Abu,,,Guatemala,14.7426952,-91.1602026
+7215518469,HOTEL SAN JORGE,,Patulul,Guatemala,14.42261,-91.1626131
+7221453385,Hotel Central,,,Guatemala,17.0671027,-89.1531332
+7229150285,Hotel Villa Linda,,,Guatemala,14.6728163,-91.006811
+7245242103,Livingston Resort Hotel,,Livingston,Guatemala,15.8329273,-88.7544345
+7245759443,Casa Nostra,,Livingston,Guatemala,15.8221206,-88.7512911
+7252075185,Yaxlik River Lodge,,,Guatemala,15.5817823,-89.9741833
+7317899085,Hotel Bahía Guapinol,https://m.facebook.com/Hotel-Bah%C3%ADa-Finca-Guapinol-Izabal-Guatemala-CA-436083726506121/,,Guatemala,15.4402736,-89.0643714
+7538720197,Anzan Atitlán,,,Guatemala,14.7228343,-91.2461025
+7549884285,Camino Largo,,,Guatemala,14.9269683,-90.011748
+7712167117,Hotel Ciudad Vieja,,Cuidad de Guatemala,Guatemala,14.6055221,-90.5121603
+7898993685,Refugio del Surf,,,Guatemala,13.9268108,-91.1841055
+8016864627,G Boutique Hotel,,,Guatemala,15.4254122,-89.0805444
+8025730498,La cumbre del ángel Hotel Boutique,,,Guatemala,14.5944774,-90.6916132
+8112503254,La Fuente,,,Guatemala,15.4738575,-88.829226
+8235817940,Mi Paraiso Río Dulce,,San Felipe,Guatemala,15.6347977,-88.9989322
+8504686919,Hostal la lunada e restaurante,,,Guatemala,16.9349345,-89.8926784
+8541560917,Hotel Amazona,,,Guatemala,16.0380482,-91.7448231
+8593526418,hostal,,,Guatemala,15.4050641,-91.1447507
+8715845618,Antigua Inn,,,Guatemala,14.5617973,-90.7331526
+8729154239,Hotel Pino Montano,https://hotel-pino-montano-huehuetenango.negocio.site/?utm_source=gmb&utm_medium=referral,,Guatemala,15.3002481,-91.5076934
+8783080817,,,,Guatemala,16.920335,-89.8237873
+8830107617,Hospedaje Velásquez,,,Guatemala,14.9662153,-91.7928956
+8830477517,Hotel Kfear,,,Guatemala,14.9669165,-91.7936261
+8927270463,Hotel Del Centro,,,Guatemala,15.3212227,-91.4686885
+9056288418,,,,Guatemala,15.0270411,-91.1470113
+9116926000,Las Cruces Boutique Hotel,,,Guatemala,14.558397,-90.7326831
+9136273873,Hotel el Canja,,,Guatemala,14.785399,-89.5385152
+9182162419,donde pilo,,,Guatemala,14.8594608,-90.0250999
+9182488117,bombil pek,,,Guatemala,15.8205612,-90.2897149
+9198674517,El Paso Texas,,,Guatemala,14.7878607,-90.226013
+9270358547,Atitlan Sunset Lodge,https://atitlansunsetlodge.com/,,Guatemala,14.7401204,-91.1969614
+9291006217,Hotel Posada Gutierrez,,,Guatemala,14.7434925,-91.1522183
+9349857517,,,,Guatemala,14.8016753,-89.544928
+9407958717,Hotel Amigo,,,Guatemala,14.7455502,-91.1573193
+9421210320,Hotel Alma Maya,,,Guatemala,14.556113,-90.7374245
+9432364217,Hotel Casa Grande,,,Guatemala,16.5283365,-90.1896242
+9450321217,Natz Hotel,,,Guatemala,16.9285792,-89.8914253
+9450321317,Hotel y Restaurante Cafe De Paris,,,Guatemala,15.6598354,-89.0044777
+9453464717,Country Delights Hotel,,,Guatemala,15.2365736,-90.2516373
+9455909732,Hospedaje Eli,,,Guatemala,14.7458145,-91.1550908
+9461637216,Boatique - Hotel & Marina,https://boatiquehotelandmarina.com,,Guatemala,15.6644768,-88.9866342
+9467570517,Hotel Monte Horeb,,,Guatemala,15.0623175,-91.8346849
+9474304717,,,,Guatemala,14.745356,-91.1574656
+9501292888,,,,Guatemala,15.4753963,-89.0219145
+9657419517,Casa Mary,,,Guatemala,15.5733988,-89.9805145
+9661650417,El Jardin Secreto,,,Guatemala,14.740271,-91.2055926
+9750245917,,https://www.booking.com/Share-UDr4YK,,Guatemala,14.5859688,-90.5341233
+9867078017,no tega pena,,,Guatemala,14.5634669,-90.7295697
+9897597917,yair hotel,,,Guatemala,15.6589754,-89.0047369
+9906835720,Hotel Ensenada,,,Guatemala,15.7326564,-88.6011126
+9906835721,Hotel Ensenada 2e option,,,Guatemala,15.7313337,-88.6012879
+10005145917,Hotel (24h Reception),,,Guatemala,14.6136055,-90.5215671
+10016699405,Los Conacastes,,,Guatemala,14.3434473,-89.7148889
+10061758046,VILLAS JUCANYA,,,Guatemala,14.7332919,-91.1542855
+10069602040,Hotel Casa Gozalez,,,Guatemala,14.6371623,-91.2311773
+10073362661,Hotel Ahavah,,,Guatemala,14.741605,-91.1528705
+10082818684,Lotus Hotel,,,Guatemala,14.6336908,-90.5794953
+10090655707,Hotel Corazón del Mundo,,,Guatemala,14.7374812,-91.2188066
+10091130850,Lush Atitlan - Hotel,,,Guatemala,14.7214259,-91.2599226
+10111753755,Princesa Estefanía,,,Guatemala,14.5648988,-89.3489399
+10177464103,Grand Hotel Panajachel,https://grand.guatemalacity-hotels.com/en/,,Guatemala,14.7444163,-91.1573872
+10254607303,Hotelito,,,Guatemala,14.525416,-90.5893206
+10254867803,Hotel Marshamm,,,Guatemala,14.5252904,-90.5869266
+10282708267,Hotel Manhatan,,,Guatemala,14.5329985,-90.5859073
+10316965136,Hotel Gringo Perdido,,,Guatemala,16.9953109,-89.7145331
+10544389756,El Remanso,,,Guatemala,14.826567,-90.9866107
+10558401809,Hotel Posada Casa Santorini,,,Guatemala,14.5578391,-90.736888
+10558447628,Hotel y apartamentos Don Moises,,,Guatemala,14.7321597,-91.1460652
+10597868405,Casa Julia Xela,,,Guatemala,14.829796,-91.5148297
+10613331305,Casa Qatzij,,,Guatemala,14.6323861,-91.143764
+10617115905,,,,Guatemala,15.4718018,-90.3734934
+10627448805,bomba,,,Guatemala,15.085003,-90.4951006
+10635101804,Xoco Villas,,,Guatemala,14.7161919,-91.1306779
+10679511805,Hostal Luna de Sangre,,,Guatemala,15.6617432,-89.0118691
+10682150706,Posada Tayazal,,,Guatemala,16.9310316,-89.8922902
+10683938807,,,,Guatemala,14.351255,-89.7674457
+10686727051,Hacienda San Antonio,,,Guatemala,14.5616439,-90.7812676
+10754721105,,,,Guatemala,16.9166719,-89.8928513
+10763968913,Tekoa Spaces,https://www.tekoaspaces.com/,,Guatemala,14.6918425,-91.1173267
+10771642993,Hotel Mesitzo Antigua,https://www.mestizoantigua.com/,Antigua Guatemala,Guatemala,14.5564818,-90.7353526
+10778706040,Hotel Santana,,,Guatemala,16.9286889,-89.8932571
+10780367665,Hotel Tikal inn,,,Guatemala,17.2272513,-89.6106826
+10797179313,Hotel Real Oriente,,,Guatemala,14.8035904,-89.5409821
+10813696105,,,,Guatemala,16.9289798,-89.8934145
+10816629806,Ojala Hotel,,Antigua Guatemala,Guatemala,14.558485,-90.7362325
+10816651219,Swell Surf and Lifestyle Hotel,,,Guatemala,13.9167155,-91.0712108
+10889831106,,,,Guatemala,14.5572354,-90.7303566
+10972205407,Hyatt Centric,,,Guatemala,14.6009248,-90.5142115
+10980540626,Zapotaso Eco Lodge,https://www.facebook.com/profile.php?id=100070299210553&mibextid=ZbWKwL,"Rio Dulce, Izabal",Guatemala,15.6392244,-89.0022547
+11012918210,Club Azul Rosa & Maca Hotel,,"Panajachel, Atitlán",Guatemala,14.7426841,-91.1627457
+11033277529,Hotel Antika,https://antika.gt/,Antigua Guatemala,Guatemala,14.5439657,-90.747996
+11036355946,Pajapita Center,,,Guatemala,14.725356,-92.0332279
+11048194345,Handall,,,Guatemala,14.9644845,-92.1462225
+11080358371,Hotel Eterna Primavera,,,Guatemala,14.5572617,-90.7303536
+11103309005,Azura Hotel Boutique,,,Guatemala,15.4692358,-90.3665098
+11108227005,La casa de David,,,Guatemala,15.4075645,-91.1485073
+11132903105,Hotel Vista Al Cerro,,,Guatemala,14.5604988,-90.7362444
+11137132737,Las Lagunas,,,Guatemala,16.9204298,-89.813116
+11254032901,Sacmoc,,,Guatemala,15.5540642,-90.489227
+11365214372,Posada del Cerro (entrada),,,Guatemala,16.9967628,-89.7028042
+11365219084,Posada del Cerro (recepción y restaurante),,,Guatemala,16.9970609,-89.7024398
+11367227169,Hotel Sierra,,,Guatemala,15.3210025,-91.472154
+11376110369,Hotel Buenos Aires,https://www.facebook.com/BuenosAiresCoatepeque,,Guatemala,14.7055654,-91.8605835
+11386033669,Hostel Inn 2,,,Guatemala,16.9291068,-89.8905612
+11463834635,Hostal Donde Regina,,,Guatemala,14.5862819,-90.5329053
+11495676569,Casa Montaña,https://casamontana.hotelonia.com/,,Guatemala,14.9802971,-91.107957
+11523771769,La Quinta Lucia,,,Guatemala,14.5578148,-90.7377737
+11526470549,Hotel Bruno‘s Place,,,Guatemala,16.9927344,-89.6914512
+11561382550,Casa Catalina,,,Guatemala,14.5627263,-90.7325859
+11611641000,Good Hotel,https://goodhotel.co/guatemala-city,,Guatemala,14.6189095,-90.5148213
+11632563020,Sunrise el paredon,,,Guatemala,13.9187797,-91.0672012
+11638803072,,,,Guatemala,14.5606607,-90.7370231
+11658035469,Hotel Nuevo Campanario,,,Guatemala,14.7458125,-91.1543116
+11658035669,,,,Guatemala,14.9079164,-92.0579161
+11658035769,,,,Guatemala,14.908461,-92.0577731
+11658035869,,,,Guatemala,14.9077801,-92.0583258
+11658036169,,,,Guatemala,14.9084371,-92.0568983
+11770217669,Banana Palms,,,Guatemala,15.6326849,-89.0017438
+11770217769,Don Humberto,,,Guatemala,15.6348975,-88.9995517
+11770217770,Villa Maya,,,Guatemala,16.9169952,-89.8291133
+11770239317,AC Hotel,,,Guatemala,14.610179,-90.485133
+11805109441,Hotel Saunar Premier,,,Guatemala,15.3230152,-91.4855043
+11817017752,Hotel Cacique Real,,,Guatemala,14.5544843,-90.7401326
+11817036515,Hotel Estrella,,,Guatemala,14.8037659,-89.5397442
+11920475569,,,,Guatemala,15.7996174,-91.757146
+11923352673,,,,Guatemala,15.3102977,-91.4828245
+11923352973,,,,Guatemala,15.3101544,-91.4827075
+11931165269,,,,Guatemala,14.9125449,-91.362508
+11938112069,,,,Guatemala,14.9130996,-91.3608685
+11963087534,Comfort Hotel,,,Guatemala,15.3152988,-91.4774091
+11964685870,,,,Guatemala,15.0274229,-91.1470326
+11964692873,,,,Guatemala,14.6622582,-90.8170552
+11964692969,,,,Guatemala,15.0267415,-91.1504864
+11964693069,,,,Guatemala,15.027091,-91.1490876
+11964693070,,,,Guatemala,15.0270027,-91.1492598
+11982964471,,,,Guatemala,14.8510778,-90.0708543
+11983013469,,,,Guatemala,14.8547957,-90.0692274
+11984285771,,,,Guatemala,14.9718815,-89.5276791
+12076056981,Chicanos Hotel,,,Guatemala,15.3577742,-91.452618
+12110573661,Hotel del Centro,,,Guatemala,16.9211452,-89.8940268
+12110832401,Mazaryk Bed & Breakfast,,,Guatemala,14.5653883,-90.7342803
+12121293603,Alojamiento San Juan,,,Guatemala,14.6951073,-91.2884808
+12147183101,Hotel mi Paraiso Rio Dulce,,,Guatemala,15.6371692,-88.9964281
+12182244252,Hotel Casa Vieja,,,Guatemala,15.800928,-91.3153307
+12190664501,Casa Diego Ignacio,,,Guatemala,14.9388791,-91.1138303
+12255757746,Hotel Sauna Zolomizah,,,Guatemala,15.6614812,-91.4311331
+12255757747,Hotel y Restaurante San Pedro,,,Guatemala,15.6613267,-91.4313234
+12265023701,Hôtel Pa Muelle,,,Guatemala,14.6954045,-91.2852087
+12289499138,Hotel Los Manantiales,https://www.facebook.com/HotelLosManantialesPanajachel?mibextid=ZbWKwL,,Guatemala,14.7395376,-91.1573754
+12289499139,Hanna Resort,https://www.hannaresort.com/es/,,Guatemala,14.7361263,-91.1585731
+12289499144,Art & Coffee: Hotel | Cafe | Gallery,http://facebook.com/ArtAndCoffeeGT,,Guatemala,14.7373287,-91.2188385
+12302232003,Hotel y Cafeteria Estancia San Diego,,,Guatemala,14.9725114,-91.7893788
+12302232004,Hotel del Bosque,,,Guatemala,14.9723514,-91.7909369
+12302303901,Hotel Dulces Sueños,,,Guatemala,14.9692942,-91.7931821
+12302312801,Hotel Fairmont,,,Guatemala,14.966527,-91.7949485
+12302312802,Hotel Villas del Mirador,,,Guatemala,14.9709788,-91.7924458
+12302313101,Hotel Monte Real,,,Guatemala,14.966373,-91.794785
+12302376801,Hotel Bautista,,,Guatemala,14.9668143,-91.7937065
+12346932701,Hotel Posada del Cristo Negro,,,Guatemala,14.5589913,-89.3390052
+12346932702,Hotel Finestra,,,Guatemala,14.5610962,-89.353498
+12398597902,,,,Guatemala,16.929311,-89.8901618
+12398598001,Hotel Mirador del Lago,,,Guatemala,16.9299941,-89.8902594
+12426966026,Portal Toscana Hotel,,,Guatemala,14.6427144,-90.5139391
+12566403901,Hotel Maya America,,,Guatemala,14.7411569,-91.1576579
+12570470701,Casa Alicia Hotel,,,Guatemala,14.5538132,-90.7402735
+12574969101,Hotel Innsbruck,,,Guatemala,14.5493841,-90.7308515
+12634545510,Casa Manatí,,,Guatemala,15.7719639,-88.8045477
+12648584719,Hotel Tikal,,,Guatemala,14.629212,-90.5548404
+12648598194,,,,Guatemala,14.6408484,-90.5162302
+12648615302,El Angel,,,Guatemala,14.6410715,-90.5176478
+12650487816,Anda Mira,,,Guatemala,14.0587832,-89.9434176
+12650511711,Doña Maria,,,Guatemala,14.2293739,-90.1750925
+12663043678,,,,Guatemala,14.914294,-90.0999589
+12670451247,Villa Colonial,,,Guatemala,14.5461463,-90.7302437
+12671171577,,,,Guatemala,14.6428748,-90.8809774
+12678241800,,,,Guatemala,14.6320856,-90.5136382
+12681707818,,,,Guatemala,14.6071433,-90.3941801
+12682424092,,,,Guatemala,14.6778264,-90.3605308
+12682434834,,,,Guatemala,15.0416528,-90.2065714
+12682437353,Rio Escondida,,,Guatemala,15.1109324,-90.1888726
+12685913178,Hotel Oro,,,Guatemala,15.323774,-90.3566298
+12685918796,El Arco,,,Guatemala,15.2370911,-90.2314154
+12685988053,Farm House,,,Guatemala,15.2938581,-90.3096779
+12685989540,,,,Guatemala,15.2901273,-90.3019148
+12685991618,La Posada,,,Guatemala,15.3167128,-90.3259305
+12688333384,Casa Corte,,,Guatemala,15.3710858,-90.4229127
+12688333462,Entre Ríos,,,Guatemala,15.3708261,-90.4457048
+12688340270,,,,Guatemala,15.3659644,-90.4819515
+12691752588,,,,Guatemala,14.5788356,-90.6692882
+12691826621,Hacienda los Volvcanes,,,Guatemala,14.5725712,-90.6428499
+12720344201,Hotel Posada Don Juan,,,Guatemala,14.5577849,-90.7364167
+12749084521,Posada Los Bucaros,,,Guatemala,14.5567989,-90.7297996
+12750248417,Villa Nonna,,,Guatemala,13.9037858,-90.5280148
+12761584801,Green Belly Surf Lodge,,,Guatemala,13.9168888,-91.0692618
+12780079801,NISSI,,,Guatemala,15.4099059,-91.149124
+12849167238,Hotel La Inmaculada,,,Guatemala,14.597084,-90.5089494
+12887219189,Vista Quince,,Ciudad de Guatemala,Guatemala,14.5901105,-90.4906143
+12918343201,Hotel Atescatempa,https://booking.com/,,Guatemala,14.175706,-89.7424925

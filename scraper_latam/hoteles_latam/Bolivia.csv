@@ -1,0 +1,1015 @@
+id_hotel,nombre,url_principal,ciudad,pais,latitud,longitud
+561047825,Hotel Milton,,,Bolivia,-16.4998901,-68.1387607
+806680609,Ecoturístico,,,Bolivia,-17.3627826,-66.134725
+813642050,Hotel Municipal,,,Bolivia,-17.735421,-65.1919675
+819934878,Hotel Victoria,,Mizque,Bolivia,-17.9434065,-65.3418492
+819934925,Hotel Bolivia,,Mizque,Bolivia,-17.9436003,-65.3389117
+826490511,Hotel Cristal Samaña,,Colchani,Bolivia,-20.3114979,-66.9724295
+827514522,Colonial,,Potosí,Bolivia,-19.5889848,-65.7524257
+827515276,Hotel Compañia de Jesús,,Potosí,Bolivia,-19.5901496,-65.7528495
+827515553,Libertador,,,Bolivia,-19.5907403,-65.7517723
+829049775,Salón Colonial,,,Bolivia,-17.6099306,-66.0223171
+829182745,Alojamiento Municipal,,Tarata,Bolivia,-17.6094158,-66.0265787
+836752678,Hotel Banana Tropic,,Villa Tunari,Bolivia,-16.9983248,-65.4372251
+836752710,Hotel Marabú,,Villa Tunari,Bolivia,-16.9794032,-65.4269384
+836764245,Hotel Los Tucanes,,Agrigento A,Bolivia,-16.9728132,-65.3964466
+836765985,Hotel San Martin,,Villa Tunari,Bolivia,-16.9746155,-65.4183913
+836799077,Hotel Bibosi,,,Bolivia,-16.9715297,-65.419837
+836799094,Residencial San Silvestre,,Villa Tunari,Bolivia,-16.9748526,-65.4185497
+846159986,Hotel Palla Khasa,,,Bolivia,-16.0334832,-69.1557479
+846160085,,,,Bolivia,-15.9976569,-69.182711
+846160538,,,,Bolivia,-15.9971254,-69.1832644
+846160896,,,,Bolivia,-15.9970945,-69.1832478
+846161317,Posada del Inca Ecolodge,,,Bolivia,-16.0369359,-69.1463768
+846163586,Tiquina Palace,,,Bolivia,-16.4941657,-68.1377145
+846182306,Hotel Perla del Lago,,Copacabana,Bolivia,-16.1645328,-69.0869079
+846225618,Hotel Utama,,,Bolivia,-16.1638358,-69.0886387
+846225628,Hostal Las Kantutas,,,Bolivia,-16.1646619,-69.0872107
+846387028,Hostal Leyenda,,,Bolivia,-16.1659599,-69.089612
+846387039,Hostal 6 de Agosto,,Copacabana,Bolivia,-16.1654507,-69.088543
+846387046,Hotel Mirador,,,Bolivia,-16.1663108,-69.0895573
+846387118,Hotel Chasqui del Sol,,,Bolivia,-16.1676019,-69.089887
+846387150,Hostal Colonial,,,Bolivia,-16.1657549,-69.0882415
+846387208,Hostal Los Andes,,,Bolivia,-16.1663534,-69.0889267
+846408190,Hostal Center,,,Bolivia,-16.1656786,-69.087619
+846408202,Hostel La Academia,,,Bolivia,-16.1655528,-69.0872027
+846440861,Hostal Pacha,,,Bolivia,-16.1658913,-69.087498
+846440862,Hotel Ambasador,,,Bolivia,-16.164549,-69.0877343
+846440870,Hostal Las Balsas,,,Bolivia,-16.167881,-69.0883295
+846440882,,,,Bolivia,-16.1657395,-69.0899364
+846497457,Residencial Sucre,,,Bolivia,-16.1663971,-69.0850125
+851427370,Hotel Hilton,,,Bolivia,-17.6371034,-65.2283497
+876531534,Hotel Jardín Sara,,Samaipata,Bolivia,-18.1802775,-63.87336
+876531548,Residencial Chelo,,Samaipata,Bolivia,-18.1800102,-63.8749601
+876531566,Hotel Samai,,Achira,Bolivia,-18.1750251,-63.789163
+876531936,Hotel Residencial Don Ysidro,,Samaipata,Bolivia,-18.1779982,-63.8727099
+876545158,Hotel Ecotur,,,Bolivia,-18.1816606,-63.7773405
+1022269476,Hotel El Arenal,,,Bolivia,-17.7800107,-63.1806395
+1091347556,Hotel Edén,,Oruro,Bolivia,-17.9700073,-67.1151738
+1128625830,Amboro Eco Resort,,,Bolivia,-17.4506241,-63.6757679
+1369558880,Villa Chiquitana,http://www.villachiquitana.com,,Bolivia,-17.8522167,-60.7401988
+1370335439,Hotel Patriarca,,,Bolivia,-17.846037,-60.7429171
+1370335440,Hotel Turubo,,,Bolivia,-17.8451332,-60.7429392
+1412847369,Residencial Pinocho,,,Bolivia,-17.3485335,-63.2527598
+1446612972,The Ritz-Carlton,,,Bolivia,-16.509305,-68.1248395
+1502481454,Hotel Rosario La Paz,http://www.hotelrosario.com/la-paz,La Paz,Bolivia,-16.4954211,-68.1402852
+1515223553,Hotel San Pablo,,,Bolivia,-18.2005127,-65.1795791
+1515747174,Hotel de Piedra Tayka,,San Pedro de Quemes,Bolivia,-20.7474785,-68.0524529
+1515941114,El Toñito Hotel,,Uyuni,Bolivia,-20.4653201,-66.8251393
+1515950098,Hotel Tayka El Desierto,https://www.taykahoteles.com/,,Bolivia,-21.8443952,-68.0401644
+1515954069,,,,Bolivia,-22.5358347,-67.649651
+1516646852,Uyuni Palace,,,Bolivia,-20.4631594,-66.8232374
+1516646853,Hostal El Cactu-Urcupiña,,Uyuni,Bolivia,-20.4632152,-66.8236963
+1516646863,Huila Khota,,Uyuni,Bolivia,-20.4638358,-66.8238502
+1516646876,Martinet,,,Bolivia,-20.4629443,-66.8244733
+1693992774,Aldea Del Inca,,,Bolivia,-16.1640662,-69.0889017
+1694345996,Hotel Gloria,,,Bolivia,-16.1897106,-67.7301738
+1764404347,Ecolodge La Estancia,https://www.ecolodge-laketiticaca.com/,,Bolivia,-16.029111,-69.1498385
+1764510168,Hotel Jardines de Mallku Cueva,https://mallkucueva.com/,Villa Mar,Bolivia,-21.7509228,-67.4839545
+1764510169,Hotel Jardines de Uyuni,,,Bolivia,-20.4638835,-66.8255307
+1768221991,Hotel Campanario,,,Bolivia,-14.8354931,-64.9058538
+1773475513,Apart Hotel San Ignacio,,,Bolivia,-16.3755581,-60.962777
+1773475523,Hotel Caparu,,,Bolivia,-16.3709426,-60.9502409
+1773475525,Hotel La Misión,,,Bolivia,-16.3743121,-60.9592678
+1773475526,Hotel Palace,,,Bolivia,-16.3735595,-60.9607229
+1773475527,Hotel San Ignacio Miguel Areiger,,,Bolivia,-16.3744954,-60.9593463
+1774039601,Hotel Colonial,,,Bolivia,-16.3775236,-60.9600487
+1774039648,Parador Santa Ana,,,Bolivia,-16.3762816,-60.9603687
+1782365712,Hotel Casco Viejo,,,Bolivia,-16.3740762,-60.9589094
+1820730742,Hotel La Posada del Sol,,Samaipata,Bolivia,-18.1762982,-63.8761046
+1846824349,Hotel Sirari Suites,,,Bolivia,-17.7650361,-63.2026063
+1853464241,Hotel Las Piedritas,,San Ignacio de Velasco,Bolivia,-16.3745616,-60.9649167
+1854631018,El Manantial Posada,,,Bolivia,-16.3712959,-60.9678008
+1868670899,Alexander,,,Bolivia,-16.5077272,-68.1631212
+1893382444,Estrella Andina Hotel,,,Bolivia,-16.4958283,-68.1401274
+1893382463,Hostal Maya Inn,,La Paz,Bolivia,-16.4977512,-68.1386869
+1893382466,Hotel Continental,,,Bolivia,-16.4943671,-68.1407958
+1893382467,Hotel Fuentes,,La Paz,Bolivia,-16.4972722,-68.1385701
+1893382468,Hotel La Valle,,,Bolivia,-16.4941004,-68.1378505
+1893382469,Majestic,,,Bolivia,-16.4963557,-68.1392133
+1939665018,La Cúpula,https://www.hotelcupula.com/,,Bolivia,-16.1635427,-69.0895538
+1939991608,Altai Oasis,http://www.altaioasis.lobopages.com/,,Bolivia,-15.7697542,-68.6551057
+1940283523,Chalalan Ecolodge,https://chalalan.com/,,Bolivia,-14.4247625,-67.920386
+1943066441,Hotel Charcas,,,Bolivia,-19.0458342,-65.2596547
+2038511777,John Wesley,,,Bolivia,-16.5023452,-68.132644
+2038559750,Hotel Nuevo Sol,,,Bolivia,-16.4988736,-68.1375667
+2038566348,Hotel Monjitas Apolo,,,Bolivia,-14.7172978,-68.414162
+2040177005,El Pueblito Resort,,Samaipata,Bolivia,-18.1888026,-63.883585
+2045478943,Hospedaje de Sal Coqueza,,Coqueza,Bolivia,-19.9013081,-67.6255058
+2045478945,Hostal Doña Lupe,,Jirira,Bolivia,-19.8566895,-67.5722913
+2045478946,Hotel de Sal Tayka,http://www.taykahoteles.com,Tahua,Bolivia,-19.8911995,-67.6984264
+2048732553,Hotel Avenida,,,Bolivia,-16.4922023,-68.1381715
+2140871487,Hotel Tarija,,,Bolivia,-19.5844094,-65.7554388
+2262738737,El Cafetal,http://www.elcafetal.coroico.info,,Bolivia,-16.1957538,-67.7261802
+2347274510,Hostal Naira La Paz,https://hostal-naira-la-paz.negocio.site,La Paz,Bolivia,-16.4969145,-68.1372278
+2371159505,Villa Verde,,,Bolivia,-16.1560881,-67.7180096
+2390075092,Hotel Jasmines,,,Bolivia,-16.1976959,-67.7286501
+2390443550,Arcangel de Apanto,,,Bolivia,-16.1951597,-67.7259473
+2394041408,Rio Selva Resort - Yungas,https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.rioselva.com.bo%2F%3Ffbclid%3DIwAR3onNnU0rbCx7CKjxnI_6WSx2YMtDmoV74bXyHoMLtQvcvhhAJoQhPOTMc&h=AT3Hhtb3liZ4PIg0wfhqJEPUQ5Hl7yL8YySiH6MzcQ7w5l_seIa0JOjPY8SROsm6P5mwpZlxlam5rhbY5_bQieYPUsUS9Ehmz_cxgu9r2NYBlnvMo,Pacollo,Bolivia,-16.2031768,-67.7923872
+2408541270,,,,Bolivia,-17.3909566,-66.1603306
+2411582389,Hotel Aiquile,,,Bolivia,-18.201699,-65.1774998
+2430327711,Hotel Los Angeles,,Cochabamba,Bolivia,-17.3946888,-66.1561322
+2430327713,Hotel Las Vegas,,Cochabamba,Bolivia,-17.3948285,-66.1563286
+2557338180,,,,Bolivia,-16.1881055,-67.7280815
+2557338237,Hostal Kory,,,Bolivia,-16.1887958,-67.7279235
+2558299061,Bella Vista,,,Bolivia,-16.1874444,-67.7272029
+2579041898,Hotel Espejillo,,,Bolivia,-17.8711946,-63.4524384
+2598636745,Hotel Para Ti,,,Bolivia,-16.1902607,-67.7280457
+2598636751,Balcon Danny,,,Bolivia,-16.1903956,-67.7279109
+2600555263,Hotel La Candelaria,,,Bolivia,-16.1909388,-67.7270167
+2600587897,El Ceibo,,,Bolivia,-16.1911676,-67.7252821
+2608576336,Hotel El Lobo,,,Bolivia,-14.4451066,-67.5297356
+2608876833,Hotel Tiahuanacu,,,Bolivia,-16.5533959,-68.678292
+2610070220,Residencial Las Palmas,,,Bolivia,-16.6143071,-62.5041869
+2611718797,Hotel Mana,,,Bolivia,-20.4604758,-66.8222676
+2611718798,Jardines de Uyuni Hotel,https://www.jardinesdeuyuni.com/,,Bolivia,-20.459193,-66.8204553
+2611718809,Los Girasoles Hotel,,,Bolivia,-20.4595984,-66.8221932
+2614119860,Cactus,,,Bolivia,-16.4966014,-68.1390556
+2698045398,Hotel DM Andino,,,Bolivia,-16.6698986,-68.0219429
+2712125132,Hotel Mirador de los Andes,,El Alto,Bolivia,-16.4959767,-68.1913113
+2732849849,Hotel Kronos,,Sucre,Bolivia,-19.0449052,-65.2584413
+2796341499,El Paraíso del Tordo,,Entre Ríos,Bolivia,-21.5982048,-64.1506459
+2813637948,Wara del salar,,,Bolivia,-20.4640127,-66.8245183
+2815660630,,,,Bolivia,-15.8323609,-67.5664472
+2815660634,,,,Bolivia,-15.8323997,-67.5662994
+2815660645,Alojamiento Vanessa,,,Bolivia,-15.8330972,-67.5637998
+2815660647,,,,Bolivia,-15.8332076,-67.5629682
+2815660648,,,,Bolivia,-15.8332396,-67.5634339
+2815660655,,,,Bolivia,-15.8333813,-67.5639092
+2815660658,,,,Bolivia,-15.8335322,-67.5627068
+2815660659,,,,Bolivia,-15.8336282,-67.562512
+2815660662,,,,Bolivia,-15.8337425,-67.5630015
+2815660663,,,,Bolivia,-15.8338065,-67.5628256
+2815660664,,,,Bolivia,-15.833962,-67.5633199
+2815660669,,,,Bolivia,-15.8341357,-67.5614949
+2815660670,,,,Bolivia,-15.8341104,-67.562729
+2815660671,,,,Bolivia,-15.8342089,-67.5613381
+2815660673,,,,Bolivia,-15.8342911,-67.562512
+2815660676,,,,Bolivia,-15.8345715,-67.5594213
+2823697863,Sumaj Wasi,,Oruro,Bolivia,-17.9619712,-67.1036333
+2823697865,,,Oruro,Bolivia,-17.9624941,-67.1040421
+2823800593,,,Oruro,Bolivia,-17.9609374,-67.1057284
+2835126051,,,,Bolivia,-16.5339466,-68.0709954
+2840545183,Hotel San Ignacio,,,Bolivia,-14.9959503,-65.641817
+2840588582,Residencial Don Joaquin,,,Bolivia,-14.9955176,-65.6413368
+2840590676,Plaza Hotel,,,Bolivia,-14.9969737,-65.6410552
+2840765856,Hotel Don Emilio,,,Bolivia,-14.9949864,-65.6398826
+2840765868,Alojamiento San Martín,,,Bolivia,-14.995142,-65.6373243
+2948678616,Hostal Los Salares,,,Bolivia,-21.4443632,-65.713299
+2982920098,Hotel Campero,,,Bolivia,-18.2007279,-65.1796622
+2991608658,Hotel Brisas,,Comarapa,Bolivia,-17.9177366,-64.5270815
+3009720880,Quinta del Sur,,,Bolivia,-18.2058951,-65.181704
+3192309606,Jardines del Sol,,,Bolivia,-16.1973387,-67.7240398
+3192312213,La Posada de Mol-en,,,Bolivia,-16.1879036,-67.7276836
+3192313277,Hostal Anturios,,,Bolivia,-16.189107,-67.7268793
+3192314086,Hostal Flor de Uchumachi,,,Bolivia,-16.1877753,-67.7273948
+3203123443,Rio Selva Resort La Paz,https://www.rioselva.com.bo/,,Bolivia,-16.559862,-68.0948759
+3207059753,La Compañía Alta,,,Bolivia,-20.6721448,-65.2168872
+3209848695,Hotel Panorama,,,Bolivia,-16.4097063,-67.5271379
+3334721682,Senses,,,Bolivia,-17.7836377,-63.1812746
+3368520104,Hotel Julia,http://www.juliahoteluyuni.com/,Uyuni,Bolivia,-20.4632068,-66.8231336
+3400706471,Hacienda de Kaluyo,http://www.kaluyo.com,Tarata,Bolivia,-17.5189729,-66.1145127
+3480326949,Hostal Bicentenario,,,Bolivia,-16.1899322,-67.7251143
+3483229502,Hotel Ritzi,,Guanay,Bolivia,-15.4980864,-67.8794064
+3483229505,Los Pinos,,,Bolivia,-15.4956948,-67.8803868
+3497491585,Tambo de Oro,,,Bolivia,-16.4893587,-68.1395346
+3497523917,Hotel La Finca,http://www.lafincabolivia.com/,,Bolivia,-16.244064,-67.7091697
+3516763126,,,,Bolivia,-16.1656785,-69.0867973
+3570198826,Aguahi,,Trinidad,Bolivia,-14.8316907,-64.9067375
+3616269144,Hotel Triller,,,Bolivia,-11.0283672,-68.7582561
+3617587987,,,,Bolivia,-11.0099318,-68.7539821
+3618128094,Gran Hotel Torino,,,Bolivia,-16.4960253,-68.1343929
+3619639546,Dubai,,,Bolivia,-16.4942081,-68.1219965
+3631604499,Los Ángeles,,,Bolivia,-18.1989916,-65.181152
+3676395369,Berghotel Carolina,,,Bolivia,-17.3551286,-66.3594869
+3679680116,Hotel Ovando,,Cochabamba,Bolivia,-17.3989296,-66.1576035
+3694436314,,,,Bolivia,-16.9935315,-65.2489717
+3713226774,Alojamiento,,,Bolivia,-16.1984358,-68.5986547
+3732068967,Residencial Ikandire II,,Santa Cruz de la Sierra,Bolivia,-17.7757458,-63.175039
+3733144847,Hotel Turini,,,Bolivia,-16.4916106,-68.1380642
+3746604536,Brisas del Titicaca,,Copacabana,Bolivia,-16.1653623,-69.0899612
+3749594122,Hostal Florencia,,Copacabana,Bolivia,-16.1675076,-69.0858456
+3749627327,Las Islas,,Isla del Sol,Bolivia,-16.0366744,-69.147037
+3749627329,Tawri,,Isla del Sol,Bolivia,-16.0372325,-69.1476686
+3755903971,Hostal Mirador,,,Bolivia,-15.7720119,-68.6522578
+3803715996,Cabañas Piray,,Samaipata,Bolivia,-18.1843871,-63.8815648
+3814703702,Hotel Casa Blanca,,Samaipata,Bolivia,-18.1800373,-63.877214
+3879231464,,,Cochabamba,Bolivia,-17.3976394,-66.1567179
+3910608991,B&B Piacere Hotel,,,Bolivia,-16.5079129,-68.132955
+3920647677,Altus Express Hotel,,,Bolivia,-16.5030326,-68.1354672
+3938858788,Alojamiento San Luis,,,Bolivia,-19.2308531,-66.9431525
+3949910324,Residencial Santiago,,,Bolivia,-17.8043239,-63.2001973
+3999752903,Hotel Arenales,www.hotelarenalesoruro.com.bo,,Bolivia,-17.9691144,-67.1100259
+4010432289,Hotel Anexo Plaza,,,Bolivia,-10.8107362,-65.3519146
+4018558890,,,,Bolivia,-17.8480654,-60.7421182
+4018673150,Hotel Hacienda Geanine,,,Bolivia,-18.1530487,-60.0539221
+4018728419,Hotel Limoncito,,,Bolivia,-18.265621,-59.8673924
+4018764278,Hotel Choboreca,,,Bolivia,-18.3379477,-59.7568546
+4018777302,Hotel Bella,,,Bolivia,-18.3401609,-59.5974029
+4018780086,Hostal Tucabaca,,,Bolivia,-18.3363919,-59.5949173
+4018914794,Alojamiento Panorama,,,Bolivia,-18.3342793,-59.5896875
+4018929931,Hotel Roboré,,,Bolivia,-18.3375669,-59.757106
+4019957005,Hostal Glady Sol,,,Bolivia,-18.3410559,-59.5981694
+4022141595,Hotel Beula,http://hotelbeula.com/home/,,Bolivia,-18.3399647,-59.5975966
+4022141597,,,,Bolivia,-18.3403025,-59.597652
+4030716515,Laguna Volcán Hotel Golf Eco Resort,,,Bolivia,-18.1219076,-63.6477727
+4055818731,Hotel Londres,,Tarija,Bolivia,-21.5300008,-64.7316366
+4055832930,,,Ivirgarzama,Bolivia,-17.0345315,-64.8594487
+4057348987,Titicaca,,,Bolivia,-16.203785,-68.631118
+4074594080,Plaza Gran Hotel,,Bermejo,Bolivia,-22.7331578,-64.3428477
+4085649682,,,,Bolivia,-19.0454599,-65.2581805
+4085705016,Colonia Real,,Sucre,Bolivia,-19.044441,-65.2575462
+4086752461,Alojamiento Norte,,,Bolivia,-18.1354476,-65.7630033
+4086765270,Hotel Vergel,,Toro Toro,Bolivia,-18.1332355,-65.7637885
+4086765271,Hotel Santa Barbara,,Toro Toro,Bolivia,-18.1332282,-65.7640287
+4086765273,Annex,,,Bolivia,-18.1340117,-65.763279
+4086768297,Las Hermanas,,,Bolivia,-18.1329392,-65.7621823
+4086768947,Los Chocos,,,Bolivia,-18.1349594,-65.7624688
+4086825635,Palacio Asteria,,,Bolivia,-18.1344989,-65.7630711
+4086831489,Hostal Margaritas,,,Bolivia,-18.1336628,-65.7630331
+4086870203,Hotel Isola,,,Bolivia,-18.2119828,-65.1876219
+4089319634,Hostal Iguazu,,,Bolivia,-16.4990465,-68.1383468
+4089320458,Alojamiento Pukara,,,Bolivia,-16.4991291,-68.1384464
+4098741836,Hotel Huany,,,Bolivia,-16.4064716,-67.5283992
+4098742945,Alojamiento Chachapuma,,,Bolivia,-16.4987717,-68.1371699
+4121077191,Charcas,,,Bolivia,-18.1344706,-65.7624834
+4121424118,Magdalena,,,Bolivia,-15.5848765,-67.246547
+4122422489,Hotel FG,,Cochabamba,Bolivia,-17.3971747,-66.1631354
+4123878030,Suiza,,,Bolivia,-17.7749995,-63.1835794
+4129185089,Hotel Cruz,,,Bolivia,-21.444543,-65.717785
+4130650689,Hostal ARAMAYO,,Tupiza,Bolivia,-21.4459203,-65.7186817
+4134665389,Treasure to the lake,,,Bolivia,-16.1659628,-69.0889523
+4139565889,Los Ceibos,https://www.hotellosceibos.com/,Tarija,Bolivia,-21.5312547,-64.7400633
+4142901579,Refugio Ecologico Kalluchi,,,Bolivia,-16.0435899,-69.1445084
+4152380024,Querubines,,,Bolivia,-22.7356195,-64.3436768
+4162473489,Hostal Edén,https://www.facebook.com/HostalEden/,,Bolivia,-18.135303,-65.7631508
+4165205489,,,,Bolivia,-17.7710939,-63.1802604
+4169717689,República,,,Bolivia,-16.4975639,-68.1312045
+4172745702,,,Pojo,Bolivia,-17.7571219,-64.8660017
+4182211889,Santa María La Real,https://www.parador.com.bo/,Sucre,Bolivia,-19.0499135,-65.2590617
+4186115516,Hotel Las Brisas,https://www.hotel-las-brisas.com/,La Paz,Bolivia,-16.4962207,-68.1399712
+4186765289,Las Olas,https://hostallasolas.com,,Bolivia,-16.163667,-69.0902305
+4190951289,Hostal Wara,,,Bolivia,-19.044888,-65.2575159
+4194035089,La Realeza,,,Bolivia,-19.5890179,-65.7541954
+4197018953,Hotel Colonial - Riberalta,,Riberalta,Bolivia,-10.9978721,-66.0737931
+4197579190,Hotel Los Patos,,,Bolivia,-17.5436757,-65.8429576
+4199063673,Jiménez,,,Bolivia,-16.4965586,-68.1390659
+4203766931,Esmeralda,,Coroico,Bolivia,-16.1915417,-67.7242249
+4207303290,Hostal & Snack Casa Grande,,Villa Tunari,Bolivia,-16.9733289,-65.4187944
+4207978092,Victoria Apart Hotel,,,Bolivia,-16.4935731,-68.1329078
+4209188495,Hotel Don Corsino,www.granhoteldoncorsino.com,,Bolivia,-16.9738996,-65.4184902
+4209866380,alojamiento 22 de Agosto,,,Bolivia,-17.7917717,-63.191298
+4209867234,alojamiento Tía Martha,,,Bolivia,-17.7915418,-63.1900819
+4209978187,Casa Prado,,La Paz,Bolivia,-16.5019375,-68.1322183
+4210192691,Le Petite,,,Bolivia,-16.5166356,-68.1259736
+4212990418,Hotel Rosita,,,Bolivia,-18.2014403,-65.1797735
+4222946889,Residencial Latino,http://www.residenciallatino.com,La Paz,Bolivia,-16.4934067,-68.1326137
+4230129592,,,,Bolivia,-20.1047281,-65.1335666
+4230186990,Cruz Huasa,,,Bolivia,-20.6380396,-65.20865
+4230348502,Hostal Wida,,,Bolivia,-16.1662811,-69.088071
+4232261809,Monarca,,,Bolivia,-17.968103,-67.1076537
+4238529877,Hotel Colonial,,Tarata,Bolivia,-17.6091825,-66.0221719
+4244032593,Hotel León,,,Bolivia,-17.3922087,-66.1599829
+4245576809,Hostal Cristal,,,Bolivia,-21.5339031,-64.7359038
+4259131216,Hotel Sabaya,,Cochabamba,Bolivia,-17.3905128,-66.1557957
+4259603868,Hotel Ideal,,Cochabamba,Bolivia,-17.3897356,-66.1572381
+4260704089,Casarte Tukubamba,,,Bolivia,-19.0520797,-65.2636447
+4261913089,Perla Negra,www.hostalperlanegra.com,,Bolivia,-16.4894983,-68.1391563
+4263798492,El Cafetal Hacienda Hotel,,,Bolivia,-17.4655186,-63.6954443
+4266069389,Masia Las Moras,,,Bolivia,-21.514286,-64.7755829
+4272448590,Hotel Río Selva (Santa Cruz),,Municipio Warnes,Bolivia,-17.5615359,-63.1991247
+4279092744,Alojamiento Paola,,Samaipata,Bolivia,-18.1795066,-63.8762944
+4279131590,Hotel Jumari,,Uyuni,Bolivia,-20.4612798,-66.8237629
+4279155577,Hotel Campos,,Riberalta,Bolivia,-10.9984503,-66.0713663
+4279155585,Hotel Jomali,,,Bolivia,-10.998623,-66.0743405
+4279169143,Hostal Madidi,,Rurrenabaque,Bolivia,-14.441647,-67.5279921
+4279169144,,,,Bolivia,-14.4432614,-67.5302722
+4279235181,Hotel de Sal Playa Blanca,,Colchani,Bolivia,-20.3305929,-67.0468625
+4281343790,Santa María la Antigua,https://www.santamaria.com.bo/,,Bolivia,-17.3739799,-63.6614815
+4297312194,Hotel Los Lagos Lodge,,,Bolivia,-12.7720062,-65.8100557
+4306111291,Davina,,,Bolivia,-16.4990756,-68.12877
+4319884983,Hotel Raldes,,Villa Montes,Bolivia,-21.2658402,-63.475498
+4319907785,Hotel Plaza,,,Bolivia,-21.2648433,-63.4730555
+4319913096,Hotel Villamontes,,,Bolivia,-21.2640947,-63.4720561
+4319913098,Hotel Jhonny,,,Bolivia,-21.2650965,-63.4706552
+4319924286,Hotel Avenida,,,Bolivia,-21.265643,-63.4700557
+4320163492,10 de Noviembre,,,Bolivia,-19.5836341,-65.755853
+4320492791,San Antonio,,,Bolivia,-19.5854365,-65.7563106
+4325306043,Hotel Victoria,,,Bolivia,-17.002691,-65.4359469
+4328053803,Residencial La Visión,,,Bolivia,-14.9958926,-65.6390115
+4329559370,Hotel San Francisco,,,Bolivia,-21.2664055,-63.4729425
+4337827989,Mi Residencia,,,Bolivia,-14.8304906,-64.9000715
+4338768790,Select,,,Bolivia,-16.4933368,-68.1376482
+4339409150,Gualdalquivir,,,Bolivia,-17.5878035,-65.9341307
+4341949170,Hotel Gloria,,,Bolivia,-16.4955635,-68.1358337
+4341970932,Eva Palace Hotel,,,Bolivia,-16.4969429,-68.1375078
+4343341930,Hostal Casa Vieja Colonial,,,Bolivia,-17.3923457,-66.1599617
+4343459689,Jardín,,,Bolivia,-17.3913146,-66.161287
+4345146052,Residencial Mimos (Alemana),,,Bolivia,-17.7569723,-63.1663296
+4350596990,Residencial Nelly,,,Bolivia,-16.1661604,-69.08846
+4351528616,Hotel Diana,,,Bolivia,-11.0167751,-68.7550211
+4351589493,Manaco Hotel,,,Bolivia,-16.5088369,-68.1641598
+4357484089,Hostal Bonaerense,https://www.hostal-bonairense.com,Cochabamba,Bolivia,-17.3895588,-66.1561891
+4357994787,Sajama Hotel,,,Bolivia,-16.4961245,-68.139718
+4357994788,Berlina Hotel,,,Bolivia,-16.4962221,-68.139716
+4358006798,Hotel Alem,,La Paz,Bolivia,-16.4976188,-68.1388234
+4358006800,Hotel Sagarnaga,https://www.hotel-sagarnaga.com/,La Paz,Bolivia,-16.4974311,-68.1386414
+4359351577,Hotel Inca's Room,,,Bolivia,-16.4947758,-68.1405779
+4361666366,Hotel Diamante Azul,,La Paz,Bolivia,-16.4957487,-68.1402277
+4361674534,Hotel Qantu,,La Paz,Bolivia,-16.4961076,-68.140001
+4361827489,Hotel Cordillera Real,,,Bolivia,-16.4931981,-68.1412935
+4361875299,Monte Carlo Hotel,,,Bolivia,-16.4937085,-68.136912
+4361888376,Hotel Oruro,,,Bolivia,-16.4929295,-68.1380191
+4362000910,Tola,,,Bolivia,-16.4900917,-68.1377499
+4362000911,Armentia,,,Bolivia,-16.490143,-68.1376358
+4366381967,Hotel Panamerican,,,Bolivia,-16.5014116,-68.1339547
+4366578561,Madre Tierra,,,Bolivia,-16.5072676,-68.1298525
+4366778590,El Rey Palace Hotel,http://www.reypalacehotel.com,La Paz,Bolivia,-16.5056477,-68.1312935
+4366789542,Hotel Flamingo,,,Bolivia,-16.5027539,-68.1342188
+4368395673,Elegance Hotel,,,Bolivia,-16.501098,-68.1229813
+4368823690,Hotel Virgen Pastora,,,Bolivia,-17.7901624,-63.185689
+4368826489,,,,Bolivia,-17.449226,-63.1856263
+4384365496,Hostal San Antonio,,,Bolivia,-16.9727863,-65.420667
+4386472441,Hotel Sayari,,,Bolivia,-16.4937572,-68.1418955
+4386841589,Sol Chaqueño,,,Bolivia,-20.0400378,-63.5218382
+4387529747,Residencial Vicky,,,Bolivia,-17.8090269,-63.1938192
+4388483692,Hotel El Prado,,,Bolivia,-17.8387768,-60.7399913
+4390122262,Hotel Centenario,,,Bolivia,-17.736299,-65.1924295
+4390393772,Alojamiento,,,Bolivia,-16.5056449,-68.160657
+4390487317,Hotel Shalom,,,Bolivia,-16.4950746,-68.1441096
+4393865552,Hotel Siete Calles,,,Bolivia,-17.786204,-63.1869495
+4394296559,Hotel Bibosi,,Santa Cruz de la Sierra,Bolivia,-17.7828131,-63.1839966
+4396908890,Gran Hotel,,,Bolivia,-19.0468926,-65.2591944
+4397785102,Residencial DARINES,,Santa Cruz de la Sierra,Bolivia,-17.7885148,-63.1624651
+4399964591,,,,Bolivia,-16.4959764,-68.1362686
+4400064290,Hostal Señorial,,,Bolivia,-16.494124,-68.1339131
+4400098289,,,,Bolivia,-16.4950881,-68.1388807
+4400562089,Senda Verde,https://www.sendaverde.org/,,Bolivia,-16.2256359,-67.7427831
+4404055295,Santiago,,,Bolivia,-18.3419701,-59.5987631
+4404098891,Alojamiento Martínez,,,Bolivia,-18.3317717,-59.7555151
+4404486817,Leyla Hotel,,,Bolivia,-17.7804915,-63.1780232
+4406837089,2 de Agosto,,,Bolivia,-22.7326416,-64.3259206
+4408912860,JALDIN BOLIVAR II,,Montero,Bolivia,-17.346271,-63.2430137
+4408912861,JALDIN BOLIVAR I,,Montero,Bolivia,-17.3424532,-63.2490836
+4410813835,Inca Utama & Spa,,Huatajata,Bolivia,-16.2145016,-68.6832956
+4411807689,Hostal Santa Cruz,,,Bolivia,-19.0439303,-65.2555553
+4412243290,Hostal Andino,,,Bolivia,-16.1657627,-69.086897
+4415282693,Hotel Resort Villa Rosita,,,Bolivia,-17.8245858,-63.2233302
+4415282718,Hotel Hatfield,,,Bolivia,-17.7854618,-63.1851919
+4416248792,hostal buena vista,,,Bolivia,-17.4614986,-63.6617704
+4417808543,Lajas,,,Bolivia,-18.33193,-59.7518462
+4417863197,Santa Cruz,,,Bolivia,-17.9168388,-64.5297536
+4417884292,Claros,,,Bolivia,-17.3991469,-66.1582534
+4417972789,,,,Bolivia,-14.8353723,-64.9071574
+4418942497,Hotel Heroínas,,Cochabamba,Bolivia,-17.3930196,-66.1604266
+4421356489,,,,Bolivia,-19.0485713,-65.2610619
+4421736690,,,,Bolivia,-19.276476,-68.277922
+4422872391,Hospedaje Chatahuana,https://www.comunidadcoqueza.com/es/hoteles/chatahuana,Coqueza,Bolivia,-19.9012776,-67.6252967
+4422877993,Hostal Maya,https://www.comunidadcoqueza.com/es/hoteles/hostalmaya,Coqueza,Bolivia,-19.9013877,-67.6251852
+4422883691,Hostal Tunupa,,Coqueza,Bolivia,-19.9011595,-67.6265991
+4425067792,Bala Tours Ecolodge,,,Bolivia,-14.1157811,-66.7779368
+4425247990,"Mashaquipe Ecolodge ""La Tortuga""",,,Bolivia,-14.1243569,-66.783712
+4427824794,Hotel Patujú,,,Bolivia,-16.1333888,-62.0260595
+4427863290,Alojamiento el Viajero,,,Bolivia,-16.1333626,-62.0240316
+4427881790,Tarija,,,Bolivia,-16.1333603,-62.0242367
+4427899789,Oasis Chiquitanio,,,Bolivia,-16.1333845,-62.0253426
+4439290992,,,,Bolivia,-21.7560387,-67.4813311
+4441241795,,,,Bolivia,-17.3430438,-63.2563026
+4441241796,Residencia el Arenal,,,Bolivia,-17.3463838,-63.2515054
+4441276692,Cristal Limpio,,,Bolivia,-17.0028511,-65.6315959
+4441451489,Fortaleza,,,Bolivia,-17.3996009,-66.1573042
+4444718789,Hotel San Borja,,,Bolivia,-14.8586372,-66.747689
+4447856192,"Alojamiento ""El Pescador""",,,Bolivia,-19.1230733,-64.3233528
+4447926489,Mi Tierra,,,Bolivia,-19.1256548,-64.323296
+4447946489,Hostal San Miguel Arcángel,,,Bolivia,-19.1224986,-64.3235911
+4449204790,Piscis,,,Bolivia,-16.5392483,-68.1699922
+4449221090,Marbella,,,Bolivia,-16.5396685,-68.1694811
+4455744789,Residencial No Te Olvides,,,Bolivia,-17.7871137,-63.1923481
+4458650190,Hostal Piedra Andina,,,Bolivia,-16.1725045,-69.0892499
+4458703590,,,,Bolivia,-20.0386483,-63.5113935
+4459630350,Tiraque,,,Bolivia,-17.4261217,-65.722526
+4462332291,Wilkafer,,,Bolivia,-20.935022,-66.2200226
+4469167889,,,,Bolivia,-14.2062197,-66.8360738
+4469289989,,,,Bolivia,-14.435607,-67.5249988
+4469962990,Hotel Espectacular,https://hotelespectacular2.wixsite.com/hotelespectacular,,Bolivia,-16.5106268,-68.1608929
+4470602692,Villa Francesa,,,Bolivia,-19.0517369,-65.2578195
+4471578597,Residencial El Porteño,,,Bolivia,-14.8606261,-66.745494
+4471945836,,,,Bolivia,-16.5159498,-68.1609762
+4476688222,,,,Bolivia,-17.2539453,-64.3621816
+4480896791,Copacabana,,,Bolivia,-19.0440149,-65.2594565
+4483953992,Cretassico,,,Bolivia,-19.0432222,-65.2607413
+4484497793,Hostal de Sal,,,Bolivia,-20.9026907,-67.7671177
+4488129015,Armonía,,,Bolivia,-17.7773557,-63.1555741
+4488741072,Hotel Los Tajibos,,Reyes,Bolivia,-14.2948525,-67.3358518
+4497072302,Hotel San Pedro,,,Bolivia,-19.6511367,-63.6763978
+4499234889,Hotel Landivar,http://www.hotel-landivar.com,Caranavi,Bolivia,-15.8325404,-67.5653806
+4499237295,Hotel Cabañas EmyMar,http://www.hotel-landivar.com,Bautista Saavedra,Bolivia,-15.8429697,-67.5429983
+4501704289,La Casona de Don Pepe,,,Bolivia,-18.3378549,-59.7591211
+4501718689,Choboreca,,,Bolivia,-18.337847,-59.7560053
+4504805446,Riales,,,Bolivia,-17.7891123,-63.1636747
+4511015944,La Cuna Cruceña,,,Bolivia,-17.8402946,-60.741369
+4511368194,Hotel Virgen Pastora,,,Bolivia,-17.790196,-63.1857215
+4511390689,Hostal el Turista,,,Bolivia,-17.7891574,-63.1869084
+4518944489,Mashaquipe Ecolodge,https://mashaquipe.com/,,Bolivia,-14.5924575,-67.5631598
+4521741032,Alojamiento Huallajara,,,Bolivia,-22.2641728,-67.8159015
+4529606489,Jericob's,,,Bolivia,-14.8346346,-64.9121908
+4536211991,Hotel Avenida,,Uyuni,Bolivia,-20.4629527,-66.8228589
+4542083789,Akapana,,,Bolivia,-16.5571247,-68.6769484
+4549840691,"Hotel ""Gran Poder""",,,Bolivia,-17.0106322,-68.0622216
+4551482889,Hotel Hidalgo,,Oruro,Bolivia,-17.9708144,-67.1127742
+4553178391,Hostel Jislene,,,Bolivia,-14.4363711,-67.5271095
+4557891667,Patrimonio,,,Bolivia,-19.0499359,-65.2578845
+4564315289,Hotel Quime,,Quime,Bolivia,-16.9804473,-67.2179251
+4570366393,Hotel Belanova,,,Bolivia,-16.4971262,-68.1302125
+4571204693,Arcangel Miguel,,,Bolivia,-17.9611368,-67.1048837
+4573537189,Hotel Oruro Royal,,,Bolivia,-17.951404,-67.0929954
+4573973190,Center Hotel,,,Bolivia,-22.0903596,-65.5958961
+4579795384,Hostal San Francisco,,,Bolivia,-19.0452893,-65.2579571
+4580238792,Nicole Hotel,,,Bolivia,-19.558151,-65.7602377
+4580285392,Adalid,,,Bolivia,-17.6487779,-67.2133519
+4581528315,Ciudad Blanca,,Sucre,Bolivia,-19.0446743,-65.2581851
+4581528330,Hostal Luzmarh,,,Bolivia,-19.0445986,-65.2587193
+4581800798,Alojamiento La Plata,,,Bolivia,-19.045896,-65.2595717
+4581800808,Hostal Libertad,,,Bolivia,-19.0463792,-65.258864
+4581849492,Alojamiento municipal Padilla,,,Bolivia,-19.3074634,-64.3038257
+4582461392,Hotel Jerusalem,,,Bolivia,-19.5854799,-65.7561375
+4584552087,Magia de San Juan,,San Juan,Bolivia,-20.8997461,-67.7663892
+4585475689,La Estancia,,,Bolivia,-16.5020355,-68.1333827
+4587186120,Residencial Rosario,,,Bolivia,-21.5317598,-64.7374189
+4588294190,Hotel Tomatitas,,,Bolivia,-21.4977066,-64.7603863
+4589430091,Turismo Rural Campo Aventura,,Corani Pampa,Bolivia,-17.1260277,-65.9339108
+4596969992,los olivos,,,Bolivia,-22.0158763,-63.6774986
+4596979693,hostal bolivia,,,Bolivia,-22.0150783,-63.6778567
+4597054589,Qhawarina,,,Bolivia,-19.0537278,-65.2538875
+4602860898,Alojamiento Perla Andina,,,Bolivia,-14.439939,-67.524297
+4607174790,Londres 2,,,Bolivia,-21.5197338,-64.7407998
+4610702091,Hotel Paradita,,,Bolivia,-16.7877758,-60.6748877
+4611194191,Hostal San Sebastián,,,Bolivia,-17.4000554,-66.1566959
+4611273980,Hostal Ecuatorial,,Cochabamba,Bolivia,-17.3999243,-66.1575066
+4614122090,Hostal Intikala,,,Bolivia,-16.166865,-69.0846752
+4614150893,Hostal Santa Laura,,Mapiri,Bolivia,-15.3120339,-68.215495
+4614877990,hostal premier,,,Bolivia,-22.0157104,-63.6783898
+4631070989,Don muñeco,,,Bolivia,-14.9925223,-65.6365888
+4635439612,Alojamiento Chez Alondra,,,Bolivia,-17.939022,-67.1145994
+4639432202,La Pasarela,http://www.lapasarelahotel.com,,Bolivia,-21.5015386,-64.7991674
+4646016691,Hotel Casa Blanca,,,Bolivia,-14.8588602,-66.7491661
+4650454291,Hotel Nanijos,,,Bolivia,-11.0185255,-68.7556125
+4656616730,Alojamiento Angel Gutierrez,,,Bolivia,-19.1236212,-64.3235013
+4657263863,Hotel Serranito,,,Bolivia,-19.1227582,-64.3246245
+4657767766,Tarabuco Hostelling International (HI-CEJ),,Tarabuco,Bolivia,-19.1825335,-64.9138362
+4660517489,Residencial Bolivia,,,Bolivia,-19.046572,-65.2583225
+4661311194,Residencial Colonia,,,Bolivia,-16.4983492,-68.1371899
+4666615789,Plaza Hotel,,Oruro,Bolivia,-17.9691391,-67.114457
+4668677489,Tiquina Palace Hotel,,,Bolivia,-16.4940201,-68.1382392
+4669687327,Hotel Soya,,,Bolivia,-21.8279442,-63.7421706
+4669687355,Hostal Carapari,,,Bolivia,-21.8288694,-63.7443636
+4669687360,Alojamiento Acuario,,,Bolivia,-21.8280901,-63.7442992
+4669687362,Hostal Roberto,,,Bolivia,-21.8280627,-63.7448491
+4669979431,Hotel Santa Elenita,,,Bolivia,-17.2394744,-67.9105682
+4672173926,Hostal Balneario Porongo,,,Bolivia,-17.8593937,-63.305866
+4672301892,Hotel El Paraíso de Coroico,,,Bolivia,-16.1984604,-67.7270478
+4675217494,Gran Hotel Max,,,Bolivia,-21.5327207,-64.7270029
+4680892391,Casa de Huéspedes María Victoria,,,Bolivia,-19.5902578,-65.7550794
+4681044789,Hostal Elida,,,Bolivia,-16.1659584,-69.0847881
+4684459693,Alojamiento Municipal,,,Bolivia,-19.3076073,-64.3041535
+4685441486,La Pazcana,,,Bolivia,-17.7547987,-62.9956328
+4687449389,,,,Bolivia,-21.5426285,-64.7249123
+4688076689,Apart Hotel Violetta's,,Cochabamba,Bolivia,-17.3877002,-66.1541071
+4694960844,Chuquisaca,,,Bolivia,-19.0414185,-65.2521405
+4694964895,Valencia,,,Bolivia,-19.0368777,-65.2483485
+4694964896,Cecil,,,Bolivia,-19.0406519,-65.2512977
+4695994617,Museo Hacienda Cayara,https://www.hotelmuseocayara.com/,Cayara,Bolivia,-19.551426,-65.8811547
+4699964293,Hotel Turístico Poopo,,,Bolivia,-18.3805946,-66.9652997
+4704478092,Residencial Muyupampa,,,Bolivia,-19.8955437,-63.752098
+4707476189,,,,Bolivia,-21.530002,-64.7390447
+4732166022,Las banderas,,,Bolivia,-19.5567614,-65.762592
+4739808821,HOTEL LAS PALMAS,,,Bolivia,-14.8435342,-66.7482764
+4740648127,Alojamiento Kotha Kahuaña,,,Bolivia,-16.1661641,-69.0886201
+4740852674,Colonia Blanca,,,Bolivia,-19.0446418,-65.2575331
+4741055633,Hotel La Masia,http://www.aguascalientes.com.bo,Aguas Calientes,Bolivia,-18.4520521,-59.5077754
+4751757262,Alojamiento Barza,,,Bolivia,-17.7808691,-63.1734424
+4751757263,,,,Bolivia,-17.7808523,-63.1731788
+4754421722,Hostal Libreria de La Plaza,,,Bolivia,-16.5544698,-67.3376751
+4754421723,Hostal Thiago,,Quime,Bolivia,-16.9804969,-67.2190418
+4755190821,Residencial San José,,Monteagudo,Bolivia,-19.805846,-63.9578769
+4755493121,Hotel Vargas,,,Bolivia,-21.445327,-65.7178037
+4761037921,Hospedaje Yanacocha,,,Bolivia,-16.492729,-68.1331774
+4770277221,Residencia Happy Stay,,,Bolivia,-16.4931727,-68.1399348
+4774078361,Eco Albergue Turístico Suk'Arani,,,Bolivia,-19.6335525,-67.6772715
+4779171021,Hostal Atalias,,,Bolivia,-16.1892209,-67.7275265
+4785335921,Hotel La Casa de Mamá,,,Bolivia,-17.838583,-60.74507
+4808421690,Hotel Boutique La Posada,http://www.hotellaposada.com.bo,Sucre,Bolivia,-19.04918,-65.2588212
+4817079323,Alojamiento Bulo Bulo,,,Bolivia,-17.2546853,-64.3617628
+4817189523,Hotel Rojas,,,Bolivia,-17.1975185,-64.5359838
+4825477823,Hotel Pacheco,,,Bolivia,-18.332108,-59.7576964
+4831660023,Aislinn,,,Bolivia,-17.7896756,-63.1673256
+4836061738,Hostal Ananay,,La Paz,Bolivia,-16.4926097,-68.1360369
+4837869770,Rendezvous,http://rendezvouslapaz.com,La Paz,Bolivia,-16.5131032,-68.124382
+4843975421,Tamesis,,Cochabamba,Bolivia,-17.3871991,-66.1534407
+4846765121,Hotel El Peredino,,Chochís,Bolivia,-18.1496948,-60.0300093
+4856535821,21 de Septiembre,,,Bolivia,-14.9958061,-65.6396291
+4856570421,Hostal Quinua Dorada,,,Bolivia,-20.460995,-66.82885
+4868680521,Hostal Tukos La Casa Real,,,Bolivia,-19.5886876,-65.750387
+4879040556,Montículo Apart Hotel,http://monticulo-aparthotel.boliviafull.com,La Paz,Bolivia,-16.5130703,-68.1264638
+4881065221,Utama,,,Bolivia,-16.0359488,-69.1484884
+4881129521,Jacaranda,,,Bolivia,-14.8337342,-64.9033721
+4884546981,Santa Isabel,,,Bolivia,-16.4768631,-68.1182788
+4889670721,Legui's,,,Bolivia,-16.164611,-69.0856176
+4890750621,Hotel Morumbi,,La Paz,Bolivia,-16.4948827,-68.1381033
+4890848233,Residencial DELFIN,,,Bolivia,-14.8410572,-64.9024547
+4894085630,Le Ciel d'Uyuni,,,Bolivia,-20.4620715,-66.8231767
+4895554525,Hotel Mitru,,,Bolivia,-16.5122222,-68.1234493
+4895746421,Residencial Riosinho,,,Bolivia,-16.4916611,-68.1354749
+4896141921,Hostal Arcabubero,,,Bolivia,-16.4987259,-68.1379813
+4897973657,Alojamiento Agil,,,Bolivia,-16.5020632,-68.1450447
+4897973659,Alojamiento Las Flores,,,Bolivia,-16.5095235,-68.1433683
+4897973660,Alojamiento Huascar,,,Bolivia,-16.5094593,-68.1437476
+4897975654,Alojamiento Isla del Sol,,,Bolivia,-16.5010651,-68.1450703
+4897975655,Alojamiento Tokio,,,Bolivia,-16.5012254,-68.145331
+4900379825,Alojamiento Amarete,,,Bolivia,-16.4928588,-68.1405485
+4900379826,Alojamiento Liberty,,,Bolivia,-16.4926176,-68.1422782
+4900379827,Alojamiento Moonlight,,,Bolivia,-16.4926421,-68.1421855
+4900379828,Hostal Huanacu,,,Bolivia,-16.4928443,-68.1424917
+4900380023,Hostal Alabysta,,,Bolivia,-16.4923057,-68.1432255
+4900380028,Hostal Catacora,,,Bolivia,-16.4917016,-68.1344347
+4900383021,Hotel Bolivia,,,Bolivia,-16.4912721,-68.1438447
+4900636510,La Petite Porte,http://www.hotel-lapetiteporte-uyuni.com,Uyuni,Bolivia,-20.4596219,-66.8198596
+4900708623,Alojamiento Victoria,,,Bolivia,-16.4964296,-68.1394037
+4900835921,Hotel Monte verde,,,Bolivia,-14.8352864,-64.9059597
+4900835922,Hotel Beni,,,Bolivia,-14.8352977,-64.9057424
+4900836121,El tamarindo,,,Bolivia,-14.0775221,-66.7907695
+4904508524,Hostal Salas,,,Bolivia,-16.499372,-68.1408081
+4904848123,Alojamiento Palma,,,Bolivia,-17.3479221,-63.2573554
+4906502822,Alojamiento La Riviera,,,Bolivia,-16.4991015,-68.1381216
+4906505121,Hospedaje W.S.,,,Bolivia,-16.4992532,-68.1385985
+4909266724,Condado 111,,,Bolivia,-17.7689228,-63.1953996
+4909266921,Residencial Barcelo,,Santa Cruz de laSierra,Bolivia,-17.8340219,-63.1866019
+4914775221,Hotel Paulista,,,Bolivia,-14.8353387,-64.9050034
+4915488729,Alojamiento Anquima,,,Bolivia,-16.494186,-68.1524393
+4915510225,Alojamiento Jallalla,,,Bolivia,-16.4941269,-68.1526379
+4915510527,Hotel Condeza,,,Bolivia,-16.4984124,-68.1383477
+4922276826,Villa Rosas,,,Bolivia,-16.1887677,-67.7238529
+4927613823,Hostal Florida,,,Bolivia,-16.4925103,-68.1418388
+4927613827,Alojamiento America,,,Bolivia,-16.4923139,-68.1422985
+4928836619,Hotel Solar,,Vallegrande,Bolivia,-18.4875009,-64.1063824
+4932705138,Hotel Shukram,,,Bolivia,-16.4933301,-68.1225106
+4935960776,Hotel Gloria Urmiri,https://www.hotelgloriaurmiri.com,Urmiri,Bolivia,-16.939818,-67.9378816
+4940711821,Hostal Puerto Alegre,https://www.booking.com/,,Bolivia,-16.1671138,-69.0865676
+4941283921,Hotel 14 Septiembre,,Saipina,Bolivia,-18.0955885,-64.5832426
+4941402723,,,,Bolivia,-17.7914909,-63.1765945
+4943206855,Alojamiento Comunal La Higuera del Che,,,Bolivia,-18.794753,-64.2012026
+4944438698,Mi pueblo Samary Hotel Boutique,,,Bolivia,-19.0515458,-65.2581196
+4944858089,Pisili,http://www.condortrekkers.org/tours/2-day-trek-tarabuco-market-local-village/,Tarabuco,Bolivia,-19.2213632,-64.8910688
+4948006322,Hotel Doña Mary,,,Bolivia,-19.6499057,-63.6751967
+4949785401,Villa Antigua,,,Bolivia,-19.0498639,-65.2563536
+4949878406,Hostal Patrimonio,,,Bolivia,-19.5881807,-65.752227
+4958786026,Marcus Hotel,,,Bolivia,-16.3835282,-60.957779
+4961792322,La Casona,,,Bolivia,-16.1377662,-62.0236557
+4961792821,Teresita Suites,,,Bolivia,-16.1341699,-62.0244176
+4961793121,Hotel Colonial,,,Bolivia,-16.1341998,-62.0246901
+4961793125,Gran Hotel Concepción,http://www.granhotelconception.com,,Bolivia,-16.1354098,-62.0247113
+4969360026,Hostal Colibri,,,Bolivia,-16.983082,-67.2177613
+4976139122,Hostal Villa La Cascada,,Villa Tunari,Bolivia,-16.9710253,-65.4160863
+4976139124,Residencial Willis,,,Bolivia,-16.9710594,-65.4174461
+4976157921,Hostal America,,Villa Tunari,Bolivia,-16.9713274,-65.4160262
+4978599121,Hostal Matita,,Toro Toro,Bolivia,-18.1359927,-65.7617315
+4978599221,Eco-Albergue Umajalanta,,,Bolivia,-18.1234959,-65.8025089
+4981436274,Hotel Attridge,,Cochabamba,Bolivia,-17.3872234,-66.155604
+4983254722,CORDILLERA REAL,,,Bolivia,-16.4931841,-68.1411714
+4991408321,Hostal Vieli,,,Bolivia,-20.4605888,-66.8245667
+4991490029,Residencial Marian,,,Bolivia,-18.9014891,-66.7730059
+4991491021,Hotel Panturani,,Salinas de Garci Mendoza,Bolivia,-19.637258,-67.6750164
+4992481825,Casa Verde B&B,,,Bolivia,-19.0516082,-65.2571994
+4995750121,Hostal DAIRSON,,Uyuni,Bolivia,-20.4633354,-66.8227449
+4998824621,Habana las Cocas,,Villa Tunari,Bolivia,-16.9734359,-65.4177527
+4999098222,HEATH RIVER WILDLIFE CENTER,https://manutambopatatravel.com/,,Bolivia,-12.6795833,-68.7120723
+5000683351,Poneloya,,,Bolivia,-21.4998762,-64.7651451
+5002300020,Hotel Viña de Pereira,,,Bolivia,-20.9685487,-65.2311089
+5006120424,Christian,,,Bolivia,-11.0030484,-66.0589696
+5015043168,hotel Sol Luna,,,Bolivia,-21.5055528,-64.1755947
+5018741842,Alojamiento Rosedal,,,Bolivia,-16.2222482,-68.8529937
+5018752729,,,,Bolivia,-16.2146594,-68.8478621
+5021134519,Hostal Kanta,,Cochabamba,Bolivia,-17.4000613,-66.1574341
+5025192924,Hotel El Porvenir Villa Loza,,Tolar,Bolivia,-17.0104441,-68.061824
+5039336925,Hotel Salcay,,,Bolivia,-20.4632681,-66.8253038
+5039345421,Hostal Terra,,,Bolivia,-20.4613096,-66.8229949
+5039345423,Hostel Oro Blanco,,Uyuni,Bolivia,-20.4631768,-66.82259
+5039784421,Hotel Kutimuy,,,Bolivia,-20.4645565,-66.8256147
+5039874821,Hostal Mosoj,,,Bolivia,-20.4626022,-66.8237477
+5041500622,Hostal Reina del Salar,,,Bolivia,-20.4633155,-66.8245782
+5041694222,Residencial La Cabaña,,,Bolivia,-20.4639727,-66.8245743
+5041874226,Hotel Aguilar,,,Bolivia,-20.4566793,-66.821245
+5047240721,Hotel Fortin,,,Bolivia,-19.8031024,-63.9547087
+5059340321,Hotel Quime,,,Bolivia,-16.9799918,-67.2153365
+5060849621,Jhoni,,,Bolivia,-17.9941026,-63.3860263
+5062842549,hotel,,,Bolivia,-15.7734881,-68.649589
+5064944228,Hotel Eco Resort Aguas Calientes,,,Bolivia,-18.456,-59.5121796
+5065261831,Hostal Pancaira,,,Bolivia,-16.4939946,-68.1338501
+5066814122,Hostal Wilma,https://hostalwilma.com/,,Bolivia,-18.1346727,-65.7615004
+5090645821,Hostal Wara,,,Bolivia,-16.1653397,-69.0896479
+5092191921,Pan América Hotel,,,Bolivia,-16.5019883,-68.1334166
+5101491237,Alojamiento Quilla (escalada El Edén),,,Bolivia,-19.5777013,-65.7659146
+5102215838,Hotel Moraine,,Cochabamba,Bolivia,-17.389787,-66.1592529
+5102215841,Hostal Wara,,,Bolivia,-17.3906015,-66.1598271
+5105226826,Quiñones,,,Bolivia,-16.9190993,-62.6138738
+5117996889,Hotel Ginas,,Cochabamba,Bolivia,-17.3879531,-66.1569585
+5132216921,Mariel,,,Bolivia,-17.7861284,-63.1613375
+5136541423,Hostal Inti Karka,,,Bolivia,-16.2128151,-68.6903333
+5143000222,Residencial 26 de Enero,,,Bolivia,-17.7864825,-63.1849846
+5143001221,Residencial Colón,,,Bolivia,-17.7866048,-63.1850983
+5145762824,Hotel Balneario San Jorge,,San Borja,Bolivia,-14.8538481,-66.7445028
+5147482522,Ferrocarril,,,Bolivia,-17.9728232,-67.1103519
+5148118521,Hostal Solspicio,,Copacabana,Bolivia,-16.1685235,-69.0845845
+5155700322,Residencial El Retorno,,,Bolivia,-16.4946481,-68.1519537
+5162908857,Hotel Avenida,,Municipio Riberalta,Bolivia,-10.9978749,-66.0669495
+5166825478,Hotel Armenia,,,Bolivia,-17.3942472,-66.163492
+5166826256,Hotel Briston,,,Bolivia,-17.3944854,-66.1647244
+5175790136,Hotel Perla Amazónica,,Riberalta,Bolivia,-11.0026192,-66.0636933
+5185023523,,,,Bolivia,-16.5078766,-68.1631559
+5192285324,Hostal Costanera,http://www.hostalcostanera.com,,Bolivia,-21.5359717,-64.7370073
+5194346821,Residencia 4 Cañadas,,Cuatro Cañadas,Bolivia,-17.2700499,-62.5556526
+5205666629,Hotel Gutierrez,http://www.hotelgutierrez.com.bo,,Bolivia,-17.9624469,-67.1050502
+5210947421,El Pantanal Resort,,,Bolivia,-19.019678,-57.7194691
+5214483322,Inti Wasi Lodge,,,Bolivia,-16.0361834,-69.1473373
+5222413271,Repostero,,,Bolivia,-17.9717691,-67.1115619
+5222413383,Hotel Regal,,,Bolivia,-17.9710936,-67.1115041
+5223500326,Hotel Landivar Apolo,http://www.fb.com/hotel-landivar-apolo,,Bolivia,-14.7160227,-68.4192224
+5224940722,Residencial 30 de Agosto,,,Bolivia,-14.8398907,-64.9025039
+5225613617,Hotel Hampton Santa Cruz,,Santa Cruz,Bolivia,-17.7609061,-63.19809
+5230490121,Residencial Urkupiña,,,Bolivia,-18.1219081,-63.9594698
+5235719722,Hotel Chope,,,Bolivia,-14.8352326,-64.8939742
+5238562722,Residencial Alvarado,,,Bolivia,-17.0657509,-69.192261
+5273122628,El Consulado,,La Paz,Bolivia,-16.5027929,-68.1309891
+5279730022,"Alojamiento ""Don Pablo""",,,Bolivia,-17.3867364,-66.0685572
+5280985108,Hotel La Fontaine,,Cochabamba,Bolivia,-17.3920446,-66.1613087
+5284907648,Hotel Orquidea,hotelesorquidea.com,Ciudad Satélite,Bolivia,-16.5234465,-68.152534
+5305702840,Hotel Elys,,Caranavi,Bolivia,-15.8319959,-67.5649129
+5317349894,Hotel Boutique Cinco,,Santa Cruz de la Sierra,Bolivia,-17.7662567,-63.2036301
+5317411322,Bar Los Amigos del Che,,,Bolivia,-18.7933855,-64.2020824
+5319274255,Hotel Luxor,,Cochabamba,Bolivia,-17.3843255,-66.1566656
+5321213615,Aparta-Hotel Villa Magna,,Santa Cruz de la Sierra,Bolivia,-17.7824332,-63.1734917
+5334473116,Refugio Laguna Colorado,,,Bolivia,-22.1734795,-67.8185559
+5338049926,Hotel beirut oruro,,,Bolivia,-17.9618517,-67.1061701
+5340812221,Hostal La Luna,,,Bolivia,-16.1660288,-69.0840602
+5341195596,Jardines del Cerro,,,Bolivia,-17.3783512,-66.1360925
+5343080863,Hostal Centro Turístico Piscina Los Patos,,,Bolivia,-17.61772,-66.0271672
+5355641221,La casa del Lago,,,Bolivia,-21.60621,-64.735946
+5360186221,Condominio finot,,,Bolivia,-17.7690451,-63.1953193
+5362385748,Radisson Hotel Santa Cruz,https://www.radisson.com/santa-cruz-hotel-bo/bolscbo,Urubo,Bolivia,-17.7510871,-63.2164765
+5367238921,Hotel Bolivia,,,Bolivia,-17.9623469,-67.1067457
+5418989124,Alojamiento,,,Bolivia,-16.5115178,-68.168232
+5430792463,Hotel Santa Cruz,,Vallegrande,Bolivia,-18.4902782,-64.1060254
+5437716167,Hotel Meteorito,,,Bolivia,-18.2000074,-65.1785885
+5438810821,ApartHotel Camino Real,,La Paz,Bolivia,-16.5057058,-68.1270323
+5449534821,,,,Bolivia,-19.0424101,-65.2380983
+5459530750,Mana,,,Bolivia,-20.4609153,-66.822358
+5463226621,internacional hotel,,,Bolivia,-22.7336443,-64.3443972
+5479114049,Madidi Jungle Ecolodge,,,Bolivia,-14.5531898,-67.6970356
+5479410787,Hotel de Sal Luna Salada,https://www.lunasaladahotel.com.bo/,Colchani,Bolivia,-20.2806495,-66.98186
+5482733078,Ecolodge Puma Punku,,,Bolivia,-16.0516492,-69.142088
+5491414625,Casa Cliza,,Cliza,Bolivia,-17.5907402,-65.9324246
+5498039217,La Vida es Bella,,Samaipata,Bolivia,-18.1768397,-63.8727011
+5517949922,Hotel Briela Anny,,,Bolivia,-17.790151,-63.1642824
+5520599761,Hotel Premier,,,Bolivia,-19.046596,-65.2586248
+5540422852,Hotel Pequeña Saracena,,,Bolivia,-16.2118375,-67.7255798
+5546509822,Las Tinajitas,,,Bolivia,-20.0151243,-63.5299215
+5549200847,Hostal More,,,Bolivia,-19.5807004,-65.7627429
+5551876223,Hostal Plata,,,Bolivia,-19.5793268,-65.7662205
+5551876322,Alojamiento La Moneda,,,Bolivia,-19.5774685,-65.7653899
+5551877222,Alojamiento La Plata Inn,,,Bolivia,-19.5786294,-65.7652551
+5557428253,,,,Bolivia,-17.3883854,-66.1600607
+5565406719,Residencial El Paraiso,,Quime,Bolivia,-16.9783645,-67.2240327
+5566784922,Alojamiento San Diego,,,Bolivia,-20.2064408,-65.4928698
+5581464721,Hoteles Rusticos Jardines,,,Bolivia,-20.4593116,-66.8205777
+5583401323,Residencial Vergara,,,Bolivia,-17.9664736,-67.1093149
+5590381780,Chichu,,,Bolivia,-14.8393089,-64.9039796
+5590381781,,,,Bolivia,-14.8390621,-64.903894
+5594711128,Alojamiento C y L,,,Bolivia,-19.577595,-65.7662175
+5610500021,Hostal Urkupiña,,,Bolivia,-18.1339561,-65.7630628
+5616447521,La Laguna,,,Bolivia,-16.5419576,-68.0657018
+5619780824,Alojamiento Chumallajta,,,Bolivia,-16.5021499,-68.1451333
+5627697121,,,,Bolivia,-20.4622111,-66.8263674
+5631177024,Hotel Flamingo,,,Bolivia,-16.5026253,-68.1343886
+5631177124,Alojamiento Takesi,,,Bolivia,-16.499318,-68.1373782
+5631325622,HOTEL ASTURIAS,http://www.hotelasturias.com.bo,,Bolivia,-17.7895673,-63.1788286
+5637283321,Hostal Luna,,,Bolivia,-16.0430255,-68.6840315
+5642415829,Edificio Taurus,,,Bolivia,-16.5395087,-68.0797022
+5646670421,Betel,,,Bolivia,-15.3095162,-68.2164745
+5646671721,Alojamiento San Martín,,,Bolivia,-15.3095604,-68.216028
+5646751021,Alojamiento Perla Andina,,,Bolivia,-15.3095724,-68.2158726
+5656502721,Paris,,,Bolivia,-22.7357566,-64.3438574
+5658929925,Hotel Ibañez,,,Bolivia,-14.8341917,-64.9057233
+5658977222,Hotel Don Bernardo,,,Bolivia,-14.833761,-64.906192
+5667611421,Colina Concepción,,,Bolivia,-16.140085,-62.0149218
+5720247121,La Pascana,,,Bolivia,-16.1343853,-62.0257958
+5725067021,,,,Bolivia,-19.1732618,-65.271368
+5742898975,Hotel Luz Palace,,,Bolivia,-21.531117,-64.7328749
+5742898978,Mumanal,,,Bolivia,-21.5296174,-64.7317404
+5744341858,Hostal Bolivar,,Tarija,Bolivia,-21.5331498,-64.7302665
+5744341861,Hotel Mitru,,,Bolivia,-21.5381753,-64.7304904
+5750592204,,,,Bolivia,-21.5269427,-64.7363538
+5790182053,Kusi,,,Bolivia,-16.1673648,-69.0901188
+5834356226,Hostal Divino,,,Bolivia,-16.1899931,-67.7270029
+5846721685,Belmont Hostal,,,Bolivia,-16.4977823,-68.1392471
+5883016985,Eco Hotel Paulinas,,,Bolivia,-16.9714225,-65.3909073
+5887679885,Residencial,,,Bolivia,-17.0845974,-66.8197195
+5888462747,Hotel Sumaj Rijchariy,,Colchani,Bolivia,-20.3103467,-66.9732574
+5889185660,5 Noviembre,,,Bolivia,-15.5333982,-69.251263
+5889185661,Chuñuña restaurant Hospedaje,,,Bolivia,-15.7585615,-69.0647927
+5891307486,Alojamiento,,,Bolivia,-15.53339,-69.2511368
+5891894685,Hotel - Restaurant La Chununa,,,Bolivia,-15.7586456,-69.0647441
+5893486885,Residencial Rayito de Luna,,,Bolivia,-16.0424329,-68.6840909
+5906812951,NATIVA Suites,,Cochabamba,Bolivia,-17.3926465,-66.1562696
+5910560385,Santa teresa de jesus,,,Bolivia,-19.0497609,-65.2545274
+5927652187,Hostal Luz Yhobimar,,,Bolivia,-16.1663281,-69.0876753
+5948830486,Hotel Santa Ana,,Aiquile,Bolivia,-18.2228668,-65.2019417
+5963365087,Hotel Sahara,,,Bolivia,-15.89375,-63.1885137
+5963382285,Hotel Yuhuca,,,Bolivia,-15.8974168,-63.1870657
+5964159886,HOTEL MANARA,,,Bolivia,-14.8575767,-66.747105
+5982244985,Totoro Casa Hotel,,,Bolivia,-16.1629389,-69.086533
+5994303985,Hotel Quiñones,,,Bolivia,-16.9172944,-62.614596
+6001236286,Hostal Wooden Wasi,https://hotels.cloudbeds.com/reservation/yxjj60#checkin=2018-10-19&checkout=2018-10-20,,Bolivia,-16.4924285,-68.1366177
+6032006203,Alojamiento Avenida,,,Bolivia,-15.8331203,-67.5637509
+6034941888,Hostal Donde el Negro,http://www.dondeelnegro.com,,Bolivia,-16.4882811,-68.1402895
+6039962386,Círculo de Oficiales del Ejército COE,,,Bolivia,-14.4436527,-67.5317108
+6094266982,Econo Lodge,,,Bolivia,-21.5386217,-64.7265653
+6109480289,Residencial 2 de Mayo,,Municipio Santa Cruz de la Sierra,Bolivia,-17.83832,-63.2386454
+6123882891,Hotel Mitru Sur,,,Bolivia,-16.5362259,-68.0756489
+6125732001,Hotel Ɨguasú,,,Bolivia,-15.8962866,-63.1877175
+6138346586,Residencial Melisa,,,Bolivia,-21.2679112,-63.4646867
+6146695585,COE,,,Bolivia,-17.7585154,-63.2004444
+6162542186,Tienda / Pensión,,,Bolivia,-19.0155749,-65.5347382
+6168061185,Tacuarales Ecolodge,,,Bolivia,-14.6003085,-67.5721926
+6172164686,El Vagabundo,,,Bolivia,-18.1789938,-63.8767521
+6173814485,Pisatahua Ecolodge,https://www.pisatahua.org/,,Bolivia,-10.9050912,-65.9848563
+6184399285,,,,Bolivia,-16.4942222,-68.1422179
+6187053576,Hotel Tamampaya,,Puente Villa,Bolivia,-16.4028534,-67.6420058
+6191344126,Casa Fusión Hotel Boutique,https://casafusion.com.bo/,La Paz,Bolivia,-16.5152715,-68.1298435
+6191618744,Hotel Ecologico Gota del Chaco,,Villamontes,Bolivia,-21.2589576,-63.4586722
+6211063585,Hotel Montebelo,,,Bolivia,-16.2126225,-67.7256555
+6217275086,Alojamiento,,,Bolivia,-15.6606881,-69.1273088
+6217549286,Hostal Bolsuiz,,,Bolivia,-14.8397749,-64.9018762
+6221551688,Madrigal Resort,,,Bolivia,-19.1571182,-65.250856
+6242691289,Hotel 6 de Enero,,,Bolivia,-14.2966805,-67.336034
+6242691290,Hotel Santa Rosa,,,Bolivia,-14.297503,-67.3377147
+6244944519,Plaza Pueblo Hotel Restaurant,,Vallegrande,Bolivia,-18.492341,-64.1084808
+6248677860,Hotel San Jose,,San Matias,Bolivia,-16.362517,-58.4015729
+6248696232,Hotel Pantanal San Matias,,San Matias,Bolivia,-16.3615172,-58.3995252
+6248696235,Hotel Vallegrande,,San Matias,Bolivia,-16.3593045,-58.4006541
+6248701259,Hotel Las Americas,,San Matias,Bolivia,-16.3611678,-58.4003536
+6248703463,Hotel La Paz,,San Matias,Bolivia,-16.3610288,-58.400756
+6250113285,Hostal Villazon,,,Bolivia,-22.0899465,-65.596022
+6250114088,San Jorge,,,Bolivia,-22.0930599,-65.5967401
+6250764687,Alojamiento Sede Ferroviaria,,,Bolivia,-21.4433126,-65.7187287
+6252711285,La perla del oriente,,,Bolivia,-18.3316697,-59.7543983
+6270062289,Hostal Letanias,,,Bolivia,-16.654105,-68.3050965
+6271543093,Alojamiento Geminis,,,Bolivia,-16.5550899,-68.6810363
+6283372005,El Mochillero,,Tiahuanacu,Bolivia,-16.5523524,-68.6819401
+6296809485,Residencial Red Star,,,Bolivia,-17.2538183,-64.3621437
+6311987586,Hostal San Miguel,,,Bolivia,-18.1354297,-65.7626505
+6312624186,Hotel Central,,,Bolivia,-10.8099899,-65.3516301
+6344143685,Hotel Denisse,,San José de Chiquitos,Bolivia,-17.8449261,-60.7364012
+6381055785,Residencial Gran Boston,,,Bolivia,-17.9675518,-67.1096067
+6407896698,Hostal Camila,,,Bolivia,-19.0505998,-65.2581309
+6427318545,Amaszonas Eco Hotel,,,Bolivia,-16.838884,-64.7925052
+6441619456,Hostal Santusa,,,Bolivia,-22.0863917,-65.5961774
+6445847885,Alojamiento Avenida Rios,,,Bolivia,-17.3373143,-63.2518591
+6448966227,Hotel Buena Vista,,,Bolivia,-17.4648766,-63.6678112
+6448988192,Hotel Europa,,Montero,Bolivia,-17.3505509,-63.2512238
+6456639089,Hotel Sucre,,San Ignacio de Velasco,Bolivia,-16.37857,-60.9650884
+6456640186,Residencial Betania,,,Bolivia,-16.3765598,-60.9614593
+6458540467,Hotel Rodriguez,,Sapecho,Bolivia,-15.5604116,-67.3341552
+6471930015,,,,Bolivia,-17.3921025,-66.1599927
+6489191522,Residencial El Shaday,,,Bolivia,-14.0792484,-66.7930275
+6495867585,El Gobernador Hostal,,,Bolivia,-19.0411888,-65.262211
+6573357411,Garden In Hostal,,,Bolivia,-16.1662147,-69.0864817
+6577743485,,,,Bolivia,-19.0523539,-65.2566943
+6579316084,Alojamiento Mendez,,,Bolivia,-21.5335238,-64.7476045
+6582845039,,,,Bolivia,-15.8306137,-67.5677849
+6584192615,Plaza Hotel,,,Bolivia,-21.5258741,-64.1722802
+6584192619,Tarija,,,Bolivia,-21.5252518,-64.1722877
+6594845402,Hotel Ebano,,,Bolivia,-17.7898835,-63.1626971
+6601073459,Residencial Luismar,,Charagua,Bolivia,-19.7917074,-63.2008491
+6601116620,Hotel Residencial El Refugio,,Charagua,Bolivia,-19.7919447,-63.1975246
+6606728885,Hostal Kory Wara,,,Bolivia,-17.8401464,-68.4127892
+6612298509,Alojamiento Santa Barbara,,,Bolivia,-17.7825075,-63.1858822
+6661815870,Maya,,Rurrenabaque,Bolivia,-14.4368649,-67.5274161
+6698315785,Hotel Lithium,,Rio Grande,Bolivia,-20.8229789,-67.2979766
+6700774304,Hôtel Canciller,,,Bolivia,-17.7840016,-63.1840856
+6721931987,,,,Bolivia,-21.7585603,-67.4799075
+6764617186,Hostal Plaza,,,Bolivia,-20.6412877,-65.2096375
+6770349720,Luperia Hotel,,Potosí,Bolivia,-19.5833735,-65.7562062
+6795627585,Hotel Sarah,,,Bolivia,-17.7833319,-63.1872612
+6828046156,Alojamiento El Guapuru,,,Bolivia,-17.7904655,-63.1414812
+6861877963,Quinta Las Pozas,,,Bolivia,-17.3076264,-63.8430411
+6868555485,Hotel Tropical,,Tres Arroyos,Bolivia,-17.0223334,-65.4780142
+6903459011,Residencial Buenos Aires,,Santa Cruz de la Sierra,Bolivia,-17.7966995,-63.1925232
+6914221297,Hotel Las Palmas,,Villa Tunari,Bolivia,-16.9750424,-65.4194363
+6926637592,Camana Inn,,,Bolivia,-19.6377803,-67.6747251
+6926671729,Hospedaje Franz,,Tahua,Bolivia,-19.8922077,-67.6955568
+6928861348,Hostal Viña del Mar,,,Bolivia,-17.2341202,-67.9201229
+6928892790,Hotel Petrolero,,,Bolivia,-17.1947971,-64.5446751
+6937570485,Gran Hotel,,,Bolivia,-19.0488604,-65.2525027
+6945675385,Taypi Uta,http://Hospedajetaypiuta@hotmail.com,,Bolivia,-16.5173064,-68.1542295
+6960279385,Residencial Terminal,,,Bolivia,-16.4886267,-68.1398015
+6989819109,Hostel Jerian,,,Bolivia,-20.459967,-66.8246269
+7039211787,Ecohostel Inka Pacha,http://www.inkapachaecolodge.com,,Bolivia,-16.0373256,-69.1469013
+7086169986,Hotel Madrid,,La Paz,Bolivia,-16.4947828,-68.1328527
+7107275386,Hotel Rossel,,,Bolivia,-16.488071,-68.1416128
+7113325085,Hostal Salome,,,Bolivia,-16.1653129,-69.0831842
+7149725685,Hotel de Sal - Sol de Mañana,,,Bolivia,-20.3012001,-66.9418011
+7156768989,El Molino Apart Hotel,,Tarija,Bolivia,-21.5334475,-64.7381496
+7187028097,Hotel Sal Andina,www.hotelsalandina.com.bo,Uyuni,Bolivia,-20.462185,-66.8233903
+7188006203,Hotel Casa de Sal / Casa Andina,,Uyuni,Bolivia,-20.465661,-66.8265701
+7231699002,Hoterma,,Villamontes,Bolivia,-21.2666133,-63.5187542
+7251458995,Hostal Luis,,,Bolivia,-16.1684848,-69.0877585
+7251458996,Hostal Luis ubicación incorrecta - wrong place,,,Bolivia,-16.165727,-69.0862243
+7251459293,Hostal Luis,,,Bolivia,-16.1657211,-69.0862375
+7297876485,La casona,,,Bolivia,-16.1377656,-62.0236815
+7376394184,Hotel Tropical,,,Bolivia,-14.8328549,-64.9062741
+7465797097,Hotel Colonial,,Trinidad,Bolivia,-14.8339508,-64.9085345
+7504180185,,,,Bolivia,-16.1884454,-67.7261708
+7830853606,,,,Bolivia,-16.0433077,-68.6847334
+7841272153,Kachi Lodge,https://www.kachilodge.com/,,Bolivia,-19.8575287,-67.5274195
+8060552385,Residencial Punta Rieles,,,Bolivia,-20.9360649,-66.2207269
+8149328317,Apolo- Complejo Ecoturístico Madidi,,,Bolivia,-14.7179103,-68.430483
+8199882778,Amazonia Hotel,,,Bolivia,-11.0335211,-68.7747698
+8358896218,Hotel Jaque Mate,,,Bolivia,-16.4710594,-67.4535913
+8439800045,Alojamiento Las Palmeras,,Santa Cruz de la Sierra,Bolivia,-17.7907323,-63.1643404
+8439801465,Residencial Las Tablitas II,,Santa Cruz de la Sierra,Bolivia,-17.7907463,-63.1642829
+8439830918,Residencial Yulimar,,Santa Cruz de la Sierra,Bolivia,-17.7905867,-63.1639946
+8444129817,residencial Dieguito,,,Bolivia,-22.0147481,-63.6777911
+8481076260,Tucabaca Hotel,,Santa Cruz de la Sierra,Bolivia,-17.7748568,-63.1702778
+8557608218,Hotel Valle Grande,,,Bolivia,-16.3768502,-60.9710479
+8666079648,Segovia,,Tarija,Bolivia,-21.5329809,-64.7315831
+8822851617,Hotel La Pascana,,,Bolivia,-17.2204781,-62.8962038
+8905781588,HOTEL MIRADOR,,El Alto,Bolivia,-16.4954014,-68.1922253
+8934117696,Hotel By Armonia Santa Cruz,,Santa Cruz de la Sierra,Bolivia,-17.7776104,-63.156288
+8936723619,Hotel,,,Bolivia,-21.2413539,-65.2034017
+8951940996,Residencial y Balneario Villa Belen,,Nueva Belen,Bolivia,-17.6082951,-62.6818072
+8985875552,Residencial Charagua,,,Bolivia,-19.7913818,-63.2015512
+9161684344,Hotel Manuripi,,,Bolivia,-11.1099282,-67.5559502
+9198181496,Alojamiento DEL NORTE,,,Bolivia,-16.4918088,-68.1852995
+9220046517,El Cerro,,,Bolivia,-18.337158,-59.7692098
+9220126312,Hotel Toro Bravo,,Sorata,Bolivia,-15.7786264,-68.6464919
+9666284171,Hotel Pairumani,,Cochabamba,Bolivia,-17.3976472,-66.1494351
+9710258117,Hotel Silvia,,Arroyo Concepción,Bolivia,-19.0258454,-57.710794
+9768532382,Hotel Boutique La Casa de Margarita,,Cochabamba,Bolivia,-17.3717241,-66.1488061
+9801739543,Hotel Jacarandá,,,Bolivia,-14.8319801,-64.9040779
+9807606077,Residencia Rosales,,Comunidad Ingenio,Bolivia,-15.6328944,-68.5313466
+9864450580,Ramaditas Explora Mountain Lodge,https://www.explora.com/lodge-uyuni-salt-flats/,,Bolivia,-21.6513981,-68.0864612
+9865943417,Alojamiento El Rey,,,Bolivia,-18.1986995,-65.1809139
+9867169541,Residencial Alta Vista,,,Bolivia,-16.4965216,-68.1387934
+9867169542,Hotel La Aburla,,,Bolivia,-16.4965906,-68.1387717
+9870912121,almudena apart hotel,,,Bolivia,-16.5124607,-68.1337957
+9871004717,Santo campo ecolodge,,,Bolivia,-16.0426787,-69.1448893
+9881915155,Hostal Estrella del Sur,,Ciudad Satélite,Bolivia,-16.5240391,-68.1580907
+9930910431,Alkamari Hotel,,,Bolivia,-16.5497305,-68.0075493
+9950849118,RIXAA Hotels,,,Bolivia,-16.4956425,-68.140332
+9950849817,Paraíso del Lago,,,Bolivia,-16.1661429,-69.0887938
+9962599826,Residencial Herbas,,,Bolivia,-19.5529092,-65.4537334
+9973087817,,,,Bolivia,-10.8315557,-65.3606987
+9975650817,,,,Bolivia,-13.0412941,-64.6678291
+9976792483,Hostal Sucre,www.hostalsucre.com.bo,,Bolivia,-19.0492296,-65.2615765
+9978149817,,,,Bolivia,-14.8331902,-64.902352
+9983241150,Eco hotel,,,Bolivia,-18.70044,-66.1631898
+9990710717,Skyline hostel,,,Bolivia,-16.4971543,-68.1379641
+9991758233,D'Castilla Hotel Boutique,,,Bolivia,-17.8078912,-63.2105939
+10000617715,Hotel Americana,,Cochabamba,Bolivia,-17.3991212,-66.1554827
+10005028517,Pensión América,,,Bolivia,-17.238467,-67.9106728
+10005028518,Hotel Don Félix,,,Bolivia,-17.7372793,-65.1947787
+10005029217,Hotel Filigrana,,,Bolivia,-18.1998225,-65.1784801
+10024973947,Cosmopolitano Hotel Boutique,https://cosmopolitano.com.bo,,Bolivia,-17.7870789,-63.1819496
+10079923171,Hotel Dulce Salada,,,Bolivia,-20.3099309,-66.9743273
+10131635928,Hotel Independencia,https://independenciahotel.com/,,Bolivia,-19.0483131,-65.258316
+10166462447,Don Beto,,,Bolivia,-19.2739331,-68.2799511
+10172520844,Hostal Versalles,,Cochabamba,Bolivia,-17.3987996,-66.1579036
+10212948971,Hotel Ecologico de Piedra,,Termas de Polques,Bolivia,-22.5333551,-67.6502141
+10225268418,Hotel La Cascada,,Puerto Quijarro,Bolivia,-19.0075352,-57.7160013
+10288356509,Residencial Oriental,,,Bolivia,-17.5144845,-63.1645525
+10288356909,Hostal Rojas,,,Bolivia,-22.0125501,-63.6776781
+10316464900,La Casona Hotel Boutique,https://www.lacasonahotelboutique.com/,La Paz,Bolivia,-16.4968494,-68.136818
+10687433505,Romay,,,Bolivia,-20.6394875,-65.2112195
+10708168718,Costa de Marfil Hostal,,Cochabamba,Bolivia,-17.3833758,-66.1608795
+10750915579,Hospedaje Utasawa,,,Bolivia,-16.5538006,-68.6803162
+10776404268,Laguna Jardin,,,Bolivia,-14.8739419,-64.8617115
+10795424406,Casa San Martin,,,Bolivia,-17.391403,-66.1597056
+10795436205,Hostal Coripata,,,Bolivia,-16.3134796,-67.6055253
+10795524975,Hotel Cochabamba,,Comarapa,Bolivia,-17.9166554,-64.5301306
+10820291506,Punta Real,,,Bolivia,-21.5316979,-64.7187615
+10839628305,Hotel Mandiore,,,Bolivia,-18.8275223,-58.6201668
+10840051606,Hostal Restaurante Hnos.,,,Bolivia,-18.837812,-58.6020713
+10865020206,,,,Bolivia,-17.7992089,-63.1467388
+10867924300,Hotel Chiquitano,,San Ignacio de Velasco,Bolivia,-16.3776676,-60.9638909
+10907253605,Onawa,,,Bolivia,-17.9498,-67.0947744
+10907253705,,,,Bolivia,-17.9495144,-67.094972
+10922992766,Hotel Morales Moralitos,,Oruro,Bolivia,-17.9679173,-67.1088181
+10924671593,Hostal y Camping,,,Bolivia,-16.2325482,-67.7389559
+10934054006,El Tacuaral,,,Bolivia,-14.4367497,-67.5269521
+10949334603,Alojamiento San Mateo,,La Paz,Bolivia,-16.4887298,-68.1399325
+10982680705,Hotel Arenas,,,Bolivia,-16.4662437,-67.4551723
+10982680805,Hotel Anahí,,,Bolivia,-16.4663318,-67.4547369
+10982834206,Hospedaje,,,Bolivia,-16.466031,-67.4546733
+10982848208,Hotel Anahí,,,Bolivia,-16.4667819,-67.4548141
+10992474406,Hotel Gloria,,,Bolivia,-16.5382545,-68.0777156
+11037309005,Hotel Houston,https://www.hotelhoustonoruro.com/,Oruro,Bolivia,-17.970742,-67.1127379
+11065949104,Ecolodge Descanso,,,Bolivia,-16.0424902,-69.1448917
+11067553005,Residencial Crisbon,,,Bolivia,-11.0347962,-68.7678959
+11069700605,Alojamiento Maritza,,,Bolivia,-11.489518,-67.2461608
+11069707305,Alojamiento Jireh,,,Bolivia,-11.4892969,-67.2457002
+11069712605,Alojamiento Josias,,,Bolivia,-11.4894166,-67.244351
+11071191105,Hospedaje Novedades,,,Bolivia,-11.0344029,-68.7668706
+11097540429,Aquí me quedo,,Senda 3,Bolivia,-16.9941313,-65.1854733
+11104349201,Hotel Jupiter,,Cochabamba,Bolivia,-17.3992185,-66.1556535
+11114810405,hotel santa ana,,,Bolivia,-10.8127984,-65.3492658
+11117010905,,,,Bolivia,-16.0367777,-69.1473379
+11175385155,Hotel Yuliana,,San Joaquín,Bolivia,-13.040072,-64.6695846
+11211778305,Alojamiento Victoria,,Cochabamba,Bolivia,-17.3889071,-66.1507655
+11227988942,Hotel Tropical,,Yucumo,Bolivia,-15.1489592,-67.0332424
+11287563970,Hostal Plaza,,,Bolivia,-18.1997115,-65.1781772
+11322673369,,,,Bolivia,-19.5774554,-65.7664118
+11331029069,El Principito,,,Bolivia,-17.7792107,-63.1831077
+11404901614,Residencial Ucieda,,Sacaba,Bolivia,-17.4122177,-66.1015368
+11410906969,Mono Seco,,,Bolivia,-18.4501502,-59.5035505
+11429599569,,,,Bolivia,-16.5000459,-68.1373957
+11435351321,Hotel Chiquitano,,,Bolivia,-16.2752863,-62.5034386
+11449816065,El Salarcito,,,Bolivia,-20.458401,-66.8240999
+11453325461,Hotel de Selva El Puente,,Agrigento A,Bolivia,-16.9830279,-65.4082511
+11458785366,Hotel Cabañas La Monita,,Villa Tunari,Bolivia,-16.9766359,-65.4258247
+11461235798,Hostal Boutique Romandia,,Villa Tunari,Bolivia,-16.9747991,-65.4261211
+11464635530,Hotel Las Biomas - Aqua Park,,Villa Tunari,Bolivia,-16.9731463,-65.4141861
+11464635541,Residencial La Querencia,,Villa Tunari,Bolivia,-16.9720055,-65.4145177
+11466146006,Hotel Puerto Selva,,Villa Tunari,Bolivia,-16.9753878,-65.4204135
+11476211018,Hotel Mavi,,Mizque,Bolivia,-17.9416634,-65.3427717
+11546665196,Hotel El Dorado,https://www.hoteleldorado.net/,La Paz,Bolivia,-16.5046744,-68.1308602
+11564236594,Alojamiento Junt'u Uta,,La Paz,Bolivia,-16.4749017,-68.1177157
+11566144477,,,Cochabamba,Bolivia,-17.3915257,-66.1510975
+11687762318,Alojamiento Mariapo,,,Bolivia,-15.4047197,-68.0577083
+11711083069,,,,Bolivia,-16.4957372,-68.1402286
+11720106634,Hotel Gloria,,,Bolivia,-16.1669792,-69.0887816
+11720106642,Hotel Ambar,,Copacabana,Bolivia,-16.1689269,-69.0888003
+11837607269,Rustico & Hotel Boutique Las Churapas,,,Bolivia,-17.8467297,-60.7495922
+11839405674,Hotel Mami Vilma,,,Bolivia,-18.3330324,-59.7544016
+11842007569,,,,Bolivia,-19.0512983,-65.2571181
+11847793301,Hotel La Brisas Sur,https://www.hotel-las-brisas.com/Inicio-Las-Brisas-Sur/,La Paz,Bolivia,-16.5388646,-68.0864928
+11863359269,HOTEL VIRGEN DEL SOCAVON,,,Bolivia,-17.9671134,-67.1178038
+11867347269,Cataleya Hotel Resort,,,Bolivia,-16.1410692,-62.0497097
+11887084739,Catena Hotel,,,Bolivia,-17.3765812,-66.1545776
+11897151496,Hotel Magno,,,Bolivia,-17.3937938,-66.1584363
+11907964069,Hotel Boutique Casamagna,,,Bolivia,-17.376699,-66.1632559
+11962923114,Alojamiento Chicote Grande La Aguada,,,Bolivia,-17.3116501,-66.8699403
+11963208965,Hotel Arévalo,,,Bolivia,-17.3751245,-66.1624945
+11964290269,,,,Bolivia,-17.77695,-63.1754217
+12023743869,,,,Bolivia,-16.5085468,-68.1239887
+12023886426,Hotel Galaxia,,,Bolivia,-17.9709454,-67.1107231
+12023886432,Alojamiento Ferrocarril,,,Bolivia,-17.9728431,-67.1103492
+12023886433,Residencial San Salvador,,,Bolivia,-17.9733514,-67.1104605
+12040273871,Hotel Houston,,,Bolivia,-17.9710105,-67.1128542
+12040273889,Hotel Galaxia,,,Bolivia,-17.9709453,-67.1107231
+12040273890,Gran Hotel Sucre,,,Bolivia,-17.9713189,-67.1130509
+12040274093,Gran Hotel Sucre,,,Bolivia,-17.9715068,-67.1131126
+12040274102,Alojamiento Ferrocarril,,,Bolivia,-17.972843,-67.1103491
+12040276772,Residencial San Salvador,,,Bolivia,-17.9733513,-67.1104604
+12047508279,Belle Ville Sucre,,,Bolivia,-19.0385756,-65.2613544
+12051857099,Hotel Vivenzo,,,Bolivia,-16.4976108,-68.130967
+12107231040,Illampu Art Boutique Hotel,,La Paz,Bolivia,-16.4981774,-68.139393
+12215882267,Hotel de Sal MAyPO,,Colcha K,Bolivia,-20.7488496,-67.6479271
+12228048051,Hostal Estrella Del Lago,,,Bolivia,-16.1641223,-69.0903352
+12235756115,UMA EXPERIENCE,https://www.uma-hotel.com/,,Bolivia,-16.2010217,-67.7281606
+12238464612,AlojamientoSan José,,Copacabana,Bolivia,-16.1645228,-69.0878667
+12253985601,Hostal Recoleta Sur,,,Bolivia,-19.0446204,-65.2608353
+12254672579,Aguas Tibias Hotel Rural,,San Pablo,Bolivia,-16.004201,-62.5535999
+12281834401,El Condorito,,,Bolivia,-20.3254008,-66.9205523
+12318660060,,,,Bolivia,-18.1808139,-63.8759834
+12329016167,Landhaus,,,Bolivia,-18.1756264,-63.8784309
+12329021262,Hotel Montana,,,Bolivia,-18.1751115,-63.876015
+12350695558,El Atillo,,,Bolivia,-18.1773241,-63.8780813
+12388259258,Hotel Atocha Inn,,,Bolivia,-20.9366637,-66.2218161
+12458015901,Residencial Backovic,,,Bolivia,-17.9718133,-67.1079091
+12459544801,La Escondida Hostel,,,Bolivia,-19.044985,-65.2596278
+12487524570,JR Hotel,,Camiri,Bolivia,-20.0386953,-63.5184082
+12549491212,Hotel Gisel,,Villa Montes,Bolivia,-21.2683692,-63.4573004
+12559976601,Hostal Fabuloso,,,Bolivia,-16.5141314,-68.1575499
+12559982702,Hospedaje Magnifico,,,Bolivia,-16.5112172,-68.1572596
+12589969001,Hotel Vientos del Sur,,,Bolivia,-22.0915095,-65.595757
+12591759601,Alojamiento Andaluz,,,Bolivia,-22.0894775,-65.5956801
+12603760901,OSHO Hotel,https://oshohotel.com/,,Bolivia,-17.7741682,-63.1665817
+12612689456,Hotel Triller,,,Bolivia,-11.0282799,-68.7581986
+12614201620,Alojamiento Virgen de Surumi,,,Bolivia,-17.3889908,-66.1527118
+12614210901,Alojamiento Wendy,,,Bolivia,-17.3863544,-66.1537218
+12637033667,Crisangel,,,Bolivia,-17.9510443,-67.0962851
+12703677826,Hotel de Sal Cruz Andina,https://www.hoteldesalcruzandina.com,Colcha K,Bolivia,-20.7507154,-67.6471685
+12703677911,Hotel de Sal Tambo Loma,,,Bolivia,-20.7514236,-67.6466913
+12704203893,PedreSal Hotel Rustico de Colcha K,,Colcha K,Bolivia,-20.7432992,-67.658626
+12706459620,Ecolodge Lipeño,,Santiago de Chuvica,Bolivia,-20.8103084,-67.6954023
+12706459623,Mañica Hotel Llipi,,Mañica,Bolivia,-20.7909548,-67.6690953
+12720443601,,,,Bolivia,-21.5420863,-64.7252575
+12743345802,Rixaa Hotels,,,Bolivia,-16.4959535,-68.1400277
+12754839901,Hostal Quechua,,,Bolivia,-21.756087,-67.4790772
+12755512080,Explora Lodge at Uyuni Salt Flats,https://www.explora.com/explorations/jirira/,Jirira,Bolivia,-19.8598358,-67.544865
+12758349301,Hotel Cima Argentum,https://hca-potosi.com/,,Bolivia,-19.5817774,-65.7578652
+12817912059,RESIDENCIAL GUEVARA,,,Bolivia,-17.0157976,-65.4579531
+12824976825,Casa de Campo La Quimera,,San Pedro,Bolivia,-20.7226133,-65.2264134
+12825218986,Hostal de la Concepcion de la Palca Chica,,Palca Chica,Bolivia,-20.7335955,-65.2290876
+12843181701,Hotel Kusaña,,,Bolivia,-22.1875908,-67.3385603
+12865684202,Hotel Crespo,,,Bolivia,-16.4929835,-68.1391889

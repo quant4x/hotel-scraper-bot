@@ -1,0 +1,401 @@
+id_hotel,nombre,url_principal,ciudad,pais,latitud,longitud
+616038256,I.T.A,,,Uruguay,-34.906954,-56.191
+807268183,Lafayette,http://www.lafayette.com.uy,Montevideo,Uruguay,-34.9078432,-56.1907174
+876484372,Los Medanos,,San Gregorio de Polanco,Uruguay,-32.6157618,-55.8454326
+886843917,Posada Biarritz,,,Uruguay,-34.7936976,-55.5086153
+892722704,Cottage,,,Uruguay,-34.894051,-56.0599223
+907509636,Cabañas Aldea Marina,,,Uruguay,-34.7970368,-55.4956012
+907509645,Cabañas Sierras del Mar,,,Uruguay,-34.7973099,-55.4908055
+907509652,Parador y Cabañas Villa Natura,,,Uruguay,-34.7915566,-55.4919856
+907511891,Hotel Campo,,,Uruguay,-34.7975037,-55.4958909
+907514930,,,,Uruguay,-34.7911601,-55.4991095
+918873087,Regency Suites,,Montevideo,Uruguay,-34.8895158,-56.0575754
+944054070,Puerto Mercado Hotel,http://puertomercadohotel.com.uy/es/,Montevideo,Uruguay,-34.9066767,-56.2106948
+944824860,Quijano Hotel,https://www.hotelquijano.com,Montevideo,Uruguay,-34.9070409,-56.1890778
+1167139189,Radisson Montevideo Victoria Plaza Hotel,https://www.radisson.com/montevideo-hotel-uy-11100/urumont,Montevideo,Uruguay,-34.9058186,-56.1995694
+1288074472,Hotel Bahia,,,Uruguay,-34.6633673,-54.1542306
+1288074575,,,,Uruguay,-34.6611346,-54.1554644
+1369468403,Villaggio Guaviyú,,,Uruguay,-31.8398839,-57.8853426
+1426717729,Cala di Volpe,https://www.hotelcaladivolpe.com.uy/,Montevideo,Uruguay,-34.9265234,-56.1574354
+1580063508,Arapey Thermal,,,Uruguay,-30.9441924,-57.5184618
+1733643491,Hostal del Jardin,,,Uruguay,-31.3872746,-57.9722997
+1870443527,Parque de Vacaciones UTE-ANTEL,,,Uruguay,-34.425221,-55.1938059
+1872991793,,,,Uruguay,-32.3592831,-57.2688384
+1953685919,Hotel Real,,,Uruguay,-34.0987763,-56.2152491
+1953685931,Hotel Español,,,Uruguay,-34.0970328,-56.2142996
+2027232640,Casa Chic Carmelo,,,Uruguay,-33.9200433,-58.4028465
+2043785939,San Fernando,,,Uruguay,-34.9582658,-54.9418707
+2049673005,Terrazas de la Viuda,http://www.terrazasdelaviuda.com,Punta del Diablo,Uruguay,-34.0499927,-53.5475135
+2063079010,Posada del Siglo XIX,https://www.posadasigloxix.com.uy/,,Uruguay,-31.4480278,-57.9127318
+2063079012,Hostal Canela,,,Uruguay,-31.4455565,-57.915823
+2063079017,Solanas Resort & Spa,,Termas del Daymán,Uruguay,-31.4462264,-57.9107189
+2071852657,La Florinda,www.florindahotel.com,,Uruguay,-34.9619331,-54.9421768
+2101700997,Paradise Hotel,,,Uruguay,-34.8722162,-55.0871983
+2249190921,Hotel El Mirador,,,Uruguay,-34.4667009,-57.8369274
+2249190924,Radisson Hotel Colonia del Sacramento,https://www.radisson.com/colonia-del-sacramen-hotel-uy-70000/urucour,Colonia del Sacramento,Uruguay,-34.4691512,-57.8486165
+2258856884,Hotel Nirvana,,Nueva Helvecia,Uruguay,-34.3065568,-57.237176
+2321901541,Hotel Lamas,,Santa Lucía,Uruguay,-34.4598369,-56.3851842
+2363944519,Plaza Hotel,,Maldonado,Uruguay,-34.9091014,-54.9588506
+2363944520,Hotel Le Petit,,Maldonado,Uruguay,-34.9082308,-54.9577869
+2363944521,Esteño,,,Uruguay,-34.9075449,-54.9578419
+2363944598,Fasano,,,Uruguay,-34.8392344,-54.8836492
+2365231268,Bahia Vik,https://www.bahiavik.com/,José Ignacio,Uruguay,-34.8381446,-54.6483715
+2366460815,Hotel San Gregorio de Polanco,,,Uruguay,-32.6142765,-55.8340838
+2367284395,Hotel Los Medanos,,,Uruguay,-34.9328537,-54.9186624
+2367656501,Terrazas de la Laguna,,,Uruguay,-34.9082128,-55.0058244
+2367656502,Brisas del Este,,,Uruguay,-34.9186345,-54.9715038
+2367656506,Hostal de la Candelaria,,,Uruguay,-34.924878,-54.9635415
+2367656507,Best Western La Foret,,,Uruguay,-34.9447017,-54.9416758
+2367656512,B&B Hostel,,,Uruguay,-34.954335,-54.9375265
+2367656513,Tanger Hotel,,,Uruguay,-34.9572909,-54.9413445
+2367656517,Hotel Alhambra,,,Uruguay,-34.9604979,-54.9425832
+2367656518,Bonne Etoile,https://hotelbonneetoile.com/,,Uruguay,-34.9619734,-54.9452479
+2367656520,,,,Uruguay,-34.9623866,-54.9442732
+2367656521,Punta del Este Hostel,,,Uruguay,-34.9630634,-54.9426168
+2367656522,Hotel Iberia,,,Uruguay,-34.9626856,-54.9426408
+2367656523,Hotel San Martin,,,Uruguay,-34.9633231,-54.9423335
+2367656524,Hotel Playa Brava,,,Uruguay,-34.9626424,-54.9416613
+2384920140,Hotel Catedral,,Maldonado,Uruguay,-34.9081885,-54.9592738
+2384920141,Hotel Colonial,,Maldonado,Uruguay,-34.9085237,-54.9588377
+2392929362,Uruguay,,,Uruguay,-34.7906366,-54.9210747
+2397724458,Hotel 25 de mayo,,,Uruguay,-34.9093002,-54.9598798
+2451689621,L'auberge hotel,,,Uruguay,-34.9318832,-54.90559
+2477993110,Colonia Suite Art B&B Posada Boutique,,,Uruguay,-34.4710147,-57.8462757
+2477993117,Hotel Ayres Colonia,,,Uruguay,-34.4714875,-57.842852
+2477993122,Hotel Italiano,http://www.hotelitaliano.com.uy/,Colonia del Sacramento,Uruguay,-34.4721543,-57.8473315
+2477993125,Hotel Rivera,,,Uruguay,-34.4717839,-57.8439545
+2477993127,Le Vrero - Boutique Hotel,,,Uruguay,-34.4712823,-57.843254
+2477993133,Posada Boutique Las Terrazas,https://www.posadalasterrazas.com/,Colonia del Sacramento,Uruguay,-34.4723426,-57.8486447
+2477993139,Posada del Ángel,,Colonia del Sacramento,Uruguay,-34.472817,-57.8484328
+2479078393,Costa Colonia - Riverside Boutique Hotel,,,Uruguay,-34.4545734,-57.8451496
+2479078394,Days Inn Casa del Sol,,,Uruguay,-34.4453889,-57.7792549
+2479078395,Nova Posada,,,Uruguay,-34.4693645,-57.8446627
+2479078396,Posada Plaza Mayor,,,Uruguay,-34.4718614,-57.8525611
+2479078397,Unique Luxury Colony,,,Uruguay,-34.4534115,-57.8449955
+2483103671,Hotel Las Cumbres,,,Uruguay,-34.8488629,-55.0274495
+2501658654,Balmoral Plaza Hotel,https://www.balmoral.com.uy/,Montevideo,Uruguay,-34.9065459,-56.1918546
+2518788464,Hotel Romimar,https://www.hotelromimar.com.uy/,,Uruguay,-34.9609268,-54.941762
+2518788465,Sisai Hotel Boutique,https://www.sisai.com.uy/es/inicio,,Uruguay,-34.9417037,-54.9305056
+2529206470,Hotel Plaza,http://www.hotelplazaminas.com.uy,Minas,Uruguay,-34.3778383,-55.2389317
+2535807256,Hotel Aquarium,,,Uruguay,-34.9667277,-54.9504353
+2535807263,Hotel Puerto Las Palmas,,,Uruguay,-34.965676,-54.9519446
+2538237689,Gran Hotel Fray Bentos,https://www.granh.com/fray_bentos/,Fray Bentos,Uruguay,-33.1137117,-58.3149473
+2538237692,Plaza Hotel,,Fray Bentos,Uruguay,-33.1163885,-58.3122918
+2538246490,La Posada del Frayle Bentos,www.posadadelfraylebentos.com.uy,Fray Bentos,Uruguay,-33.1142211,-58.309442
+2570080597,Parque Oceánico,https://www.hotelparqueoceanico.com.uy/,,Uruguay,-33.9080244,-53.514212
+2577786969,My Suites Hotel,http://www.mysuites.com.uy/,Montevideo,Uruguay,-34.919623,-56.1510297
+2586917215,Posada del Virrey,,Colonia del Sacramento,Uruguay,-34.4700786,-57.8516853
+2588574250,Hotel Del Viajero,,,Uruguay,-34.9525833,-54.936598
+2588574253,Hotel Salto Grande,,,Uruguay,-34.9492188,-54.9347178
+2604336165,Del Pasaje Hotel,https://www.hoteldelpasaje.com/,Termas del Daymán,Uruguay,-31.4552687,-57.9090586
+2604336166,Del Pasaje Cabañas,,,Uruguay,-31.4532408,-57.9095035
+2604336168,Complejo Vacacional Termal Daymán,https://www.termaldayman.com.uy/,Termas Del Daymán,Uruguay,-31.4529669,-57.9112582
+2604381103,Hotel Village,https://www.hotelvillage.com.uy/,Termas Del Daymán,Uruguay,-31.4546465,-57.9082284
+2604381119,Del Pasaje Apart Hotel,,,Uruguay,-31.4551751,-57.9082623
+2613545769,La Posta del Daymán,https://www.lapostadeldayman.com/,,Uruguay,-31.4558386,-57.9103591
+2613545780,Vacacional Daymán,https://vacacionaldaymansm.com,Termas del Daymán,Uruguay,-31.458308,-57.9063002
+2618477851,The Smalleast Hotel,www.thesmalleasthotel.com,Punta del Este,Uruguay,-34.9684431,-54.9505751
+2635879562,Hotel Del Campo,http://www.hoteldecampoflores.com/galeria.html,,Uruguay,-33.4765493,-57.0133823
+2636950280,Apart Hotel Aguasol,https://www.aguasol.com.uy/,Termas del Daymán,Uruguay,-31.4581177,-57.9068802
+2643881504,Via Park,,,Uruguay,-34.7673966,-55.7186074
+2674621319,Casa de la Teresa,,,Uruguay,-34.4632769,-57.8406328
+2732929110,La Capilla,http://www.lacapilla.com.uy/,,Uruguay,-34.9397204,-54.9176621
+2732929113,San Marcos,,,Uruguay,-34.9410669,-54.9165656
+2732941816,Hosteria del Parque,http://www.hosteriadelparque.com.uy,San José,Uruguay,-34.3323489,-56.7286798
+2735343147,Alcazar,,,Uruguay,-34.868887,-55.2733028
+2735343149,Colón,http://www.hotelcolonpiriapolis.com/,Piriàpolis,Uruguay,-34.8704592,-55.2745964
+2748075237,Hotel Laín,,Cerro Chato,Uruguay,-33.1083886,-55.132944
+2748372366,Hotel Verdún,https://hotelverdun.com/,Minas,Uruguay,-34.3783504,-55.2380893
+2775072330,,,,Uruguay,-33.2315897,-54.3869367
+2786625508,Hospedaje Terminal,,,Uruguay,-34.7936659,-54.9226969
+2790405846,Apart Hotel Beira Mar,,,Uruguay,-34.9089282,-55.0160644
+2790405962,Hostería Bella Vista,,,Uruguay,-34.8038992,-55.3599482
+2790406059,Playa Grande Hotel,,,Uruguay,-34.8529739,-55.2992823
+2804978014,Hotel Brava Mar,,,Uruguay,-34.953774,-54.9332085
+2816515206,Hotel 33,,Treinta y Tres,Uruguay,-33.2295166,-54.3873444
+2826557308,Hotel Trocadero,,Rocha,Uruguay,-34.4800703,-54.3361846
+2830357789,Posada del Fortín de San Miguel,https://elfortin.com/,,Uruguay,-33.6841367,-53.5443007
+2830384474,Apart Hotel L´Chalet,,,Uruguay,-34.9240058,-54.9624298
+2830384491,Posada de la Ballena,,,Uruguay,-34.9126638,-54.9644785
+2830628616,La Perla del Cabo,https://laperladelcabo.com/restaurante/,Cabo Polonio,Uruguay,-34.4025252,-53.7782441
+2842140912,Hotel Arrarte,,Rocha,Uruguay,-34.4815927,-54.3366337
+3021867690,Hostal del Espinillo,www.hostaldelespinillo.com,,Uruguay,-33.5196758,-58.221366
+3022558165,Hotel Argon,,Dolores,Uruguay,-33.529143,-58.2160485
+3026054824,Hotel Romi,,,Uruguay,-34.4696156,-57.8437654
+3027295723,Hotel Casino Carmelo,http://www.hotelcasinocarmelo.com/,,Uruguay,-34.0110203,-58.2893938
+3027499300,Los Muelles Boutique Hotel,,,Uruguay,-34.0035312,-58.2890402
+3047642669,Gran Hotel Flores,,Trinidad,Uruguay,-33.5171002,-56.8985572
+3047642674,Maxim,,,Uruguay,-33.5198233,-56.8967004
+3128261290,Hotel Aramaya,http://www.hotelaramaya.com.uy,Montevideo,Uruguay,-34.9058353,-56.1922667
+3140197229,Centanario,,,Uruguay,-34.7724351,-55.7635481
+3140197338,Argentino,,,Uruguay,-34.7726257,-55.7632209
+3140223809,Paradise,,,Uruguay,-34.7774533,-55.7615459
+3197571863,AK design hotel,,,Uruguay,-34.9069667,-56.2107992
+3197655861,Hotel Palacio,,Montevideo,Uruguay,-34.9063117,-56.2020851
+3200111661,Alvear,,Montevideo,Uruguay,-34.9052772,-56.1890262
+3218993194,A mi gente,,,Uruguay,-34.1991115,-53.8593569
+3225102921,Mi Pueblo,,,Uruguay,-33.8687215,-58.4142966
+3277753328,Cabo Santa María,,,Uruguay,-34.665116,-54.1555736
+3277753329,Palma de Mallorca,,,Uruguay,-34.6414932,-54.1557926
+3277753331,Portobello,http://www.hotelportobello.com.uy/,La Paloma,Uruguay,-34.6609363,-54.1752513
+3277753334,Sotavento,http://www.sotaventoaparthotel.com/,La Paloma,Uruguay,-34.6602037,-54.1762782
+3277772787,San Pedro de Timote,https://www.sanpedrodetimote.com/,,Uruguay,-33.788207,-55.6715521
+3295641355,Paraty Complejo Turístico,,,Uruguay,-34.7717646,-55.5937881
+3304738172,Hosepdaje La Calma,,,Uruguay,-33.9004942,-53.5132952
+3334432507,Hotel Mercedes Rambla,,Mercedes,Uruguay,-33.245231,-58.0308245
+3446955076,Hotel Suizo,,Nueva Helvecia,Uruguay,-34.3152103,-57.2318899
+3467701409,Punta Trouville Hotel,,,Uruguay,-34.9181255,-56.149495
+3487936333,Hotel Eldorado,https://eldoradosalto.com/,Salto,Uruguay,-31.3876204,-57.9670389
+3623780071,Ricadi Hotel,http://www.hotelricadi.com,Piriàpolis,Uruguay,-34.8731829,-55.2762554
+3635651031,Hotel del Prado,,,Uruguay,-34.2997521,-57.230042
+3671145126,Pueblo Chico Agroturismo Hotel,,,Uruguay,-34.7417621,-55.6544025
+3808590091,Hotel Papiros,,,Uruguay,-32.3149647,-58.1001462
+3830607364,Hotel Otras Hierbas,,El Pejerrey,Uruguay,-34.8576307,-55.1226963
+3830607366,Estancia Tierra Buena,,,Uruguay,-34.8500395,-55.1173482
+3838286004,Brisas del Sur,,,Uruguay,-34.8586416,-55.1229885
+3858825290,El Balcón del Abra,https://www.elbalcondelabra.com/,,Uruguay,-34.0222655,-54.7459524
+3874237902,Massini Suites,http://www.massinisuites.uy,Montevideo,Uruguay,-34.9108077,-56.1495742
+3917107989,Hosteria Fortín de Santa Rosa,,,Uruguay,-34.7726262,-55.8053064
+3958661285,La Posta del Cangrejo,https://www.lapostadelcangrejo.com/,,Uruguay,-34.9157839,-54.8575517
+3962864575,Hotel Salzburgo,https://www.hotelsalzburgo.com/,,Uruguay,-34.9389572,-54.9284174
+3962865727,The Grand Hotel,https://www.puntagrand.com/,,Uruguay,-34.9448119,-54.9200958
+3996251081,Hotel Plaza,,Paysandú,Uruguay,-32.3183123,-58.0814707
+3996251084,Casa Grande,,Paysandú,Uruguay,-32.3165805,-58.0807733
+4105317889,Hotel Puerto,,,Uruguay,-34.9612284,-54.9433524
+4119113191,Regency Rambla,http://www.regencyrambla.com.uy/,Montevideo,Uruguay,-34.8979014,-56.0635506
+4119230989,Regency Park Hotel,https://www.regency.com.uy,,Uruguay,-34.7892525,-56.0795671
+4119717798,Pocitos Plaza,,Montevideo,Uruguay,-34.9204089,-56.1512972
+4145239389,AXSUR,https://www.axsurhotel.com/,Montevideo,Uruguay,-34.9093446,-56.2050299
+4192741789,Brisas del Hum,https://www.granh.com/brisas_mercedes/inicio.asp,Mercedes,Uruguay,-33.2478419,-58.0296007
+4207152876,Hilton Garden Inn,https://www.hiltonhotels.com/es_XM/uruguay/hilton-garden-inn-montevideo/,Montevideo,Uruguay,-34.9032315,-56.1354827
+4231064795,Esplendor,,,Uruguay,-34.9083743,-56.1976454
+4240195789,Colonial,,Fray Bentos,Uruguay,-33.1159441,-58.3117794
+4251823319,Arapey Oasis Termal,,,Uruguay,-30.9465522,-57.5214869
+4254250368,Hotel Colón,,Mercedes,Uruguay,-33.2473182,-58.0308351
+4255482663,Mar del Plata,,Montevideo,Uruguay,-34.8960312,-56.1019131
+4257200037,Casa Suaya,https://www.casasuaya.com/,José Ignacio,Uruguay,-34.823032,-54.6189538
+4257200038,Estancia Vik,http://estanciavikjoseignacio.com/,,Uruguay,-34.7838764,-54.6978772
+4265480083,Oriental,,Santa Lucía,Uruguay,-34.4492224,-56.3984768
+4282909626,Bulevar General Artigas,,Paysandú,Uruguay,-32.3181057,-58.0705298
+4290713091,Marín,,,Uruguay,-33.2498359,-58.0319688
+4319632575,Don Joaquín,http://www.donjoaquin.com,,Uruguay,-34.4035713,-56.9904224
+4331481558,Posada de la Viuda,https://posadadelaviuda.com/,Punta del Diablo,Uruguay,-34.0463032,-53.5546003
+4398228289,Martín Pescador,https://www.mpescador.com/,,Uruguay,-34.3291813,-54.8314569
+4401556717,Martí,http://www.martiaparthotel.com.uy,Montevideo,Uruguay,-34.9118,-56.1494632
+4409466849,La Casa de la Luna,,,Uruguay,-34.5765084,-54.1242527
+4409479566,Posada Irsis,,Punta Rubia,Uruguay,-34.5784535,-54.1271785
+4409479567,posada Las Luciernagas,,Punta Rubia,Uruguay,-34.5830626,-54.12913
+4421990736,Hotel Conchillas,http://www.hotelconchillas.com.uy,Conchillas,Uruguay,-34.1637948,-58.0065743
+4463875984,Residence Inn,,Rocha,Uruguay,-34.4819282,-54.3355938
+4468385790,Hostel Mundaka,,,Uruguay,-34.9023255,-54.8749971
+4510242194,Hotel Crown,,Melo,Uruguay,-32.3701876,-54.1708521
+4518853741,Posada El Galope,,,Uruguay,-34.3248061,-57.1842005
+4523577765,Hotel Sol de Las Cañas,,,Uruguay,-33.1615107,-58.356726
+4523694772,Hotel Nueva Palmira,,,Uruguay,-33.8851524,-58.3812364
+4525627499,Casablanca,,Montevideo,Uruguay,-34.9069594,-56.1938103
+4530484919,Oxford Hotel,https://www.hoteloxford.com.uy/,Montevideo,Uruguay,-34.9072909,-56.1922468
+4539426690,Nuevo Hotel Rafaela,,,Uruguay,-32.3171089,-58.0821638
+4540541729,Alma Histórica Boutique Hotel,https://www.almahistoricahotel.com/,Montevideo,Uruguay,-34.9070944,-56.2086221
+4558402116,Salto Hotel y Casino,https://www.saltohotelcasino.com/,Salto,Uruguay,-31.3882081,-57.9596752
+4570124294,Nuevo Hotel Plaza,,,Uruguay,-33.6942347,-53.455553
+4583543389,Casa Los Jazmines,https://www.casalosjazmines.com/,,Uruguay,-34.3931039,-57.8828909
+4600196089,,,,Uruguay,-34.0422168,-53.5521981
+4624420093,Complejo Arenisca,http://www.arenisca.com.uy,,Uruguay,-34.7976807,-55.3821998
+4628721760,Posada del Barco,,La Pedrera,Uruguay,-34.5925667,-54.1235684
+4628779783,Terrazas de la Pedrera Appart Hotel,http://terrazasdelapedrera.com,La Pedrera,Uruguay,-34.588725,-54.1237452
+4628785204,Hotel La Pedrera,,La Pedrera,Uruguay,-34.5880802,-54.1241298
+4628900324,,https://www.brisasdelapedrera.com/,La Pedrera,Uruguay,-34.5909204,-54.1229306
+4646669908,Hotel dazzler,,,Uruguay,-34.4482256,-57.8522027
+4672330304,Hotel Bahía Centro,,Colonia del Sacramento,Uruguay,-34.4706477,-57.846278
+4683873025,Las Eduardas Apart Hotel,http://www.laseduardasaparthotel.com.uy/,La Paloma,Uruguay,-34.6597307,-54.1781648
+4683873026,Hotel de la Torre,https://www.elhoteldelatorre.com.uy/,La Paloma,Uruguay,-34.6590776,-54.1808818
+4684980396,Hotel Perla Del Plata,http://www.perladelplata.com.uy/,Colonia del Sacramento,Uruguay,-34.4721387,-57.8483993
+4690329400,,,,Uruguay,-32.6140471,-55.8331321
+4698277792,Gala Vista Building,,,Uruguay,-34.942715,-54.9309409
+4752104722,Hotel Oriente,,Bella Unión,Uruguay,-30.2601781,-57.6022497
+4753051469,Salinas del Almirón,https://www.salinasdelalmiron.com/,Termas de Almirón,Uruguay,-32.3595678,-57.2729644
+4777755127,Nuevo Hotel Ciudadela,,Colonia del Sacramento,Uruguay,-34.471444,-57.8480446
+4794548990,Gran Hotel Uruguay,https://www.hoteluruguay.com/,Salto,Uruguay,-31.3864867,-57.9641383
+4808020521,Esmeralda,,,Uruguay,-34.868179,-55.2744141
+4870817529,Rincón del Bonete,,,Uruguay,-32.8354385,-56.4265484
+4873153121,Hotel París,,,Uruguay,-32.3179336,-58.0862971
+5060238004,Gran Hotel Concordia,,,Uruguay,-31.3872378,-57.9661186
+5064405799,Vivaldi,https://www.vivaldihotel.uy/,,Uruguay,-34.9203345,-56.1565527
+5087180041,Hotel Carlos Gardel,https://www.hotelcarlosgardel.com/,Tacuarembó,Uruguay,-31.7300918,-55.9731247
+5096145885,Hotel Mercėdes,,,Uruguay,-33.2478898,-58.0316271
+5096268029,Hotel Dolores,,Dolores,Uruguay,-33.530862,-58.2157564
+5096268030,Hospedaje Abril,,,Uruguay,-33.5220896,-58.2244741
+5096268034,Hospedaje Casa Blanca,,,Uruguay,-33.5347925,-58.2099339
+5096637308,Hotel Uruguay,,Nueva Palmira,Uruguay,-33.8697462,-58.4149258
+5146327721,Aloft Montevideo Hotel,https://www.starwoodhotels.com/alofthotels/property/overview/index.html?propertyID=3852,Montevideo,Uruguay,-34.9246596,-56.1576252
+5163659429,Horacio Quiroga,,,Uruguay,-31.2733264,-57.9222079
+5191944225,Hotel Centro,,San José,Uruguay,-34.3418659,-56.7126888
+5200015523,Hotel Orange,,Tacuarembó,Uruguay,-31.7149723,-55.9811684
+5200038322,Plaza Hotel,,,Uruguay,-31.714045,-55.9821092
+5239874153,"Posada ""El Errante""",,,Uruguay,-32.364706,-54.1597163
+5256163768,,,,Uruguay,-30.2591143,-57.598313
+5256163770,Hotel Del Norte,,Artigas,Uruguay,-30.4033302,-56.4680161
+5257721338,,,Rivera,Uruguay,-30.8982198,-55.5398185
+5257721339,,,Rivera,Uruguay,-30.8981153,-55.5387528
+5257721340,,,Rivera,Uruguay,-30.8983104,-55.5372141
+5257740400,Petit Hotel Rivera,,Rivera,Uruguay,-30.9009519,-55.5463644
+5257740401,Posada Lunareja,,Tranqueras,Uruguay,-31.1677494,-55.8774639
+5257740402,Hotel Español Salto,,Salto,Uruguay,-31.3865699,-57.9646828
+5257751550,Hotel San Jacinto,,San Jacinto,Uruguay,-34.5433538,-55.8689336
+5257751551,,,Tala,Uruguay,-34.3459125,-55.7618687
+5257779820,,,Atlántida,Uruguay,-34.7733236,-55.7639225
+5257781621,,,Atlántida,Uruguay,-34.7730063,-55.7633243
+5257781622,,,Piriápolis,Uruguay,-34.8613463,-55.280281
+5257781623,Hotel Tamariz,,Piriápolis,Uruguay,-34.8704976,-55.2735926
+5257848446,,,Pan de Azúcar,Uruguay,-34.7749194,-55.2246326
+5263893044,,,Aguas Dulces,Uruguay,-34.2776465,-53.7801035
+5263910539,,,Castillos,Uruguay,-34.2007271,-53.8588255
+5263910540,,,Chuy,Uruguay,-33.6941864,-53.4560537
+5263959614,,,,Uruguay,-33.4566449,-54.5272735
+5263970292,,,Vergara,Uruguay,-32.9388085,-53.9386074
+5263970293,,,Treinta y Tres,Uruguay,-33.2291336,-54.3884971
+5263997378,Hotel Minas,https://www.hotelminas.com/,Minas,Uruguay,-34.3771229,-55.2371083
+5264070491,,,Casupá,Uruguay,-34.1012642,-55.6537686
+5267837073,,,Melo,Uruguay,-32.3744322,-54.1682352
+5267837074,,,Vichadero,Uruguay,-31.7769983,-54.6891087
+5267837075,,,Minas de Corrales,Uruguay,-31.5716081,-55.4704912
+5267837076,,,Tacuarembó,Uruguay,-31.7156036,-55.9813584
+5267859556,,,Tacuarembó,Uruguay,-31.7102299,-55.9773137
+5267859557,,,Tacuarembó,Uruguay,-31.7107638,-55.9768819
+5267859558,"Hotel ""que Luna""",,Santa Clara de Olimar,Uruguay,-32.9221041,-54.9453182
+5267884573,,,La Paloma,Uruguay,-32.7273472,-55.5752938
+5267884574,,,Sarandí del Yí,Uruguay,-33.3407572,-55.6297038
+5267901814,,,,Uruguay,-31.9360989,-57.8992403
+5267901816,,,Paysandú,Uruguay,-32.3168766,-58.0838503
+5267911830,,,,Uruguay,-32.3187389,-58.0766611
+5267911831,Hospedaje Pingui,,Paso de los Toros,Uruguay,-32.8113383,-56.5131077
+5267911832,,,Paso de los Toros,Uruguay,-32.8131236,-56.5098662
+5267911833,,,Durazno,Uruguay,-33.3815677,-56.5238199
+5267946934,,,Guichón,Uruguay,-32.3572838,-57.203306
+5267946935,,,Young,Uruguay,-32.7026601,-57.6332845
+5270018635,,,Trinidad,Uruguay,-33.5178214,-56.8993163
+5270031934,,,San José,Uruguay,-34.3366631,-56.7264838
+5270093572,,,Juan Lacaze,Uruguay,-34.4383999,-57.4333111
+5270105149,,,,Uruguay,-34.3131322,-57.3545572
+5270105150,,,,Uruguay,-34.3121891,-57.348209
+5277779389,,,Cardona,Uruguay,-33.8708882,-57.3674285
+5277779390,,,Colonia del Sacramento,Uruguay,-34.4671729,-57.8430168
+5277840968,,,Carmelo,Uruguay,-34.0032026,-58.2859713
+5277840969,Hotel Urbano,,Carmelo,Uruguay,-33.999218,-58.2828124
+5277840970,,,Nueva Palmira,Uruguay,-33.8713741,-58.4096519
+5277886033,El Sauzal,,Nuevo Berlín,Uruguay,-32.9795134,-58.0624493
+5277896422,,,San Javier,Uruguay,-32.6673338,-58.136827
+5281682300,Hotel Alcazaba,,Montevideo,Uruguay,-34.8963361,-56.1661683
+5286004798,Days Inn Montevideo,https://www.daysinn.com.uy/,Montevideo,Uruguay,-34.8934765,-56.167652
+5316924046,Danaly,,Salto,Uruguay,-31.3862164,-57.9478165
+5349123381,Josephine,http://josephinehotel.com/,Punta del Este,Uruguay,-34.927381,-54.9490616
+5402532521,el jardin volador,,,Uruguay,-34.3330133,-53.7928586
+5414678621,Hotel Artigas,http://www.hotelartigas.com.uy,,Uruguay,-31.5708075,-55.4709593
+5419115993,Hotel Uruguay,,Artigas,Uruguay,-30.4038915,-56.4637391
+5436455521,Hostel Lo de Alejo,,,Uruguay,-34.3978079,-53.7845382
+5438585738,Ramón Correa,,,Uruguay,-30.4040165,-56.4639988
+5446732353,Embeleco,,,Uruguay,-34.6620508,-54.1544242
+5446732359,Proa Sur,,,Uruguay,-34.666313,-54.1547897
+5452408111,Hotel Dollar,,,Uruguay,-34.9529389,-54.9339586
+5459645711,Yiwu,,,Uruguay,-33.693491,-53.4565281
+5480530424,Del Litoral,,,Uruguay,-33.2495148,-58.032764
+5480530939,Hotel Ito,,,Uruguay,-33.2476677,-58.0330676
+5501800101,Own Montevideo,https://www.ownhotels.com/montevideo/,Montevideo,Uruguay,-34.926309,-56.1602058
+5501808067,Opta Coliving,https://www.opta.com.uy/,Montevideo,Uruguay,-34.9282183,-56.1606033
+5501818388,BIT Design,https://bitdesignhotel.com/,Montevideo,Uruguay,-34.9245936,-56.1608789
+5501820903,Oliva,http://olivahotel.com/,Montevideo,Uruguay,-34.9236875,-56.161011
+5503940465,Hotel Terminal,,Artigas,Uruguay,-30.4042075,-56.4652106
+5533721273,Don Boutique Hotel,http://www.donhotelmontevideo.com.uy/,Montevideo,Uruguay,-34.9062076,-56.2115703
+5534879848,25 de mayo,,,Uruguay,-33.1145827,-58.3101116
+5700816410,Hospedaje Atlántico,,,Uruguay,-33.6948681,-53.4566586
+5700816414,Alerces,,,Uruguay,-33.6960979,-53.4561576
+5700818424,International,,,Uruguay,-33.6927274,-53.4585312
+5709877223,Hotel Los Ángeles,,Montevideo,Uruguay,-34.9063161,-56.1952373
+5721428130,Orpheo,,,Uruguay,-34.9045746,-56.1984017
+5727950639,Posada Bouqueron,,,Uruguay,-31.172719,-55.9137769
+5727950660,Hospedaje El Caudillo,,,Uruguay,-31.1744857,-55.9038451
+5732586100,Posada Mediterráneo,,,Uruguay,-32.8100189,-56.5135539
+5732586101,Hotel Sayonara,,,Uruguay,-32.813371,-56.5099164
+5732586104,Las Calas Homestay,,,Uruguay,-32.809142,-56.5137176
+5732586105,Hotel Italiana,,,Uruguay,-32.8137129,-56.5103468
+5732664681,,,,Uruguay,-31.7623393,-55.9950761
+5893603585,Hotel Bakari,,,Uruguay,-34.8699208,-55.2746617
+5920651485,Hotel El Galeon,,,Uruguay,-32.6986183,-57.6316927
+5940887534,Lumminis Resort & Spa,,,Uruguay,-34.424217,-57.592082
+5940891844,Hosteria Don Guillermo,,,Uruguay,-34.4242244,-57.5935544
+6008597464,Richmond,,Montevideo,Uruguay,-34.9071528,-56.1940149
+6072907787,Hospeda San Carlos,,,Uruguay,-34.3374781,-56.7138819
+6267838086,Complejo del Barranco,http://complejodelbarranco.com/,,Uruguay,-34.5893931,-54.1288097
+6329798086,hotel porto bari,,,Uruguay,-34.9400289,-54.9132392
+6698985441,Hotel Montoya,,,Uruguay,-34.9152912,-54.8544691
+6936063737,Spa Alive,https://puntadeleste.org/sitio/spa-alive-punta-del-este-health-spa-resort/,Punta Ballena,Uruguay,-34.8603732,-55.0620964
+7010044977,Cerro Místico,,,Uruguay,-34.4465405,-55.2332291
+7164666085,Casa Satori,,,Uruguay,-34.3385129,-53.790887
+7292709267,Santoral,,,Uruguay,-34.7762298,-55.7619155
+7636323318,Zen Apart Hotel,,,Uruguay,-34.6588449,-54.1837707
+7934288958,Armonía,,Termas Del Daymán,Uruguay,-31.4468246,-57.9145589
+7934288959,Posada Los Espinillos,,Termas Del Daymán,Uruguay,-31.4466357,-57.9122586
+9029766040,Meson de las cañas,http://www.elmeson.com.uy/,,Uruguay,-34.3229182,-54.9906891
+9538557117,,,,Uruguay,-34.0382157,-53.5439489
+9550871217,Hotel Leoncia,,,Uruguay,-34.4701681,-57.8437727
+9550871517,Hotel Leoncia,,,Uruguay,-34.4701735,-57.8437623
+9552424117,Hispanico hotel,,,Uruguay,-34.906915,-56.1970334
+9634654424,Posada Don Vasco,https://donvasco.com.uy/,,Uruguay,-31.8497221,-57.8797253
+9791167755,Coliving Zag Pocitos,https://www.zag.uy/zag-pocitos/,Montevideo,Uruguay,-34.9172085,-56.1505048
+9952995819,Piedra de las animas,,,Uruguay,-34.7159322,-55.3112358
+10099058817,Hotel Rivamare,,,Uruguay,-33.8905474,-53.5064962
+10099058818,Ex Hotel Castello a Mare,,,Uruguay,-33.8899438,-53.507115
+10101219627,Hotel Mesón (abandonado),,,Uruguay,-33.8942051,-53.5078662
+10101238028,Hotel Costas del Mar (abandonado),,,Uruguay,-33.888995,-53.5053873
+10101893928,Posada Aluc,,,Uruguay,-33.6971959,-53.4454838
+10126269796,Hotel Santa Cristina,http://santacristina.uy/hotel/,Durazno,Uruguay,-33.4314176,-56.4930811
+10605195711,Sansueña hostal y campamento,,,Uruguay,-32.6147747,-55.8367239
+10649786605,Viola,,,Uruguay,-34.6612073,-54.1555459
+10832516773,Royal Hotel,https://www.hotelroyal.com.uy/,Colonia del Sacramento,Uruguay,-34.4706736,-57.847593
+10908219831,Hotel Fasano,https://www.fasano.com.br/hoteis/fasano-punta-del-este,,Uruguay,-34.8449487,-54.890855
+10998181217,Posada del Bosque,http://www.posadadelbosquerivera.com/,,Uruguay,-30.9028961,-55.5142662
+10998194753,Posada Altos del Aguila,,,Uruguay,-30.8730661,-55.5559758
+11025904218,Hotel Sheraton Colonia,,,Uruguay,-34.4363031,-57.8786404
+11041750179,Lomas del Real Aparthotel,,,Uruguay,-34.4317233,-57.8701556
+11055594748,Hotel de la Barra,,,Uruguay,-34.915319,-54.8531424
+11060834205,dunas del este,,,Uruguay,-34.8975427,-55.2478355
+11084221228,Gema Luxury Suites,,Montevideo,Uruguay,-34.920068,-56.1521737
+11084221229,Mercure Hotel,,Montevideo,Uruguay,-34.9251312,-56.1555262
+11086839389,Terrazas de San Francisco,https://www.terrazasdesanfrancisco.com,,Uruguay,-34.8880916,-55.2774462
+11088297089,Hosteria Uruguay,https://www.hosteriauruguay.com/,,Uruguay,-34.8676723,-55.2703545
+11088297090,Colonial,,,Uruguay,-34.8713098,-55.2748355
+11100438749,,https://crystaltowerhotel.com.uy/,Montevideo,Uruguay,-34.906237,-56.1880525
+11114546259,Merit Montevideo Apart & Suites,https://www.amerian.com/hotel/merit-montevideo-apart-suites,Montevideo,Uruguay,-34.9139858,-56.1529557
+11115412008,Ciudadano Suites,https://ciudadanosuites.uy,Montevideo,Uruguay,-34.8928112,-56.1666182
+11115417077,Tres Cruces,https://www.hoteltrescruces.com.uy/,Montevideo,Uruguay,-34.8919785,-56.1674818
+11115458101,Mercosur Universitas,https://mercosuruniversitas.com/,Montevideo,Uruguay,-34.8929374,-56.1634951
+11182097439,"SORO Montevideo, Curio Collection",,Montevideo,Uruguay,-34.9173817,-56.1501474
+11300918966,Smart Hotel Montevideo,,,Uruguay,-34.9084649,-56.1977653
+11418078094,La Perla del Cabo,https://laperladelcabo.com/hotel/,Cabo Polonio,Uruguay,-34.4025596,-53.7783713
+11575255861,Aloe Village,,,Uruguay,-34.6566644,-54.1952375
+11575255862,Serena Suites,,,Uruguay,-34.6568497,-54.1952348
+11575255863,Posada del Corumba,https://posadadelcorumba.com/,,Uruguay,-34.6568321,-54.1956559
+11772411061,Vista Hotel,,,Uruguay,-34.76206,-55.6730398
+12024077279,Hotel Laguna Merín,https://hotellagunamerin.com.uy,Lago Merín,Uruguay,-32.7449062,-53.2602167
+12397033701,PatioUrbano Suites&Beds,,,Uruguay,-34.9055333,-56.1504279
+12479588343,Altos de la Serena,https://altosdelaserena.com/,,Uruguay,-34.6574708,-54.2026015
+12479603215,The Beach La Paloma,https://www.thebeach-lapaloma.com/,La Paloma,Uruguay,-34.6585552,-54.1896316
+12577061488,La Bluette,,,Uruguay,-34.910883,-54.8439927
+12614488568,Atlántico Hotel,,,Uruguay,-34.8666659,-55.2766173
+12614683149,Danae Hotel,,,Uruguay,-34.8654665,-55.2774859
+12614723681,Hotel Timbó,,,Uruguay,-34.8675968,-55.2754569
+12614854458,City Hotel,,,Uruguay,-34.8655848,-55.2773919
+12614864494,Hotel Rivadavia,,,Uruguay,-34.8662767,-55.276913
+12614884419,Wiener House,,,Uruguay,-34.8680075,-55.2742734
+12629111101,Hotel Aramburu,,,Uruguay,-34.8827547,-56.182111
+12637227201,Hospedaje Carlitos,,,Uruguay,-34.7933141,-54.9235744
+12638547801,Hotel Doña Vero,,,Uruguay,-34.4813761,-54.3369599
+12639681301,NG Hotel,,,Uruguay,-34.4816997,-54.334735
+12698744443,Termas Day,http://www.hoteltermasday.com/,Termas Del Daymán,Uruguay,-31.4582541,-57.9072211
+12698812784,Jardines de Daymán,https://jardinesdedayman.com/,Termas Del Daymán,Uruguay,-31.4572651,-57.9081569
+12698812789,El Mirador,https://www.miradordeldayman.com.uy/,Termas Del Daymán,Uruguay,-31.4569485,-57.9063859
+12698812790,Solar del Acuario,https://www.solardelacuario.com/,Termas Del Daymán,Uruguay,-31.4567194,-57.9067551
+12699425516,Complejo Termal Juanjo Ramos,,,Uruguay,-31.456546,-57.906305
+12699425517,Geminis Apart Hotel,,Termas Del Daymán,Uruguay,-31.4577678,-57.9069733
+12779135601,Hotel Urbano,,,Uruguay,-34.9037981,-56.1985329
+12779752005,Mon Petit,https://www.monpetithotelboutiquedecampo.com/,Rosario,Uruguay,-34.3357598,-57.3318851
