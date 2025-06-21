@@ -4,6 +4,8 @@ import time
 from duckduckgo_search import DDGS
 from urllib.parse import urlparse
 
+print("🚀 Iniciando proceso de enriquecimiento con DuckDuckGo...")
+
 # Cargar CSV original
 csv_path = os.path.join(os.path.dirname(__file__), "hoteles_para_duck.csv")
 df = pd.read_csv(csv_path)
@@ -17,6 +19,7 @@ for i in range(1, 11):
     if col not in df.columns:
         df[col] = ""
     df[col] = df[col].astype(str)
+    print(f"🔍 Procesando fila {idx}: {row['nombre']} ({row['ciudad']}, {row['pais']})")
 
 ddgs = DDGS()
 
