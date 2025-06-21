@@ -1,10 +1,12 @@
+import os
 import pandas as pd
 import time
 from duckduckgo_search import DDGS
 from urllib.parse import urlparse
 
 # Cargar CSV original
-df = pd.read_csv("scraper_latam/hoteles_latam/hoteles_para_duck.csv")
+csv_path = os.path.join(os.path.dirname(__file__), "hoteles_para_duck.csv")
+df = pd.read_csv(csv_path)
 
 # Filtrar solo hoteles sin URL principal
 df = df[df['url_principal'].isna()]
