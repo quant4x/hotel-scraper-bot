@@ -9,6 +9,7 @@ print("🚀 Iniciando proceso de enriquecimiento con DuckDuckGo...")
 # Cargar CSV original
 csv_path = os.path.join(os.path.dirname(__file__), "hoteles_para_duck.csv")
 df = pd.read_csv(csv_path)
+print("🔍 CSV cargado correctamente. Iniciando procesamiento de filas...")
 
 # Filtrar solo hoteles sin URL principal
 df = df[df['url_principal'].isna()]
@@ -19,7 +20,6 @@ for i in range(1, 11):
     if col not in df.columns:
         df[col] = ""
     df[col] = df[col].astype(str)
-    print(f"🔍 Procesando fila {idx}: {row['nombre']} ({row['ciudad']}, {row['pais']})")
 
 ddgs = DDGS()
 
@@ -43,6 +43,7 @@ def obtener_urls(query, max_urls=10):
 
 # Procesar por fila
 for idx, row in df.iterrows():
+    print(f"🔍 Procesando fila {idx}: {row['nombre']} ({row['ciudad']}, {row['pais']})")
     if pd.isna(row["url_principal"]):
         query = f"{row['nombre']}, {row['ciudad']}, {row['pais']}"
         print(f"🔍 Buscando URLs para: {query}")
