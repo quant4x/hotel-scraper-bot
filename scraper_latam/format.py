@@ -1,12 +1,13 @@
 import pandas as pd
-import re
 
-df = pd.read_csv('lodgings.csv')
+df = pd.read_csv('lodging_urls.csv')
 
-# Limpiar la columna 'name' dejando solo un espacio entre palabras
-df['name'] = df['name'].astype(str).apply(lambda x: re.sub(r'\s+', ' ', x).strip())
+# Si la columna no existe, la crea como string vacía
+if 'instagram' not in df.columns:
+    df['instagram'] = ''
 
-df.to_csv('lodgings.csv', index=False)
-print("Columna 'name' limpiada correctamente.")
+# Convertir a string y reemplazar 'nan' y NaN por cadena vacía
+df['instagram'] = df['instagram'].astype(str).replace(['nan', 'NaN'], '')
 
-print("\n⚠️ Si ejecutas este script mientras otro proceso está leyendo o escribiendo 'lodgings.csv', podrías causar errores o corrupción de datos. Es recomendable ejecutar este tipo de cambios solo cuando ningún otro proceso esté usando el archivo.")
+df.to_csv('lodging_urls.csv', index=False)
+print("Columna 'instagram' convertida a string y limpiada de valores nulos.")
